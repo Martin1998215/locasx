@@ -533,10 +533,11 @@ with col1:
    st.warning("**What lodges are there? ---**")
 
 with col2:
-   st.warning("**what Restaurants are there? ---**")
+   st.warning("**what Restaurants are there?**")
 
 with col3:
-   st.warning("**what are the room prices for lodge X? or what are the food prices for restaurant X? ---**")
+   st.warning("**Tell me more about Lodge X?**")
+	
 
 col4, col5 = st.columns(2)
 
@@ -544,7 +545,7 @@ with col4:
    st.warning("**What lodges are there in area X eg Highlands, Nottie Brodie? ---**")
 
 with col5:
-   st.warning("**Tell me more about Lodge X? ---**")
+   st.warning("**what are the room prices for lodge X? or what are the food prices for restaurant X? ---**")
  
 
 st.write('---') 

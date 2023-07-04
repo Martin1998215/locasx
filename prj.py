@@ -536,7 +536,7 @@ with col2:
    st.warning("**what Restaurants are there?**")
 
 with col3:
-   st.warning("**Tell me more about Lodge X?**")
+   st.warning("**what services are offered at Lodge X? eg Kaazimein lodge**")
 	
 
 col4, col5 = st.columns(2)

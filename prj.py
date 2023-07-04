@@ -493,9 +493,8 @@ with tab1:
 
 
    	st.write("""
-        - Accommodation
-        - Restaurant
-        - Conferences
+        - Travel
+        - Hospitality
 		""")
 
 with tab2:
@@ -504,9 +503,6 @@ with tab2:
         - Flavors Pub & Grill.
         - Livingstone Lodge
         - Chappa classic lodge
-        - Kaazimein Lodge
-        - Mosi O Tunya Executive Lodge
-        - White Rose Lodge
 		""")        
 
 
@@ -515,7 +511,7 @@ with tab3:
     st.write("""
 
         - This is an AI chatbot powered by a large language model that has info on lodges and restaurants 
-        we partnered with... check out our partners from our side bar.. 
+        we partnered with... check out our partners.. 
         - our goal is help improve your travel experience as you visit livingstone,
         by providing you with our AI assistant to help you where to find 
         accommodation or a restaurant.
@@ -525,7 +521,8 @@ with tab3:
 
 st.sidebar.write("---")    
 
-st.sidebar.write("**We partner with Lodges and restaurants to provide customer services through our AI assistant**") 
+st.sidebar.write("**We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**") 
+st.sidebar.write("**NOTE: Our Assistant is just a tool and can give wrong outputs at times. we are working on improving that**")
 
 st.write("### Questions mostly asked...")
 

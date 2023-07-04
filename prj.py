@@ -117,6 +117,9 @@ iii. Dessert:
 D. Bar: 
 - our cocktail Bar offers some drinks and different kinds of beers.
 
+Other activities:
+- Event hires such as weddings, Parties, meetings
+
 E. About Us:
 
 - Livingstone Lodge is of the Lodge with a total of 11 Self contained rooms, \ 
@@ -218,6 +221,10 @@ Hotel room:
 Chapa Classic and Chapa Vanguard together offer a total of 67 rooms. \ 
 We work together with hotels nearby to accommodate all of your guest, \ 
 arranging transport to the conference facilities at Chapa upon request.
+
+Other activities:
+- Swimming Pool.
+- Event hires such as weddings, Parties, meetings.
 
 C. About Us:
 

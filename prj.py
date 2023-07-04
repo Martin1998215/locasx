@@ -522,21 +522,21 @@ with tab3:
 st.sidebar.write("---")    
 
 st.sidebar.write("**We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**") 
-st.sidebar.write("**NOTE: Our Assistant is just a tool and can give wrong outputs at times. we are working on improving that**")
+st.sidebar.write("**NOTE: Our Assistant is just a tool and has a 70% accuracy. we are working on improving that**")
 
-st.write("### Questions mostly asked...")
+st.write("### Suggested Questions...")
 
 
 col1, col2, col3 = st.columns(3)
 
 with col1:
-   st.warning("**What lodges or restaurant are there? ---**")
+   st.warning("**What lodges are there? ---**")
 
 with col2:
-   st.warning("**Tell me more about Lodge or Restaurant X ---**")
+   st.warning("**what Restaurants are there? ---**")
 
 with col3:
-   st.warning("**Do you have any contact us for lodge or Restaurant X ---**")
+   st.warning("**what are the room prices for lodge X? or what are the food prices for restaurant X? ---**")
 
 col4, col5 = st.columns(2)
 

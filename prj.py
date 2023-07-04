@@ -544,7 +544,7 @@ with col4:
    st.warning("**What lodges are there in area X eg Highlands, Nottie Brodie? ---**")
 
 with col5:
-   st.warning("**How much are the rooms at Lodge X? ---**")
+   st.warning("**Tell me more about Lodge X? ---**")
  
 
 st.write('---') 

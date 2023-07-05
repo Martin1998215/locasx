@@ -494,7 +494,7 @@ st.write("---")
 st.sidebar.write("### AI chatbot to assist customers with the services they need.")
 
 
-tab1, tab2, tab3 = st.sidebar.tabs(["Services", "Partners", "About Us"])
+tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
 
 with tab1:
 
@@ -525,6 +525,14 @@ with tab3:
         - We are only available in Livingstone.
     
     """) 
+
+with tab4:
+
+   	st.write("""
+        - Call: 0976 03 57 66.
+        - Email: locastechnology@gmail.com
+        - We are located room # Mosi O Tunya business center, livingstone.
+		""")        
 
 st.sidebar.write("---")    
 

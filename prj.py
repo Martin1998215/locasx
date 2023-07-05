@@ -48,8 +48,7 @@ def view_user_query():
     return data
 
 
-# openai.api_key = st.secrets["api"]
-openai.api_key = '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'
+openai.api_key = st.secrets["api"]
 
 
 model = "gpt-3.5-turbo"

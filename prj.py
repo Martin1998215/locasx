@@ -1,27 +1,55 @@
+# import os
+# import re
+# import openai
+# import streamlit as st 
+# import sqlite3
+# import mysql
+# import pandas as pd
+# # from api_key import apikey
+
+# # openai.api_key = os.environ["OPENAI_API_KEY"]
+# # openai.api_key = apikey
+
 import os
 import re
 import openai
 import streamlit as st 
+import pandas as pd
+import sqlite3
 # from api_key import apikey
 
-# api_key = os.environ["OPENAI_API_KEY"]
-# openai.api_key = apikey
+conn = sqlite3.connect("data.db")
+c = conn.cursor()
 
-openai.api_key = st.secrets["api"]
+def user_query():
+    c.execute('''
+    CREATE TABLE IF NOT EXISTS user_query(
+        query_id INTEGER PRIMARY KEY,
+        user_prompt VARCHAR(255),
+        system_solution VARCHAR(1000)
+    ) ''')
 
-# # os.environ["OPENAI_API_KEY"] = apikey
+
+def add_query(user_prompt, system_solution):
+    c.execute('''
+    INSERT INTO user_query(user_prompt, system_solution)
+    VALUES(?,?)''',
+              (user_prompt, system_solution)
+              )
+    conn.commit()
 
 
-# from langchain.chains import ConversationChain
-# from langchain.memory import ConversationBufferMemory
-# from langchain.chat_models import ChatOpenAI
-# from langchain.prompts import ChatPromptTemplate
+def view_user_query():
+    c.execute('''
+    SELECT * FROM user_query
+    ''')
 
-# from langchain.schema import (
-#     AIMessage,
-#     HumanMessage,
-#     SystemMessage
-# )
+    data = c.fetchall()
+    return data
+
+
+# openai.api_key = st.secrets["api"]
+openai.api_key = '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'
 
 
 model = "gpt-3.5-turbo"
@@ -595,6 +623,7 @@ if st.button("Ask Our AI Assistant"):
 
     response = get_completion_from_messages(messages)
 
+
     st.write("---")
 
     try:
@@ -605,9 +634,24 @@ if st.button("Ask Our AI Assistant"):
 
     st.write(final_response)
 
+    
+    # create user query db
+    user_query()
+
+    # add to user query db
+    add_query(txt,final_response)
+
+    view_db = view_user_query()
+
+    view_df = pd.DataFrame(view_db, columns=[
+        "user_id", "user_prompt", "system_solution"
+    ])
+
+    # st.write(view_df)
+
     st.write("---")
 
-    res_word = len(re.findall(r'\w+', response))
+    res_word = len(re.findall(r'\w+', final_response))
     st.write('Number of Words :', res_word)
 
 

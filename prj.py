@@ -48,30 +48,29 @@ def view_user_query():
     return data
 
 
-openai.api_key = st.secrets["api"]
+# openai.api_key = st.secrets["api"]
+openai.api_key = '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'
+
+# openai.api_key = "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"
 
 
-model = "gpt-3.5-turbo"
+# model = "gpt-3.5-turbo"
+model = "gpt-3.5-turbo-16k"
 
-def get_completion(prompt, model="gpt-3.5-turbo"):
+# def get_completion(prompt, model="gpt-3.5-turbo"):
 
-    messages = [{"role":"user", "content": prompt},
-
-                # {"role":"system", "content": system_message}
+#     messages = [{"role":"user", "content": prompt},
                 
-                ]
+#                 ]
+#     response = openai.ChatCompletion.create(
+#         model=model,
+#         messages=messages,
+#         temperature=0 #degree of randomness of the model
+#     )
 
+#     return response.choices[0].message["content"]
 
-    response = openai.ChatCompletion.create(
-        model=model,
-        messages=messages,
-        temperature=0 #degree of randomness of the model
-    )
-
-
-    return response.choices[0].message["content"]
-
-def get_completion_from_messages(messages, model="gpt-3.5-turbo"):
+def get_completion_from_messages(messages, model = "gpt-3.5-turbo-16k"):
 
     response = openai.ChatCompletion.create(
         model=model,
@@ -81,6 +80,8 @@ def get_completion_from_messages(messages, model="gpt-3.5-turbo"):
 
 
     return response.choices[0].message["content"]
+
+
 
 
 delimiter = "####"
@@ -156,14 +157,6 @@ Institution under the Ministry of Tourism and Arts of the Government of the \
 Republic of Zambia. However, over time, the demand from the general public and \ 
 other Institutions emerged and the government decided to open to the general public. \ 
 
-- Mission:
-To be a leader in excellent lodging, conferencing and event provider in the \ 
-market segment through the chain of Lodges across the country.
-
-- Vision:
-To provide Hospitable, cost effective and quality accommodation, \ 
-food and beverages, conferencing facilities and events management to \ 
-enhance customer satisfaction.
 
 G. CONTACT US:
 - Phone Number: +260-213-320647.
@@ -172,7 +165,8 @@ G. CONTACT US:
 
 - Postal Address: P.O Box 61177, Livingstone.
 
-- Located: Maramba Road Plot 01 Next To Livingstone Central Police Station, maramba area.
+- Located: Maramba Road Plot 01, maramba area.
+- Nearby: Maramba market or Livingstone Central Police Station or Town.
 
 2. Name of Restaurant: Flavours Pub and Grills
 
@@ -217,6 +211,8 @@ E. Contact Us:
 - Tel: 211 120 829.
 - Email: FlavoursPub&Grill@gmail.com.
 - Facebook Page: Flavours Pub & Grill.
+- Located: Along Lusaka Road, Town area, in livingstone, Zambia.
+- Nearby: Town or Mukuni Park
 
 3. Name of Lodge: Chappa Classic Lodge
 
@@ -272,6 +268,7 @@ D. CONTACT US:
 - Located: 66 Nehru Way, Town area, Livingstone
 - Phone Number: +260977796710
 - Email address: chapaclassiclodge@zamnet.zm
+- Nearby: Livingstone Central Hospital or Town or NIPA
 
 4. name of lodge: Kaazimein Lodge.
 
@@ -391,7 +388,9 @@ D. Contact Us:
 E. Location:
 - Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
  
-- Physical Address: 2764 Maina soko Road, Nottie Brodie area, Livingstone Zambia
+- Physical Address: 2764 Maina soko Road, Nottie Brodie area, Livingstone Zambia.
+
+- Nearby: Chandamali Market or Mosque.
 
 5. name of lodge: Mosi-O-Tunya Execcutive Lodge.
 
@@ -438,10 +437,11 @@ affordable fees.
 D. Contact Us:
 
 for a true value of hospitality, visit us at:
-- Location: Plot No. 4424/37, Highlands, Livingstone or
+- Location: Plot No. 4424/37, Highlands, Livingstone.
 - contact us on: 09773891512
 - Email: reservations@mosiotunyalodge.co.zm
-- website: www.mosiotunyalodge.co.zm
+- website: www.mosiotunyalodge.co.zm.
+- Nearby: Bible College.
 
 6. Name of Lodge: White Rose Lodge.
 
@@ -452,7 +452,6 @@ About Us:
 - It also has a Restaurant which opens from 07 to 22 hrs.
 
 Available Services:
-
 A. Rooms or Accommodation:
 
 All our rooms have DSTV and free WI FI.
@@ -477,6 +476,59 @@ C. Contact Us:
 - call us on 0977 84 96 90.
 - Email us at whiteroselodge@yahoo.com
 - Location: we are situated at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
+- Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge 
+
+7. Name of Lodge: KM Executive Lodge
+
+A. About Us:
+- KM Execuive Lodge is a Lodge which is located in Livingstone, Highlands, on plot number 2898/53 \ 
+Off Lusaka Road.
+- It offers a variety of services from Accommodation or Room services (Executive Rooms with self catering), \ 
+a Conference Hall for events such as meetings, workshops etc, a Restaurant, Gym and a Swimming Pool \ 
+with 24Hrs Security Services.
+
+B. Room Prices:
+- Double Room: K250
+- King Executive Bed: K350
+- Twin Executive (Two Double Beds): K500
+- Family Apartment (Self Catering): K750
+- King Executive (Self Catering): K500
+- Any Single Room with Breakfast Provided for one person: K250
+- Any Couple we charge K50 for Extra Breakfast.
+- Twin Executive (Two Double Beds) with Breakfast provided for 2 people.
+
+C. Restaurant or Food Menu Price List:
+- Full English Breakfast: K50
+- Plain Chips: K35
+- Full Salads With Potatoes: K45
+- Plain Potatoes with salads: K40
+- Chips with Fish: K90
+- Chips with T Bone: K90
+- Rice Beef: K90
+- Dry Fish: K120
+- Beef Shew: K90
+- Nshima with Chicken: K90
+- Nshima with T Bone: K90
+- Nshima with Kapenta: K50
+- Nshima with Visashi: K40
+- Smashed Potatoes: K45
+- Chips with Chicken: K90
+
+D. Gym Service.
+E. Swimming Pool:
+- we also have a swimming pool with 24Hrs security service.
+F. Conference Hall:
+- We also have a conference hall for events such as meetings, workshops and presentations.
+
+G. Contact Us:
+- Tel: +0213324051
+- Cell: 0966603232 or 0977433762
+- Email: kmexecutivelodge@gmail.com
+- Facebook Page: KM Executive Lodge
+- Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
+- Nearby: Highlands Market or Zambezi Sports Club
+
+
 
 
 step 3: {delimiter}: If the message contains services in the list above, \ 
@@ -602,12 +654,13 @@ words = len(re.findall(r'\w+', txt))
 st.write('Number of Words :', words, "/750")
 
 word = len(re.findall(r'\w+', system_message))
+# st.write('Number of Words :', word)
 
 
 if st.button("Ask Our AI Assistant"):
 
     user_message = f"""
-    {txt}
+     {txt}
 
     """
 
@@ -646,7 +699,7 @@ if st.button("Ask Our AI Assistant"):
         "user_id", "user_prompt", "system_solution"
     ])
 
-    # st.sidebar.write(view_df)
+    # st.write(view_df)
 
     st.write("---")
 

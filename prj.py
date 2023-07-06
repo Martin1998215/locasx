@@ -528,10 +528,9 @@ strip off step 1 to 4 and Show only step 5 and Respond to user as final answer.
 
 
 
-st.write("### AI Assistant for Travel.")
-st.write("---")
+st.sidebar.write("### AI Assistant for Travel.")
 
-st.sidebar.write("### AI chatbot to assist customers with the services they need.")
+# st.sidebar.write("### AI chatbot to assist customers with the services they need.")
 
 
 tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])

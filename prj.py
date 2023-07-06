@@ -7,8 +7,6 @@ import pandas as pd
 import sqlite3
 # from api_key import apikey
 
-openai.api_key = "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"
-
 conn = sqlite3.connect("data.db")
 c = conn.cursor()
 
@@ -39,7 +37,7 @@ def view_user_query():
     return data
 
 
-# openai.api_key = st.secrets["api"]
+openai.api_key = st.secrets["api"]
 
 
 # model = "gpt-3.5-turbo"

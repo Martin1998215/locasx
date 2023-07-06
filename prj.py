@@ -1,3 +1,14 @@
+# import os
+# import re
+# import openai
+# import streamlit as st 
+# import sqlite3
+# import mysql
+# import pandas as pd
+# # from api_key import apikey
+
+# # openai.api_key = os.environ["OPENAI_API_KEY"]
+# # openai.api_key = apikey
 
 import os
 import re
@@ -38,8 +49,11 @@ def view_user_query():
 
 
 openai.api_key = st.secrets["api"]
+
+
 # model = "gpt-3.5-turbo"
 model = "gpt-3.5-turbo-16k"
+
 
 def get_completion_from_messages(messages, model = "gpt-3.5-turbo-16k"):
 
@@ -51,6 +65,8 @@ def get_completion_from_messages(messages, model = "gpt-3.5-turbo-16k"):
 
 
     return response.choices[0].message["content"]
+
+
 
 
 delimiter = "####"
@@ -237,7 +253,7 @@ D. CONTACT US:
 - Located: 66 Nehru Way, Town area, Livingstone
 - Phone Number: +260977796710
 - Email address: chapaclassiclodge@zamnet.zm
-- Nearby: Livingstone Central Hospital or Town or NIPA
+- Nearby: Livingstone Central Hospital, Town, NIPA
 
 4. name of lodge: Kaazimein Lodge.
 
@@ -365,7 +381,7 @@ E. Location:
 
 About Us:
 
-- "A Gateway to the mighty Victoria Falls".
+
 - Classified as a grade A - lodge by the ministry of Tourism and Natural resources.
 - We are situated in the highlands area of Livingstone, off Lusaka Road and behind \ 
 the Bible college. when with us, you are only five and eight minutes drive away from \ 
@@ -391,11 +407,11 @@ A. Rooms or Accommodation:
 B. Restaurant:
 
 Our Menus:
-- Fish with Nshima: K70 per plate.
-- Chicken with Nshima: K60 per plate.
-- Pork with Nshima: K60 per plate.
-- Sausage with Nshima: K50 per plate.
-- T Bone witth Nshima: K75 per plate.
+- Nshima with Fish: K70 per plate.
+- Nshima with Chicken: K60 per plate.
+- Nshima with Pork: K60 per plate.
+- Nshima with Sausage: K50 per plate.
+- Nshima with T Bone: K75 per plate.
 
 C. Activities:
 
@@ -530,22 +546,30 @@ strip off step 1 to 4 and Show only step 5 and Respond to user as final answer.
 
 st.sidebar.write("### AI Assistant for Travel.")
 st.sidebar.write("""
-**Let Us Improve Your Travel Experience with all the services you need**
-- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
-dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
-their accommodation pricing, restaurants available and their menus...
-"""
+Let Us Improve Your Travel Experience with all the services you need.
+
+""")
+
 
 tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
+
 with tab1:
+
+
    	st.write("""
         - Travel
         - Hospitality
+        ---
+        **Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
+        dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
+        their accommodation pricing, restaurants available and their menus**
 		""")
 
 with tab2:
 
    	st.write("""
+        - **We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
+        ---
         - Flavors Pub & Grill.
         - Livingstone Lodge
         - Chappa classic lodge
@@ -561,6 +585,7 @@ with tab3:
         - our goal is help improve your travel experience as you visit livingstone,
         by providing you with our AI assistant to help you where to find 
         accommodation or a restaurant.
+        - **NOTE: Our Assistant is just a tool and has a 70% accuracy. we are working on improving that.**
         - We are only available in Livingstone.
     
     """) 
@@ -573,60 +598,8 @@ with tab4:
         - We are located room # Mosi O Tunya business center, livingstone.
 		""")        
 
+st.sidebar.write("---")    
 
-
-# tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
-
-# with tab1:
-	
-#    	st.write("""
-#         - Travel
-#         - Hospitality
-	
-# 		""")
-
-# with tab2:
-
-#    	st.write("""
-#     	**We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
-#         - Flavors Pub & Grill.
-#         - Livingstone Lodge
-#         - Chappa classic lodge
- 
-#  	""")
-
-
-# with tab3:
-
-#     st.write("""
-
-#         - This is an AI chatbot powered by a large language model that has info on lodges and restaurants 
-#         we partnered with... check out our partners.. 
-#         - our goal is help improve your travel experience as you visit livingstone,
-#         by providing you with our AI assistant to help you where to find 
-#         accommodation or a restaurant.
-# 	- NOTE: Our Assistant is just a tool and has a 70% accuracy. we are working on improving that.
-#         - We are only available in Livingstone.
-    
-#     """) 
-
-# with tab4:
-
-#    	st.write("""
-#         - Call: 0976 03 57 66.
-#         - Email: locastechnology@gmail.com
-#         - We are located room # Mosi O Tunya business center, livingstone.
-# 		""")        
-
-st.sidebar.write("---") 
-
-# st.sidebar.write("""
-# **Let Us Improve Your Travel Experience with all the services you need**
-# - Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
-# dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
-# their accommodation pricing, restaurants available and their menus...
-
-# """)
 
 st.write("### Suggested Questions...")
 
@@ -640,7 +613,7 @@ with col2:
    st.warning("**what Restaurants are there?**")
 
 with col3:
-   st.warning("**what lodges offer Restaurant Services?**")
+   st.warning("**how much is food at Lodge or restaurant [Name]??**")
 	
 
 col4, col5, col6 = st.columns(3)

@@ -1,14 +1,3 @@
-# import os
-# import re
-# import openai
-# import streamlit as st 
-# import sqlite3
-# import mysql
-# import pandas as pd
-# # from api_key import apikey
-
-# # openai.api_key = os.environ["OPENAI_API_KEY"]
-# # openai.api_key = apikey
 
 import os
 import re
@@ -48,12 +37,7 @@ def view_user_query():
     return data
 
 
-# openai.api_key = st.secrets["api"]
-openai.api_key = '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'
-
-# openai.api_key = "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"
-
-
+openai.api_key = st.secrets["api"]
 # model = "gpt-3.5-turbo"
 model = "gpt-3.5-turbo-16k"
 

@@ -1,15 +1,3 @@
-# import os
-# import re
-# import openai
-# import streamlit as st 
-# import sqlite3
-# import mysql
-# import pandas as pd
-# # from api_key import apikey
-
-# # openai.api_key = os.environ["OPENAI_API_KEY"]
-# # openai.api_key = apikey
-
 import os
 import re
 import openai
@@ -682,7 +670,7 @@ if st.button("Ask Our AI Assistant"):
         "user_id", "user_prompt", "system_solution"
     ])
 
-    # st.write(view_df)
+    st.write(view_df)
 
     st.write("---")
 

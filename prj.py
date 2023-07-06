@@ -683,7 +683,7 @@ if st.button("Ask Our AI Assistant"):
         "user_id", "user_prompt", "system_solution"
     ])
 
-    st.write(view_df)
+    # st.write(view_df)
 
     st.write("---")
 

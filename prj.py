@@ -542,7 +542,7 @@ with tab1:
         - Travel
         - Hospitality
 		""")
-	st.write('---')
+	
 	st.write("""
 	**Let Us Improve Your Travel Experience with all the services you need**
 	- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 

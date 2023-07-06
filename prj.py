@@ -536,12 +536,8 @@ dont worry, our assistant got you covered... Just ask it whatever lodges are ava
 their accommodation pricing, restaurants available and their menus...
 """
 
-# st.sidebar.write("### AI chatbot to assist customers with the services they need.")
 tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
-
 with tab1:
-
-
    	st.write("""
         - Travel
         - Hospitality

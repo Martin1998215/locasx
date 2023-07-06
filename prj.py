@@ -558,9 +558,10 @@ with tab2:
    	st.write("""
         - **We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
         ---
-        - Flavors Pub & Grill.
-        - Livingstone Lodge
-        - Chappa classic lodge
+        - Flavors Pub & Grill Restaurant.
+        - KM Executive Lodge
+        - White Rose Lodge
+	- Kaazimein Lodge
 		""")        
 
 

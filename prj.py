@@ -541,8 +541,6 @@ with tab1:
    	st.write("""
         - Travel
         - Hospitality
-	
-	---	
  
 	**Let Us Improve Your Travel Experience with all the services you need**
 	- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 

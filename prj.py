@@ -542,12 +542,12 @@ their accommodation pricing, restaurants available and their menus...
 tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
 
 with tab1:
-
-
+	
    	st.write("""
         - Travel
         - Hospitality
-	""")
+	
+		""")
 
 with tab2:
 

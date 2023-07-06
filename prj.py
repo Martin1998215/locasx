@@ -541,9 +541,9 @@ with tab1:
    	st.write("""
         - Travel
         - Hospitality
-		""")
 	
-	st.write("""
+	---	
+ 
 	**Let Us Improve Your Travel Experience with all the services you need**
 	- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
 	dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
@@ -558,9 +558,11 @@ with tab2:
         - Flavors Pub & Grill.
         - Livingstone Lodge
         - Chappa classic lodge
-		""") 
-	st.write("""
+	
+	---
+ 
 	**Let Us Improve Your Travel Experience with all the services you need**
+ 
  	""")
 
 

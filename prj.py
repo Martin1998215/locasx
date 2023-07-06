@@ -542,15 +542,26 @@ with tab1:
         - Travel
         - Hospitality
 		""")
+	st.write('---')
+	st.write("""
+	**Let Us Improve Your Travel Experience with all the services you need**
+	- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
+	dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
+	their accommodation pricing, restaurants available and their menus...
+	
+	""")
 
 with tab2:
 
    	st.write("""
-    	- We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant
+    	**We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
         - Flavors Pub & Grill.
         - Livingstone Lodge
         - Chappa classic lodge
-		""")        
+		""") 
+	st.write("""
+	**Let Us Improve Your Travel Experience with all the services you need**
+ 	""")
 
 
 with tab3:
@@ -577,13 +588,13 @@ with tab4:
 
 st.sidebar.write("---") 
 
-st.sidebar.write("""
-**Let Us Improve Your Travel Experience with all the services you need**
-- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
-dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
-their accommodation pricing, restaurants available and their menus...
+# st.sidebar.write("""
+# **Let Us Improve Your Travel Experience with all the services you need**
+# - Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
+# dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
+# their accommodation pricing, restaurants available and their menus...
 
-""")
+# """)
 
 st.write("### Suggested Questions...")
 

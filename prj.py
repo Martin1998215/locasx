@@ -529,6 +529,12 @@ strip off step 1 to 4 and Show only step 5 and Respond to user as final answer.
 
 
 st.sidebar.write("### AI Assistant for Travel.")
+st.sidebar.write("""
+**Let Us Improve Your Travel Experience with all the services you need**
+- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
+dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
+their accommodation pricing, restaurants available and their menus...
+"""
 
 # st.sidebar.write("### AI chatbot to assist customers with the services they need.")
 
@@ -539,15 +545,8 @@ with tab1:
 
 
    	st.write("""
-    	**Services**
         - Travel
         - Hospitality
- 
-	**Let Us Improve Your Travel Experience with all the services you need**
-	- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
-	dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
-	their accommodation pricing, restaurants available and their menus...
-	
 	""")
 
 with tab2:
@@ -557,10 +556,6 @@ with tab2:
         - Flavors Pub & Grill.
         - Livingstone Lodge
         - Chappa classic lodge
-	
-	---
- 
-	**Let Us Improve Your Travel Experience with all the services you need**
  
  	""")
 

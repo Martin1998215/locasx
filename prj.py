@@ -1,3 +1,4 @@
+
 import os
 import re
 import openai
@@ -5,6 +6,8 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 # from api_key import apikey
+
+openai.api_key = "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"
 
 conn = sqlite3.connect("data.db")
 c = conn.cursor()
@@ -36,7 +39,7 @@ def view_user_query():
     return data
 
 
-openai.api_key = st.secrets["api"]
+# openai.api_key = st.secrets["api"]
 
 
 # model = "gpt-3.5-turbo"
@@ -558,10 +561,10 @@ with tab2:
    	st.write("""
         - **We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
         ---
-        - Flavors Pub & Grill Restaurant.
-        - KM Executive Lodge
+        - Flavors Pub & Grill Restaurant
+        - Kaazimein Lodge
         - White Rose Lodge
-	- Kaazimein Lodge
+        - KM Executive Lodge
 		""")        
 
 

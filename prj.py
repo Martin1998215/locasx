@@ -547,7 +547,7 @@ with tab1:
 with tab2:
 
    	st.write("""
-    	We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant
+    	- We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant
         - Flavors Pub & Grill.
         - Livingstone Lodge
         - Chappa classic lodge

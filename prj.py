@@ -41,19 +41,6 @@ openai.api_key = st.secrets["api"]
 # model = "gpt-3.5-turbo"
 model = "gpt-3.5-turbo-16k"
 
-# def get_completion(prompt, model="gpt-3.5-turbo"):
-
-#     messages = [{"role":"user", "content": prompt},
-                
-#                 ]
-#     response = openai.ChatCompletion.create(
-#         model=model,
-#         messages=messages,
-#         temperature=0 #degree of randomness of the model
-#     )
-
-#     return response.choices[0].message["content"]
-
 def get_completion_from_messages(messages, model = "gpt-3.5-turbo-16k"):
 
     response = openai.ChatCompletion.create(
@@ -64,8 +51,6 @@ def get_completion_from_messages(messages, model = "gpt-3.5-turbo-16k"):
 
 
     return response.choices[0].message["content"]
-
-
 
 
 delimiter = "####"
@@ -545,15 +530,7 @@ strip off step 1 to 4 and Show only step 5 and Respond to user as final answer.
 
 st.write("### AI Assistant for Travel.")
 st.write("---")
-st.write("""
-**Let Us Improve Your Travel Experience with all the services you need**
-- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
-dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
-their accommodation pricing, restaurants available and their menus...
 
-""")
-
-st.write("---")
 st.sidebar.write("### AI chatbot to assist customers with the services they need.")
 
 
@@ -570,6 +547,7 @@ with tab1:
 with tab2:
 
    	st.write("""
+    	We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant
         - Flavors Pub & Grill.
         - Livingstone Lodge
         - Chappa classic lodge
@@ -585,6 +563,7 @@ with tab3:
         - our goal is help improve your travel experience as you visit livingstone,
         by providing you with our AI assistant to help you where to find 
         accommodation or a restaurant.
+	- NOTE: Our Assistant is just a tool and has a 70% accuracy. we are working on improving that.
         - We are only available in Livingstone.
     
     """) 
@@ -597,10 +576,15 @@ with tab4:
         - We are located room # Mosi O Tunya business center, livingstone.
 		""")        
 
-st.sidebar.write("---")    
+st.sidebar.write("---") 
 
-st.sidebar.write("**We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**") 
-st.sidebar.write("**NOTE: Our Assistant is just a tool and has a 70% accuracy. we are working on improving that**")
+st.sidebar.write("""
+**Let Us Improve Your Travel Experience with all the services you need**
+- Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
+dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
+their accommodation pricing, restaurants available and their menus...
+
+""")
 
 st.write("### Suggested Questions...")
 

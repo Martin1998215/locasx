@@ -539,6 +539,7 @@ with tab1:
 
 
    	st.write("""
+    	**Services**
         - Travel
         - Hospitality
  

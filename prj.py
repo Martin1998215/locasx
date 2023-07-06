@@ -537,27 +537,23 @@ their accommodation pricing, restaurants available and their menus...
 """
 
 # st.sidebar.write("### AI chatbot to assist customers with the services they need.")
-
-
 tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
 
 with tab1:
-	
+
+
    	st.write("""
         - Travel
         - Hospitality
-	
 		""")
 
 with tab2:
 
    	st.write("""
-    	**We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
         - Flavors Pub & Grill.
         - Livingstone Lodge
         - Chappa classic lodge
- 
- 	""")
+		""")        
 
 
 with tab3:
@@ -569,7 +565,6 @@ with tab3:
         - our goal is help improve your travel experience as you visit livingstone,
         by providing you with our AI assistant to help you where to find 
         accommodation or a restaurant.
-	- NOTE: Our Assistant is just a tool and has a 70% accuracy. we are working on improving that.
         - We are only available in Livingstone.
     
     """) 
@@ -581,6 +576,51 @@ with tab4:
         - Email: locastechnology@gmail.com
         - We are located room # Mosi O Tunya business center, livingstone.
 		""")        
+
+
+
+# tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
+
+# with tab1:
+	
+#    	st.write("""
+#         - Travel
+#         - Hospitality
+	
+# 		""")
+
+# with tab2:
+
+#    	st.write("""
+#     	**We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
+#         - Flavors Pub & Grill.
+#         - Livingstone Lodge
+#         - Chappa classic lodge
+ 
+#  	""")
+
+
+# with tab3:
+
+#     st.write("""
+
+#         - This is an AI chatbot powered by a large language model that has info on lodges and restaurants 
+#         we partnered with... check out our partners.. 
+#         - our goal is help improve your travel experience as you visit livingstone,
+#         by providing you with our AI assistant to help you where to find 
+#         accommodation or a restaurant.
+# 	- NOTE: Our Assistant is just a tool and has a 70% accuracy. we are working on improving that.
+#         - We are only available in Livingstone.
+    
+#     """) 
+
+# with tab4:
+
+#    	st.write("""
+#         - Call: 0976 03 57 66.
+#         - Email: locastechnology@gmail.com
+#         - We are located room # Mosi O Tunya business center, livingstone.
+# 		""")        
 
 st.sidebar.write("---") 
 

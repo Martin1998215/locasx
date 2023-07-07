@@ -641,7 +641,7 @@ with col1:
    st.warning("**What lodges are there? ---**")
 
 with col2:
-   st.warning("**what Restaurants are there?**")
+   st.warning("**give me a list of lodges and their room prices?**")
 
 with col3:
    st.warning("**how much is food at Lodge or restaurant [Name]??**")

@@ -629,7 +629,7 @@ with col2:
    st.warning("**give me a list of lodges and their room prices?**")
 
 with col3:
-   st.warning("**how much is food at Lodge or restaurant [Name]??**")
+   st.warning("**am hungry, anywhere i can get some food???**")
 	
 
 col4, col5, col6 = st.columns(3)

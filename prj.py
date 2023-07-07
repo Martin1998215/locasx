@@ -642,7 +642,18 @@ with col5:
 
 with col6:
    st.warning("**what services are offered at Lodge X? eg Kaazimein lodge**")
- 
+
+
+col7, col8, col9 = st.columns(3)
+
+with col7:
+   st.warning("**give me a list of lodges and where they are located? ---**")
+
+with col8:
+   st.warning("what food do you offer? ---**")
+
+with col9:
+   st.warning("**Are drinks from the outside allowed?**")
 
 st.write('---') 
 

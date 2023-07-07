@@ -282,10 +282,9 @@ setting, and 12 self-contained A framed rooms, to cater for privacy \
 and individuality of guest.
 
 Our Rooms:
-- Family Rooms
-- Charlet Rooms
-- Luxurious Rooms
-- A-Frame Lounge
+- Budgets Chalets: K300
+- Standards Chalets: K650
+- Executive Chalets: K1200
 
 They have the following:
 
@@ -501,6 +500,48 @@ G. Contact Us:
 - Facebook Page: KM Executive Lodge
 - Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
 - Nearby: Highlands Market or Zambezi Sports Club
+
+7. Name of Lodge: Asenga Executive Lodge Livingstone
+
+About Us:
+- Asenga Executive Lodge is a livingstone based lodge that offers the following \ 
+services, Accommodation, Restaurant, Conference Hall Hire and Swimming Pool. \ 
+- It is located at Plot # 2898/127 off Lusaka Road, Highlands Livingstone, \ 
+near Highlands market. for more info, you can contact us on the following: \ 
+ +260 963774237 or Email us on reservations.asengalodge@gmail.com.
+
+Services offered at  are as follows:
+
+A. Accommodation:
+
+- We have two types of Rooms: Executive Rooms as well as Standard Rooms.
+
+1.Executive Rooms:
+- Executive Single occupancy: k880 per night.
+- Executive double occupancy: k930 per night.
+
+2.Standard Rooms:
+- Standard Single occupancy: k780 per night.
+- Standard double occupancy is k830 per night.
+
+Kindly note that these rates include English Breakfast,free Internet and Swimming Pool.
+
+B. Conference Hall:
+- We offer conference hall at k2000 per day.
+
+C.Restaurant:
+- Meals are ranging from k85 to k120.
+
+D. Contact Us:
+
+For further clarification,please feel free to contact us:
+- call: +260 963774237.
+- Email: reservations.asengalodge@gmail.com
+
+E. Location:
+- located: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
+- PO Box 60464 Livingstone.
+- nearby places: Highlands Market or Zambezi Sports Complex.
 
 
 

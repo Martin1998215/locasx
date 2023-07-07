@@ -142,13 +142,13 @@ G. CONTACT US:
 - Located: Maramba Road Plot 01, maramba area.
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
 
-2. Name of Restaurant: Flavours Pub and Grills
+2. Name of Restaurant: Flavours Pub and Grills Restaurant.
 
 Available Services:
 
 A. About Us:
 - Flavours Pub & Grill is a Restaurant located in the city of Livingstone, \ 
-Along Lusaka road, Town Area in livingstone, Zambia.
+Along Lusaka road, Town Area in livingstone, Zambia. It is not a lodge.
 - We serve the Best food ever, at affordable prices.
 - We also make the quickiest deliveries anywhere around Livingstone.
 - We have enough space to accomodate many people at our restaurant for both \ 
@@ -543,33 +543,18 @@ E. Location:
 - PO Box 60464 Livingstone.
 - nearby places: Highlands Market or Zambezi Sports Complex.
 
-
-
-
-step 3: {delimiter}: If the message contains services in the list above, \ 
-list any assumptions the user is making in their message e.g that room X has \ 
-a higher price than room Y.
-
-step 4: {delimiter}: If the user made any assumptions, figure out whether the assumption \ 
-is true based on your services information.
-
-step 5: {delimiter}: First, politely correct the customer's incorrect assumption \ 
-if applicable. only mention or reference services in the list of 7 available services, \ 
-As these are the only services the lodge offers.
+step 3: {delimiter}: only mention or reference services in the list of available services, \ 
+As these are the only services the lodges offers.
 Answer the customer in a friendly tone.
 
 Use the following format:
 step 1 {delimiter} < step 1 reasoning >
 step 2 {delimiter} < step 2 reasoning >
 step 3 {delimiter} < step 3 reasoning >
-step 4 {delimiter} < step 4 reasoning >
-step 5 {delimiter} < step 5 reasoning >
+
 Respond to user: {delimiter} < response to customer >
 
 Make sure to include {delimiter} to seperate every step.
-
-strip off step 1 to 4 and Show only step 5 and Respond to user as final answer.
-
 """
 
 
@@ -733,3 +718,18 @@ if st.button("Ask Our AI Assistant"):
 # 8. Revine Lodge
 # 9. Zambezi Junction
 # 10. Chrismar Hotel
+
+# step 5: {delimiter}: First, politely correct the customer's incorrect assumption \ 
+# if applicable. only mention or reference services in the list of 7 available services, \ 
+# As these are the only services the lodge offers.
+# Answer the customer in a friendly tone.
+
+# Use the following format:
+# step 1 {delimiter} < step 1 reasoning >
+# step 2 {delimiter} < step 2 reasoning >
+# step 3 {delimiter} < step 3 reasoning >
+# step 4 {delimiter} < step 4 reasoning >
+# step 5 {delimiter} < step 5 reasoning >
+# Respond to user: {delimiter} < response to customer >
+
+# Make sure to include {delimiter} to seperate every step.

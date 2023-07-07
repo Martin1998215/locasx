@@ -650,7 +650,7 @@ with col7:
    st.warning("**give me a list of lodges and where they are located? ---**")
 
 with col8:
-   st.warning("what food do you offer? ---**")
+   st.warning("**what food do you offer? ---**")
 
 with col9:
    st.warning("**Are drinks from the outside allowed?**")

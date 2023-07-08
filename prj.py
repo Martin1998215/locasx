@@ -72,11 +72,20 @@ other outlets etc. \
 
 step 2: {delimiter}: If the user is asking about specific lodge or restaurant or just the services, \ 
 identify if the services are in the following list.
-All available lodges and restaurants and their services: 
+All available lodges and restaurants and their services:  
 
 1. Name of the lodge: Livingstone lodge
 
-Available services:
+About Us:
+
+- Livingstone Lodge is of the Lodge with a total of 11 Self contained rooms, \ 
+a VIP deluxe suite and conferencing facility accommodating about 80 people. \ 
+Established on July 1, 1957, the Hostels Board of Management is a government \ 
+Institution under the Ministry of Tourism and Arts of the Government of the \ 
+Republic of Zambia. However, over time, the demand from the general public and \ 
+other Institutions emerged and the government decided to open to the general public. \ 
+
+Available services for Livingstone Lodge:
 
 A. Rooms or Accommodation:
 
@@ -122,31 +131,21 @@ D. Bar:
 Other activities:
 - Event hires such as weddings, Parties, meetings
 
-E. About Us:
 
-- Livingstone Lodge is of the Lodge with a total of 11 Self contained rooms, \ 
-a VIP deluxe suite and conferencing facility accommodating about 80 people. \ 
-Established on July 1, 1957, the Hostels Board of Management is a government \ 
-Institution under the Ministry of Tourism and Arts of the Government of the \ 
-Republic of Zambia. However, over time, the demand from the general public and \ 
-other Institutions emerged and the government decided to open to the general public. \ 
-
-
-G. CONTACT US:
+E. CONTACT US:
 - Phone Number: +260-213-320647.
 
 - Email address: livingstonelodge7@gmail.com.
 
 - Postal Address: P.O Box 61177, Livingstone.
 
+F. Location:
 - Located: Maramba Road Plot 01, maramba area.
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
 
 2. Name of Restaurant: Flavours Pub and Grills Restaurant.
 
-Available Services:
-
-A. About Us:
+About Flavours Pub and Grills Restaurant:
 - Flavours Pub & Grill is a Restaurant located in the city of Livingstone, \ 
 Along Lusaka road, Town Area in livingstone, Zambia. It is not a lodge.
 - We serve the Best food ever, at affordable prices.
@@ -155,9 +154,11 @@ Along Lusaka road, Town Area in livingstone, Zambia. It is not a lodge.
 open space and shelter space. 
 - We also offer attachments to catering students, with the ability to \ 
 hire potential ones after their studies. 
-- We also have a large car parking space to ensure the safety of your car. \ 
+- We also have a large car parking space to ensure the safety of your car. 
 
-B. Food Menu:
+Available Services for Flavours Pub and Grills Restaurant: 
+
+A. Food Menu:
 - We serve the best food with the best ingredients at affordable prices.
 
 - Traditional Pizza: K55.00
@@ -168,29 +169,46 @@ B. Food Menu:
 - Nshina, Kapenta: K28.00
 - Juice: K19.00
 
-C. Our Deliveries:
+B. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery van \ 
 around livingstone.
 - Make An order by calling us on 0977 682 611.
 
-D. Our Chefs:
+C. Our Chefs:
 - We hire the very best chefs to serve you the best food you ever dream to taste.
 - Our chefs offer the best gesture. they know how to treat our customers.
 - We also offer attachments to catering students, with the ability to \ 
 hire potential ones after their studies.
 
 
-E. Contact Us:
+D. Contact Us:
 - Cell: 0974 893 829.
 - Tel: 211 120 829.
 - Email: FlavoursPub&Grill@gmail.com.
 - Facebook Page: Flavours Pub & Grill.
+
+E. Location:
 - Located: Along Lusaka Road, Town area, in livingstone, Zambia.
 - Nearby: Town or Mukuni Park
 
 3. Name of Lodge: Chappa Classic Lodge
 
-Available services:
+About Chappa Classic Lodge:
+
+- The Chapa Classic Lodge and the annex Chapa Vanguard offer a total of \ 
+67 rooms and conference facilities for up to 160 participants. The lodges \  
+are across the street from each other in a quiet area just next to the \  
+Livingstone city centre.
+- Located: 66 Nehru Way, town area, Livingstone.
+- The lodges are locally owned and operated. Buy local and support the local community!
+- Just 7 minutes to shops and restaurants.
+- Chapa Classic Lodge and Tours offers easy access to the major Livingstone \  
+town business centers and we can arrange any activity you would want to \ 
+do around the magnificent Victoria Fall.
+- Affordable rates: We offer affordable rooms and conferencing: value for \  
+money. Ask for seasonal special deals.
+
+Available services For Chappa Classic Lodge:
 
 A. Rooms or Accommodation:
 
@@ -223,41 +241,25 @@ Other activities:
 - Swimming Pool.
 - Event hires such as weddings, Parties, meetings.
 
-C. About Us:
-
-- The Chapa Classic Lodge and the annex Chapa Vanguard offer a total of \ 
-67 rooms and conference facilities for up to 160 participants. The lodges \  
-are across the street from each other in a quiet area just next to the \  
-Livingstone city centre.
-- Located: 66 Nehru Way, town area, Livingstone.
-- The lodges are locally owned and operated. Buy local and support the local community!
-- Just 7 minutes to shops and restaurants.
-- Chapa Classic Lodge and Tours offers easy access to the major Livingstone \  
-town business centers and we can arrange any activity you would want to \ 
-do around the magnificent Victoria Fall.
-- Affordable rates: We offer affordable rooms and conferencing: value for \  
-money. Ask for seasonal special deals.
 
 D. CONTACT US:
-- Located: 66 Nehru Way, Town area, Livingstone
 - Phone Number: +260977796710
 - Email address: chapaclassiclodge@zamnet.zm
+
+E. Location:
+- Located: 66 Nehru Way, Town area, Livingstone
 - Nearby: Livingstone Central Hospital, Town, NIPA
 
 4. name of lodge: Kaazimein Lodge.
 
-About us:
-
-- A visit to Livingstone the tourist capital city of Zambia is not complete \ 
-without time off at the Kaazmein Lodge and Resort. The resort gives you the \ 
-chance to be at one with nature, a time to regroup, to find your inner core \ 
-and to leave enriched and empowered, promising to return. Everything that \  
-Livingstone and its surrounding areas has to offer can be organized from here. \ 
-The Kaazmein Lodge & Resort has 12 standard double / twin chalets, these units \  
-of which overlook a mini lake. There are also 10 Hotel rooms and a Family Hotel \ 
-Chalet Room. The family units contain a double room ideally for parents and \ 
-the next inter-leading room has two twin beds, both rooms are self contained.\  
-There is a central dining complex with A wooden deck that overlooks the man-made \  
+About Kaazimein Lodge:
+ 
+- The Kaazmein Lodge & Resort has 12 standard double twin chalets, \ 
+these units of which overlook a mini lake. There are also 10 Hotel \  
+rooms and a Family Hotel Chalet Room. The family units contain a \ 
+double room ideally for parents and the next inter-leading room \ 
+has two twin beds, both rooms are self contained.There is a central \ 
+dining complex with A wooden deck that overlooks the man-made \  
 mini lake, an open bar and restaurant area, reception and a conference Hall. \  
 The best accommodation provider situated in Livingstone, Zambia home of the \  
 Mighty Victoria Falls, a region that offers a diversity of cultures rarely equaled  \  
@@ -271,13 +273,14 @@ under the indigenous African trees, these typical A-framed designed rooms are a 
 unique option. We offer excellent prices and have great packages on all adrenaline \ 
 activities in and around the Victoria falls.
 
-Available services:
+Available services for Kaazimein Lodge:
+
 
 A. Rooms or accommodaion:
 
 - Our rooms are crisp, bright,  full of class and character most \ 
 important of all they are comfortable and spacious.  12 Chalets \ 
-overlooking a water feature, 10Hotel Style Rooms set in a relaxed lawn \  
+overlooking a water feature, 10 Hotel Style Rooms set in a relaxed lawn \  
 setting, and 12 self-contained A framed rooms, to cater for privacy \ 
 and individuality of guest.
 
@@ -361,14 +364,13 @@ D. Contact Us:
 E. Location:
 - Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
  
-- Physical Address: 2764 Maina soko Road, Nottie Brodie area, Livingstone Zambia.
+- Located: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
 
 - Nearby: Chandamali Market or Mosque.
 
 5. name of lodge: Mosi-O-Tunya Execcutive Lodge.
 
-About Us:
-
+About Mosi O Tunya Lodge:
 
 - Classified as a grade A - lodge by the ministry of Tourism and Natural resources.
 - We are situated in the highlands area of Livingstone, off Lusaka Road and behind \ 
@@ -382,8 +384,9 @@ meals on al a carte basis as well as a swimming pool to cool you off from the \
 blazing heat of livingstone.
 - We arrange tours and adventure activities and offer Bus stop and Airport transfers \ 
 at affordable fees.
+- we are located on Plot No. 4424/37, in Highlands, Livingstone.
 
-Available Services:
+Available Services for Mosi O Tunya Lodge:
 
 A. Rooms or Accommodation:
 
@@ -403,28 +406,30 @@ Our Menus:
 
 C. Activities:
 
-- We offer Swimming Pool services to cool you off from the blazing heat of Livingstone.
+- Swimming Pool services.
 - We arrange Tours and Adventure activities and offer Bus stop and Airport transfers at \ 
 affordable fees.
 
 D. Contact Us:
 
 for a true value of hospitality, visit us at:
-- Location: Plot No. 4424/37, Highlands, Livingstone.
+- website: www.mosiotunyalodge.co.zm.
 - contact us on: 09773891512
 - Email: reservations@mosiotunyalodge.co.zm
-- website: www.mosiotunyalodge.co.zm.
+
+E. Location:
+- Located: Plot No. 4424/37, Highlands, Livingstone.
 - Nearby: Bible College.
 
 6. Name of Lodge: White Rose Lodge.
 
-About Us:
+About White Rose Lodge:
 
 - White Rose Lodge is situated in Highlands, Livingstone at Plot No. 4424/17.
 - It has 12 Self contained rooms with DSTV and WI FI.
 - It also has a Restaurant which opens from 07 to 22 hrs.
 
-Available Services:
+Available Services for White Rose Lodge:
 A. Rooms or Accommodation:
 
 All our rooms have DSTV and free WI FI.
@@ -441,26 +446,32 @@ B. Activities:
 - Dinner: between 18:30 to 22:00.
 - Room Service: K10.
 - Laundry: opens from 06:30 to 21:00.
-- Checkouts: 10:00.
 - Mini Bar: We have a mini bar that closes at 22:00. 
 
 C. Contact Us:
 
 - call us on 0977 84 96 90.
 - Email us at whiteroselodge@yahoo.com
-- Location: we are situated at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
-- Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge 
+
+
+D. Location:
+- Located: at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
+- Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge . 
 
 7. Name of Lodge: KM Executive Lodge
 
-A. About Us:
+About KM Executive Lodge:
+
 - KM Execuive Lodge is a Lodge which is located in Livingstone, Highlands, on plot number 2898/53 \ 
 Off Lusaka Road.
 - It offers a variety of services from Accommodation or Room services (Executive Rooms with self catering), \ 
 a Conference Hall for events such as meetings, workshops etc, a Restaurant, Gym and a Swimming Pool \ 
 with 24Hrs Security Services.
 
-B. Room Prices:
+Available Sevices for Asenga Executive Lodge: 
+
+A. Room Prices:
+
 - Double Room: K250
 - King Executive Bed: K350
 - Twin Executive (Two Double Beds): K500
@@ -470,7 +481,7 @@ B. Room Prices:
 - Any Couple we charge K50 for Extra Breakfast.
 - Twin Executive (Two Double Beds) with Breakfast provided for 2 people.
 
-C. Restaurant or Food Menu Price List:
+B. Restaurant:
 - Full English Breakfast: K50
 - Plain Chips: K35
 - Full Salads With Potatoes: K45
@@ -487,30 +498,33 @@ C. Restaurant or Food Menu Price List:
 - Smashed Potatoes: K45
 - Chips with Chicken: K90
 
-D. Gym Service.
-E. Swimming Pool:
+C. Gym Service.
+D. Swimming Pool:
 - we also have a swimming pool with 24Hrs security service.
-F. Conference Hall:
+E. Conference Hall:
 - We also have a conference hall for events such as meetings, workshops and presentations.
 
-G. Contact Us:
+F. Contact Us:
 - Tel: +0213324051
 - Cell: 0966603232 or 0977433762
 - Email: kmexecutivelodge@gmail.com
 - Facebook Page: KM Executive Lodge
+
+G. Location:
 - Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
 - Nearby: Highlands Market or Zambezi Sports Club
 
 7. Name of Lodge: Asenga Executive Lodge Livingstone
 
-About Us:
+About Asenga Executive Lodge Livingstone:
+
 - Asenga Executive Lodge is a livingstone based lodge that offers the following \ 
 services, Accommodation, Restaurant, Conference Hall Hire and Swimming Pool. \ 
 - It is located at Plot # 2898/127 off Lusaka Road, Highlands Livingstone, \ 
 near Highlands market. for more info, you can contact us on the following: \ 
  +260 963774237 or Email us on reservations.asengalodge@gmail.com.
 
-Services offered at  are as follows:
+Available Services for Asenga Executive Lodge:
 
 A. Accommodation:
 
@@ -543,9 +557,25 @@ E. Location:
 - PO Box 60464 Livingstone.
 - nearby places: Highlands Market or Zambezi Sports Complex.
 
+
+Important Notice: If the user includes key words like affordable \  
+or low budget or cheap or low price or less expensive etc \ 
+in their search for the lodges or restaurants, \ 
+compare their room prices or restaurant prices \  
+from the list of lodges and restaurants mentioned above and \ 
+get the lodges or Restaurants with lowest room prices or food prices. \ 
+recommend lodges and restaurants with the lowest room or food prices. \ 
+Give at least 3 recommendations from the list. \ 
+
+
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
-As these are the only services the lodges offers.
-Answer the customer in a friendly tone.
+As these are the only services offered.
+
+Answer the customer in a calm and friendly tone.
+
+Lets think step by step.
+
+Take time to think.
 
 Use the following format:
 step 1 {delimiter} < step 1 reasoning >
@@ -555,6 +585,8 @@ step 3 {delimiter} < step 3 reasoning >
 Respond to user: {delimiter} < response to customer >
 
 Make sure to include {delimiter} to seperate every step.
+
+
 """
 
 
@@ -626,10 +658,10 @@ with col1:
    st.warning("**What lodges are there? ---**")
 
 with col2:
-   st.warning("**give me a list of lodges? --**")
+   st.warning("**what Restaurants are there?**")
 
 with col3:
-   st.warning("**am hungry, anywhere i can get some food???**")
+   st.warning("**how much is food at Lodge or restaurant [Name]??**")
 	
 
 col4, col5, col6 = st.columns(3)
@@ -642,18 +674,7 @@ with col5:
 
 with col6:
    st.warning("**what services are offered at Lodge X? eg Kaazimein lodge**")
-
-
-col7, col8, col9 = st.columns(3)
-
-with col7:
-   st.warning("**give me a list of lodges and where they are located? ---**")
-
-with col8:
-   st.warning("**what food do you offer? ---**")
-
-with col9:
-   st.warning("**Are drinks from the outside allowed?**")
+ 
 
 st.write('---') 
 
@@ -716,7 +737,13 @@ if st.button("Ask Our AI Assistant"):
     res_word = len(re.findall(r'\w+', final_response))
     st.write('Number of Words :', res_word)
 
-
+# step 3: {delimiter}: If the user includes key words like affordable \  
+# or low budget or cheap or low price or less expensive etc \  
+# compare their room prices or restaurant prices \  
+# from the list of lodges and restaurants mentioned above and \ 
+# get the lodges or Restaurants with lowest room prices or food prices. \ 
+# recommend lodges and restaurants with the lowest room or food prices. \ 
+# Give at least 3 recommendations from the list. \ 
 
 # Search for these
 # 1. KM Executive Lodge
@@ -730,9 +757,17 @@ if st.button("Ask Our AI Assistant"):
 # 9. Zambezi Junction
 # 10. Chrismar Hotel
 
+
+# step 3: {delimiter}: If the message contains services in the list above, \ 
+# list any assumptions the user is making in their message e.g that room X has \ 
+# a higher price than room Y.
+
+# step 4: {delimiter}: If the user made any assumptions, figure out whether the assumption \ 
+# is true based on your services information.
+
 # step 5: {delimiter}: First, politely correct the customer's incorrect assumption \ 
-# if applicable. only mention or reference services in the list of 7 available services, \ 
-# As these are the only services the lodge offers.
+# if applicable. only mention or reference services in the list of available services, \ 
+# As these are the only services offered.
 # Answer the customer in a friendly tone.
 
 # Use the following format:
@@ -744,3 +779,5 @@ if st.button("Ask Our AI Assistant"):
 # Respond to user: {delimiter} < response to customer >
 
 # Make sure to include {delimiter} to seperate every step.
+
+# strip off step 1 to 4 and Show only step 5 and Respond to user as final answer.

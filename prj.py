@@ -558,16 +558,6 @@ E. Location:
 - nearby places: Highlands Market or Zambezi Sports Complex.
 
 
-Important Notice: If the user includes key words like affordable \  
-or low budget or cheap or low price or less expensive etc \ 
-in their search for the lodges or restaurants, \ 
-compare their room prices or restaurant prices \  
-from the list of lodges and restaurants mentioned above and \ 
-get the lodges or Restaurants with lowest room prices or food prices. \ 
-recommend lodges and restaurants with the lowest room or food prices. \ 
-Give at least 3 recommendations from the list. \ 
-
-
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered.
 
@@ -583,8 +573,6 @@ step 3 {delimiter} < step 3 reasoning >
 Respond to user: {delimiter} < response to customer >
 
 Make sure to include {delimiter} to seperate every step.
-
-output only the final result.
 """
 
 

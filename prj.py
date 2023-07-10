@@ -129,7 +129,8 @@ D. Bar:
 - our cocktail Bar offers some drinks and different kinds of beers.
 
 Other activities:
-- Event hires such as weddings, Parties, meetings
+- Event hires such as weddings, Parties, meetings.
+- we do not offer swimming pool services.
 
 
 E. CONTACT US:
@@ -447,6 +448,7 @@ B. Activities:
 - Room Service: K10.
 - Laundry: opens from 06:30 to 21:00.
 - Mini Bar: We have a mini bar that closes at 22:00. 
+- we do not offer swimming pool services.
 
 C. Contact Us:
 

@@ -575,8 +575,6 @@ Answer the customer in a calm and friendly tone.
 
 Lets think step by step.
 
-Take time to think.
-
 Use the following format:
 step 1 {delimiter} < step 1 reasoning >
 step 2 {delimiter} < step 2 reasoning >
@@ -586,7 +584,7 @@ Respond to user: {delimiter} < response to customer >
 
 Make sure to include {delimiter} to seperate every step.
 
-
+output only the final result.
 """
 
 

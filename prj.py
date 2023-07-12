@@ -99,12 +99,13 @@ security service. it has a total of 11 Self contained rooms. \
 
 B. Conference Room:
 
-Conferences and meetings \ 
+- Conferences and meetings \ 
 Conferencing, meetings and seminars for up to 80 participants. \ 
 We cater for conferences, seminars and workshops for up to 80 \ 
 people  with a large conference halls and meeting rooms. \ 
 
 C. Restaurant:
+Here is our food menu list:
 
 i. Starter: 
 - Greek Salad
@@ -128,19 +129,33 @@ iii. Dessert:
 D. Bar: 
 - our cocktail Bar offers some drinks and different kinds of beers.
 
-Other activities:
+E. Other activities:
 - Event hires such as weddings, Parties, meetings.
 - we do not offer swimming pool services.
+- Game Drive + Rhino walk: K400
+- Bungee Jumping: K1600
+- Boat Cruise: K800
+- Tour to Livingstone Musuem: K100
+- While water Rafting: K1200
+- Helicopter flight: K1900
+- Gorge Siving: K1550
+- Airport Transfer: K140.
 
+F. Photo Gallery:
+Below are some photo links to our lodge, rooms and restaurant:
+- Photo link: https://photo1.jpg
+- Photo link: https://photo2.jpg
+- Photo link: https://photo3.jpg
+- Photo link: https://photo4.jpg
 
-E. CONTACT US:
+G. CONTACT US:
 - Phone Number: +260-213-320647.
 
 - Email address: livingstonelodge7@gmail.com.
 
 - Postal Address: P.O Box 61177, Livingstone.
 
-F. Location:
+H. Location:
 - Located: Maramba Road Plot 01, maramba area.
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
 

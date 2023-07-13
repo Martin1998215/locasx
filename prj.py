@@ -676,7 +676,6 @@ with tab1:
 
 
    	st.write("""
-        - Travel
 	- Restaurant
         - Hospitality
         ---

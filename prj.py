@@ -673,17 +673,16 @@ Let Us Improve Your Travel Experience with all the services you need.
 tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
 
 with tab1:
-
-
-   	st.write("""
-	- Restaurant
+	st.write("""
+        - Travel
+        - Restaurant
         - Hospitality
-	
         ---
         **Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
         dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
         their accommodation pricing, restaurants available and their menus**
 		""")
+
 
 with tab2:
 

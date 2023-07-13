@@ -76,6 +76,8 @@ All available lodges and restaurants and their services:
 
 1. Name of the lodge: Livingstone lodge
 
+- Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
+
 About Us:
 
 - Livingstone Lodge is of the Lodge with a total of 11 Self contained rooms, \ 
@@ -83,7 +85,8 @@ a VIP deluxe suite and conferencing facility accommodating about 80 people. \
 Established on July 1, 1957, the Hostels Board of Management is a government \ 
 Institution under the Ministry of Tourism and Arts of the Government of the \ 
 Republic of Zambia. However, over time, the demand from the general public and \ 
-other Institutions emerged and the government decided to open to the general public. \ 
+other Institutions emerged and the government decided to open to the general public. \
+- Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
 
 Available services for Livingstone Lodge:
 
@@ -161,9 +164,11 @@ H. Location:
 
 2. Name of Restaurant: Flavours Pub and Grills Restaurant.
 
+-  Flavours Pub and Grills Restaurant is a Restaurant, It is not a lodge.
+
 About Flavours Pub and Grills Restaurant:
 - Flavours Pub & Grill is a Restaurant located in the city of Livingstone, \ 
-Along Lusaka road, Town Area in livingstone, Zambia. It is not a lodge.
+Along Lusaka road, Town Area in livingstone, Zambia.
 - We serve the Best food ever, at affordable prices.
 - We also make the quickiest deliveries anywhere around Livingstone.
 - We have enough space to accomodate many people at our restaurant for both \ 
@@ -208,6 +213,8 @@ E. Location:
 - Nearby: Town or Mukuni Park
 
 3. Name of Lodge: Chappa Classic Lodge
+
+ - Chappa Classic Lodge is a Lodge. It has a Restaurant that serves food.
 
 About Chappa Classic Lodge:
 
@@ -266,9 +273,11 @@ E. Location:
 - Located: 66 Nehru Way, Town area, Livingstone
 - Nearby: Livingstone Central Hospital, Town, NIPA
 
-4. name of lodge: Kaazimein Lodge.
+4. name of lodge: Kaazmein Lodge.
 
-About Kaazimein Lodge:
+ - Kaazmein Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Kaazmein Lodge:
  
 - The Kaazmein Lodge & Resort has 12 standard double twin chalets, \ 
 these units of which overlook a mini lake. There are also 10 Hotel \  
@@ -289,7 +298,7 @@ under the indigenous African trees, these typical A-framed designed rooms are a 
 unique option. We offer excellent prices and have great packages on all adrenaline \ 
 activities in and around the Victoria falls.
 
-Available services for Kaazimein Lodge:
+Available services for Kaazmein Lodge:
 
 
 A. Rooms or accommodaion:
@@ -386,7 +395,9 @@ E. Location:
 
 5. name of lodge: Mosi-O-Tunya Execcutive Lodge.
 
-About Mosi O Tunya Lodge:
+ - Mosi-O-Tunya Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Mosi-O-Tunya Lodge:
 
 - Classified as a grade A - lodge by the ministry of Tourism and Natural resources.
 - We are situated in the highlands area of Livingstone, off Lusaka Road and behind \ 
@@ -402,7 +413,7 @@ blazing heat of livingstone.
 at affordable fees.
 - we are located on Plot No. 4424/37, in Highlands, Livingstone.
 
-Available Services for Mosi O Tunya Lodge:
+Available Services for Mosi-O-Tunya Lodge:
 
 A. Rooms or Accommodation:
 
@@ -437,7 +448,61 @@ E. Location:
 - Located: Plot No. 4424/37, Highlands, Livingstone.
 - Nearby: Bible College.
 
+2. Name of Restaurant: Bravo Restaurant.
+
+-  Bravo Restaurant is a Restaurant, It is not a lodge.
+
+About Bravo Restaurant:
+- Bravo is a Restaurant located in the city of Livingstone, \ 
+Along Lusaka road, Town Area in livingstone, Zambia.
+- We serve the Best food ever, at affordable prices.
+- We also make the quickiest deliveries anywhere around Livingstone.
+- We dont have enough parking space for cars. 
+
+Available Services for Bravo Restaurant: 
+
+A. Food Menu:
+- We serve the best food with the best ingredients at affordable prices.
+
+- Pizza: K120.00
+- Burger: K38.00
+- Sharwama: K35.00
+- Sausage & Chips: K40.00
+- Buffet: K79.00
+- Nshina with Kapenta: K30.00
+- Fruit Juice: K28.00
+- Fruticana (500mls): K12.00
+- Fanta (500mls): K13.00
+- Mineral water: K6.00
+
+B. Our Deliveries:
+- We offer the best and quickest kind of deliveries using our delivery vans \ 
+around livingstone.
+- Make An order by calling us on 0978 833 685.
+
+C. Photo Gallery:
+Below are some photo links to our restaurant and our food menus:
+- Photo link: https://bravophoto1.jpg
+- Photo link: https://bravophoto2.jpg
+- Photo link: https://bravophoto3.jpg
+- Photo link: https://bravophoto4.jpg
+- Photo link: https://bravophoto5.jpg
+- Photo link: https://bravophoto6.jpg
+- Photo link: https://bravophoto7.jpg
+- Photo link: https://bravophoto8.jpg
+
+D. Contact Us:
+- Cell: 0978 833 685.
+- Email: bravorestaurant@gmail.com.
+- Facebook Page: Bravo Restaurant.
+
+E. Location:
+- Located: Along Lusaka Road, In Town, livingstone, Zambia.
+- Nearby: Absa Bank, Stanbic Bank, Bata shop.
+
 6. Name of Lodge: White Rose Lodge.
+
+ - White Rose Lodge is a Lodge. It has a Restaurant that serves food.
 
 About White Rose Lodge:
 
@@ -476,6 +541,8 @@ D. Location:
 - Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge . 
 
 7. Name of Lodge: KM Executive Lodge
+
+ - KM Executive Lodge is a Lodge. It has a Restaurant that serves food.
 
 About KM Executive Lodge:
 
@@ -532,6 +599,8 @@ G. Location:
 - Nearby: Highlands Market or Zambezi Sports Club
 
 7. Name of Lodge: Asenga Executive Lodge Livingstone
+
+ - Asenga Executive Lodge is a Lodge. It has a Restaurant that serves food.
 
 About Asenga Executive Lodge Livingstone:
 
@@ -608,6 +677,7 @@ with tab1:
 
    	st.write("""
         - Travel
+	- Restaurant
         - Hospitality
         ---
         **Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 

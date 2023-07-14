@@ -448,59 +448,114 @@ E. Location:
 - Located: Plot No. 4424/37, Highlands, Livingstone.
 - Nearby: Bible College.
 
-2. Name of Restaurant: Bravo Restaurant.
+6. Name of Restaurant: Bravo Cafe and Restaurant.
 
--  Bravo Restaurant is a Restaurant, It is not a lodge.
+-  Bravo Cafe and Restaurant is a Restaurant, It is not a lodge.
 
-About Bravo Restaurant:
-- Bravo is a Restaurant located in the city of Livingstone, \ 
-Along Lusaka road, Town Area in livingstone, Zambia.
+About Bravo Cafe and Restaurant:
+- Bravo Cafe and Restaurant is a Restaurant located in the city of Livingstone, \ 
+Along Mosi O Tunya road, Town Area in livingstone, Zambia.
 - We serve the Best food ever, at affordable prices.
 - We also make the quickiest deliveries anywhere around Livingstone.
-- We dont have enough parking space for cars. 
 
-Available Services for Bravo Restaurant: 
+Available Services for Bravo Cafe and Restaurant: 
 
 A. Food Menu:
 - We serve the best food with the best ingredients at affordable prices.
+- check out our food prices or charges below:
 
-- Pizza: K120.00
-- Burger: K38.00
-- Sharwama: K35.00
-- Sausage & Chips: K40.00
-- Buffet: K79.00
-- Nshina with Kapenta: K30.00
-- Fruit Juice: K28.00
-- Fruticana (500mls): K12.00
-- Fanta (500mls): K13.00
-- Mineral water: K6.00
+I. Cafe Menu:
+- Beef Pies (large): K25
+- Chicken Pies (large): K25
+- Mini Sausage Roll: K21
+- Hot Chocolate: K35
+- Cuppucino: K35
+- Cake Slice: K37
+- Birthday cake (large): K350
+- Choco Cake (large): K350
+- Vanilla Cake Slice: K37
+- Cream Doughnut: K15
+- Plain Scone: K12
+- Bran Muffin: K18
+- Melting Moments: K18
+- Cheese Strows: K23
+- Egg Roll: K35
+- Samoosa: K10
+- Chicken Combo Delux: K22
+- English Breakfast: K50
+- Bread: K17
+-  Milkshake: 35
+II. Drink Prices or charges:
+- Fruticana (500mls): K13
+- Fanta (500mls): K16
+- Sprite (500mls): K16
+- Coke (500mls): K16
+- Fruitree: K25
+- Embe: K17
+- Mineral Water (500mls): K5
+- Mineral Water (750mls): K7
+- Mineral water (1L): K10
+III. Pizza Menu:
+a. Large Sized Pizza:
+- Chicken Mushroom: K149.99
+- Macon Chicken BBQ: K135
+b. Medium Sized Pizza:
+- Tikka Chicken: K99
+- Chicken Mushroom: K105
+- Pepperon Plus: K80
+- All round Meat: K95
+- Hawaian: K90
+- Veggie Natural: K78
+- Margerita: K75
+c. Regular Sized Pizza:
+- Big Friday Pizza: K78
+- PeriPeri Chicken: K50
+
+IV. Cream:
+- Ice Cream Cone: K12
+- Ice cream Cup (large): K25
+- Ice Cream Cup (small): K18
+
+V. Red Burgers:
+- Beef Burger: K39
+- Chicken Burger: K50
+
+VI. Grill:
+- T Bone + chips: K95
+- Grilled Piece Chicken: K25
+- Grilled Piece + chips: K45
+- Sharwama special: K39.99
+- Sausage and chips: K60
 
 B. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery vans \ 
 around livingstone.
-- Make An order by calling us on 0978 833 685.
+- Make An order by calling us on 0771 023 899.
 
 C. Photo Gallery:
 Below are some photo links to our restaurant and our food menus:
-- Photo link: https://bravophoto1.jpg
-- Photo link: https://bravophoto2.jpg
-- Photo link: https://bravophoto3.jpg
-- Photo link: https://bravophoto4.jpg
-- Photo link: https://bravophoto5.jpg
-- Photo link: https://bravophoto6.jpg
-- Photo link: https://bravophoto7.jpg
-- Photo link: https://bravophoto8.jpg
+- Photo link: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
+- Photo link: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
+- Photo link: https://web.facebook.com/photo/?fbid=252277424215064&set=pb.100082984238391.-2207520000.
+- Photo link: https://web.facebook.com/photo/?fbid=251681690941304&set=pb.100082984238391.-2207520000.
+- Photo link: https://web.facebook.com/photo/?fbid=251681597607980&set=pb.100082984238391.-2207520000.
+- Photo link: https://web.facebook.com/photo/?fbid=250980197678120&set=pb.100082984238391.-2207520000.
+- Photo link: https://web.facebook.com/photo.php?fbid=245265944916212&set=pb.100082984238391.-2207520000.&type=3
+- Photo link: https://web.facebook.com/photo.php?fbid=234845942624879&set=pb.100082984238391.-2207520000.&type=3
+- Photo Link: https://web.facebook.com/photo.php?fbid=210258831750257&set=pb.100082984238391.-2207520000.&type=3
+
+For More, Check on our Facebook Page: https://web.facebook.com/BRAVOLSTONE/photos
 
 D. Contact Us:
 - Cell: 0978 833 685.
 - Email: bravorestaurant@gmail.com.
-- Facebook Page: Bravo Restaurant.
+- Facebook Page: https://web.facebook.com/BRAVOLSTONE
 
 E. Location:
-- Located: Along Lusaka Road, In Town, livingstone, Zambia.
+- Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
 - Nearby: Absa Bank, Stanbic Bank, Bata shop.
 
-6. Name of Lodge: White Rose Lodge.
+7. Name of Lodge: White Rose Lodge.
 
  - White Rose Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -540,7 +595,7 @@ D. Location:
 - Located: at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
 - Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge . 
 
-7. Name of Lodge: KM Executive Lodge
+8. Name of Lodge: KM Executive Lodge
 
  - KM Executive Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -598,7 +653,7 @@ G. Location:
 - Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
 - Nearby: Highlands Market or Zambezi Sports Club
 
-7. Name of Lodge: Asenga Executive Lodge Livingstone
+9. Name of Lodge: Asenga Executive Lodge Livingstone
 
  - Asenga Executive Lodge is a Lodge. It has a Restaurant that serves food.
 

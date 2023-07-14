@@ -806,10 +806,10 @@ with col6:
 st.write('---') 
 
 
-txt = st.text_input("How may we assist you, our customer?")
+txt = st.text_input("How may we assist you, our customer?",max_chars=150,placeholder="Write here...")
 
 words = len(re.findall(r'\w+', txt))
-st.write('Number of Words :', words, "/750")
+# st.write('Number of Words :', words, "/750")
 
 word = len(re.findall(r'\w+', system_message))
 # st.write('Number of Words :', word)

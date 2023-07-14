@@ -800,7 +800,7 @@ with col5:
    st.warning("**what are the room prices for lodge X? or what are the food prices for restaurant X? ---**")
 
 with col6:
-   st.warning("**what services are offered at Lodge X? eg Kaazimein lodge**")
+   st.warning("**what Lodges are there? --**")
  
 
 st.write('---') 

@@ -533,18 +533,18 @@ around livingstone.
 - Make An order by calling us on 0771 023 899.
 
 C. Photo Gallery:
-Below are some photo links to our restaurant and our food menus:
-- Photo link: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
-- Photo link: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
-- Photo link: https://web.facebook.com/photo/?fbid=252277424215064&set=pb.100082984238391.-2207520000.
-- Photo link: https://web.facebook.com/photo/?fbid=251681690941304&set=pb.100082984238391.-2207520000.
-- Photo link: https://web.facebook.com/photo/?fbid=251681597607980&set=pb.100082984238391.-2207520000.
-- Photo link: https://web.facebook.com/photo/?fbid=250980197678120&set=pb.100082984238391.-2207520000.
-- Photo link: https://web.facebook.com/photo.php?fbid=245265944916212&set=pb.100082984238391.-2207520000.&type=3
-- Photo link: https://web.facebook.com/photo.php?fbid=234845942624879&set=pb.100082984238391.-2207520000.&type=3
-- Photo Link: https://web.facebook.com/photo.php?fbid=210258831750257&set=pb.100082984238391.-2207520000.&type=3
+Below are some photos for Bravo Cafe's food:
+- Photo: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=252277424215064&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=251681690941304&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=251681597607980&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=250980197678120&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo.php?fbid=245265944916212&set=pb.100082984238391.-2207520000.&type=3
+- Photo: https://web.facebook.com/photo.php?fbid=234845942624879&set=pb.100082984238391.-2207520000.&type=3
+- Photo: https://web.facebook.com/photo.php?fbid=210258831750257&set=pb.100082984238391.-2207520000.&type=3
 
-For More, Check on our Facebook Page: https://web.facebook.com/BRAVOLSTONE/photos
+For More photos, Check on our Facebook Page: https://web.facebook.com/BRAVOLSTONE/photos
 
 D. Contact Us:
 - Cell: 0978 833 685.
@@ -794,7 +794,7 @@ with col3:
 col4, col5, col6 = st.columns(3)
 
 with col4:
-   st.warning("**What lodges are there in area X eg Highlands, Nottie Brodie? ---**")
+   st.warning("**do you have any photo gallery  for Bravo Cafe and Restaurant? ---**")
 
 with col5:
    st.warning("**what are the room prices for lodge X? or what are the food prices for restaurant X? ---**")

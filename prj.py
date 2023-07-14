@@ -782,7 +782,7 @@ st.write("### Suggested Questions...")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-   st.warning("**What lodges are available? ---**")
+   st.warning("**how much is food at Bravo? ---**")
 
 with col2:
    st.warning("**what Restaurants are there?**")

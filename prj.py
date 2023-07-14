@@ -782,7 +782,7 @@ st.write("### Suggested Questions...")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-   st.warning("**how much is food at Bravo? ---**")
+   st.warning("**how much is food at Bravo Cafe and Restaurant? ---**")
 
 with col2:
    st.warning("**what Restaurants are there?**")
@@ -794,10 +794,10 @@ with col3:
 col4, col5, col6 = st.columns(3)
 
 with col4:
-   st.warning("**do you have any photo gallery  for Bravo Cafe and Restaurant? ---**")
+   st.warning("**do you have any photos for Bravo Cafe? ---**")
 
 with col5:
-   st.warning("**what are the room prices for lodge X? or what are the food prices for restaurant X? ---**")
+   st.warning("**what are the room prices for lodge [insert name]? ---**")
 
 with col6:
    st.warning("**what Lodges are there? --**")

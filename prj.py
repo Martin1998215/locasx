@@ -992,7 +992,7 @@ if st.button("Ask Our AI Assistant"):
 
     res_word = len(re.findall(r'\w+', final_response))
     st.write('Number of Words :', res_word)
-	st.write("Number of Tokens in System Message", token_dict['prompt_tokens'])
+    st.write("Number of Tokens in System Message", token_dict['prompt_tokens'])
 
 # step 3: {delimiter}: If the user includes key words like affordable \  
 # or low budget or cheap or low price or less expensive etc \  

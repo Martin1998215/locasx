@@ -842,7 +842,7 @@ if st.button("Ask Our AI Assistant"):
     except Exception as e:
         final_response = "Sorry! Am having troubles right now, trying asking another question.." 
 
-    st.write(final_response)
+    st.write(response)
 
     
     # create user query db

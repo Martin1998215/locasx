@@ -50,12 +50,19 @@ def get_completion_from_messages(messages, model = "gpt-3.5-turbo-16k"):
         model=model,
         messages=messages,
         temperature=0
-    )    
+    )
+	
+    content = response.choices[0].message["content"]
 
+    token_dict = {
 
-    return response.choices[0].message["content"]
+        'prompt_tokens': response['usage']['prompt_tokens'],
+        'completion_tokens': response['usage']['completion_tokens'],
+        'total_tokens': response['usage']['total_tokens']
 
+    }
 
+    return content, token_dict
 
 
 delimiter = "####"
@@ -162,55 +169,175 @@ H. Location:
 - Located: Maramba Road Plot 01, maramba area.
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
 
-2. Name of Restaurant: Flavours Pub and Grills Restaurant.
+2. Name of Restaurant: Flavours Pubs and Grill Restaurant.
 
--  Flavours Pub and Grills Restaurant is a Restaurant, It is not a lodge.
+- Flavours Pubs and Grill Restaurant is a Restaurant, It is not a lodge.
 
-About Flavours Pub and Grills Restaurant:
-- Flavours Pub & Grill is a Restaurant located in the city of Livingstone, \ 
-Along Lusaka road, Town Area in livingstone, Zambia.
-- We serve the Best food ever, at affordable prices.
+About Flavours Pubs and Grill Restaurant:
+-Flavours is one of the top Pubs and Grill in Livingstone.
+- It is located right in the heart of the tourist capital \ 
+of Zambia along Mosi O Tunya road. It is not a lodge.
+- We also do outside catering, venue hire, kitchen parties \ 
+weddings and other corparate events.
 - We also make the quickiest deliveries anywhere around Livingstone.
 - We have enough space to accomodate many people at our restaurant for both \ 
 open space and shelter space. 
-- We also offer attachments to catering students, with the ability to \ 
-hire potential ones after their studies. 
 - We also have a large car parking space to ensure the safety of your car. 
 
-Available Services for Flavours Pub and Grills Restaurant: 
+Available Services for Flavours Pubs and Grill Restaurant: 
 
 A. Food Menu:
 - We serve the best food with the best ingredients at affordable prices.
 
-- Traditional Pizza: K55.00
-- Burger: K33.00
-- Sharwama: K22.00
-- Sausage & Chips: K80.00
-- Bufe: K122.00
-- Nshina, Kapenta: K28.00
-- Juice: K19.00
+I. Hot Beverages:
+- Masala Tea: K40
+- Regular Coffee: K30
+- Milo/Hot Chocolate: K40
+- Cappucino: K40
+- Cafe Latte: K40
+- Creamocino: K40
+- Roibos, Five Roses: K30
+
+II. Breakfast
+- Cafe Breakfast: K105
+- Mega Breakfast: K105
+- Executive Breakfast: K105
+- Farmers Breakfast: K105
+- Sunrise Breakfast: K70
+
+III. Drinks
+- Mineral Water (500mls): K10
+- Fruticana (500mls): K15
+- Bottled Fanta: K10
+- Bottled Coke: K10
+- Bottled Sprite: K10
+- Bottled Merinda: K10
+- Disposable Fanta (500mls): K15
+- Disposable Coke (500mls): K15
+
+IV. Traditional Food:
+- Village Chicken stew: K100
+- Goat stew: K95
+- Beef shew: K85
+- Game meat: K140
+- Oxtail: K100
+- Kapenta: K70
+
+V. Samoosa:
+- Chicken samoosa: K60
+- Vegetable samoosa: K55
+
+VI. Sandwiches:
+- Chicken and Mayonnaise: K80
+- Tuna Sandwich: K90
+
+VII. Desserts:
+- Milkshake: K55
+- Ice Cream: K40
+
+VIII. Main Course Burgers:
+- Beef Burger: K95
+- Chicken Burger: K90
+- Vegetable Burger: K90
+- Cheese Burger: K100
+
+IX. Main Course Meals:
+- Dreamlight T-Bone steak 350g: K125
+- Beef Fillet steak 350g: K120
+- Rump steak 350g: K115
+- Lamb chops 3PCs: K130
+- Carribean Pork chops: K120
+- Buffalo wings: K100
+
+X. Sausage:
+- Boerewars sausage and chips: K85
+- Hungarian sausage and chips: K70
+
+XI. Platter:
+- Platter for 3: K320
+- Platter for 4: K400
+- Platter for 6: K600
+- Family Platter: K900
+
+XII. Pasta/Noodles:
+- Chicken Fried Noodles: K80
+- Beef Fried Noodles: K85
+
+XIII. Special Pizza:
+- Mini Pizza (all flavour): K80
+- Meat Feast: K120
+- Mexican Pizza: K140
+- Chicken Tikka: K140
+- Chicken Mushroom: K115
+- Vegetable Pizza: K105
+- Hawaiian Chicken Pizza: K105
+
+XIV. Salads:
+- Greek Salad: K55
+- chicken ceaser salad: K80
+- Crocodile strip salad: K105
+
+XV. Snacks:
+- Chicken wing: K70
+- Beef Kebabs: K100
+
+XVI. Side Orders:
+- Paper Sauce: K35
+- Potato widges, rice or Nshima: K35
+- Chips or mashed potato: K35
+- Garlic Sauce: K40
+- Butter Sauce: K45
+
+XVII. Fish:
+- Zambezi whole Bream: K110
+- Bream Fillet: K130
+
+XVIII. Soups and starters:
+- Vegetable/tomato soup: K50
+- Home made mushroom soup: K60
+
+XIX. Non Vegetable Main Course: 
+- Plain Rice: K30
+- Jeera Rice: K60
+- Vegetable Pilau: K40
+- Egg Fried Rice: K60
+- Vegetable Biry Ani: K100
+- Chicken Biry Ani: K115
+- Butter Chicken: K150
+- Kadhai Chicken: K150
+- Chicken Tikka Masala: K150
+
+XX. Naan/Rotis:
+- Butter Naan: K35
+- Garlic Naan: K40
+- Chilli Naan: K35
+
+
 
 B. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery van \ 
 around livingstone.
-- Make An order by calling us on 0977 682 611.
+- Make An order by calling us on 0978 812 068.
 
-C. Our Chefs:
-- We hire the very best chefs to serve you the best food you ever dream to taste.
-- Our chefs offer the best gesture. they know how to treat our customers.
-- We also offer attachments to catering students, with the ability to \ 
-hire potential ones after their studies.
+C. Photo Gallery:
+Below are some photo links to our restaurant and food menu:
+- Photo link: https://flavours/photo1.jpg
+- Photo link: https://flavours/photo2.jpg
+- Photo link: https://flavours/photo3.jpg
+- Photo link: https://flavours/photo4.jpg
 
+For More photos, check our Facebook Page: Flavours Pubs & Grill Restaurant.
 
 D. Contact Us:
-- Cell: 0974 893 829.
-- Tel: 211 120 829.
+- Cell: 0978 812 068.
+- Tel: +260 213 322 356.
 - Email: FlavoursPub&Grill@gmail.com.
-- Facebook Page: Flavours Pub & Grill.
+- Facebook Page: Flavours Pubs & Grill Restaurant.
 
 E. Location:
-- Located: Along Lusaka Road, Town area, in livingstone, Zambia.
+- Located: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
 - Nearby: Town or Mukuni Park
+
 
 3. Name of Lodge: Chappa Classic Lodge
 
@@ -672,12 +799,12 @@ A. Accommodation:
 - We have two types of Rooms: Executive Rooms as well as Standard Rooms.
 
 1.Executive Rooms:
-- Executive Single occupancy: k880 per night.
-- Executive double occupancy: k930 per night.
+- Executive Single occupancy: k880
+- Executive double occupancy: k930
 
 2.Standard Rooms:
-- Standard Single occupancy: k780 per night.
-- Standard double occupancy is k830 per night.
+- Standard Single occupancy: k780
+- Standard double occupancy is k830
 
 Kindly note that these rates include English Breakfast,free Internet and Swimming Pool.
 
@@ -831,17 +958,19 @@ if st.button("Ask Our AI Assistant"):
     'content': f"{delimiter}{user_message}{delimiter}"
     }]
 
-    response = get_completion_from_messages(messages)
+    response, token_dict = get_completion_from_messages(messages)
 
 
     st.write("---")
+	
 
     try:
         final_response = response.split(delimiter)[-1].strip()
 
     except Exception as e:
         final_response = "Sorry! Am having troubles right now, trying asking another question.." 
-
+	
+	
     st.write(final_response)
 
     
@@ -863,6 +992,7 @@ if st.button("Ask Our AI Assistant"):
 
     res_word = len(re.findall(r'\w+', final_response))
     st.write('Number of Words :', res_word)
+	st.write("Number of Tokens in System Message", token_dict['prompt_tokens'])
 
 # step 3: {delimiter}: If the user includes key words like affordable \  
 # or low budget or cheap or low price or less expensive etc \  

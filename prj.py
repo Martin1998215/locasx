@@ -85,7 +85,7 @@ All available lodges and restaurants and their services:
 
 - Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
 
-About Us:
+About Livingstone Lodge:
 
 - Livingstone Lodge is of the Lodge with a total of 11 Self contained rooms, \ 
 a VIP deluxe suite and conferencing facility accommodating about 80 people. \ 

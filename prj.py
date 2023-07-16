@@ -98,43 +98,39 @@ other Institutions emerged and the government decided to open to the general pub
 Available services for Livingstone Lodge:
 
 A. Rooms or Accommodation:
+All our rooms are self contained with Dstv, free Wi Fi and \ 
+a continental breakfast. it has a total of 11 Self contained rooms. \ 
 
-All our rooms are self contained with Dstv, free Wi Fi and 24hrs \ 
-security service. it has a total of 11 Self contained rooms. \ 
-
-- Executive Double: K300 per night.
-- Executive Twin: K350 per night.
-- Family Rooms: K370 per night.
-- Deluxe Suite: K1,000 per night
+- Executive Double: K350
+- Executive Twin: K400
+- Standard Twin: K370
+- Deluxe Suite: K1,000
 
 B. Conference Room:
 
-- Conferences and meetings \ 
-Conferencing, meetings and seminars for up to 80 participants. \ 
+- Conferences and meetings:  
+- Conferencing, meetings and seminars for up to 80 participants. \ 
 We cater for conferences, seminars and workshops for up to 80 \ 
 people  with a large conference halls and meeting rooms. \ 
+- Note: our conference facilities have WIFI included.
+- Below are the prices or charges of our conference room:
+i. Full conference package per person (with stationary) per person: K340
+ii. Full conference package per person (without stationary): K286
+iii. Half day conference package: K250
+iv. Conference venue only (50 pax max): K2500
+v. Outside Venue: K2000
+vi. Venue for worshops: K1500
 
 C. Restaurant:
-Here is our food menu list:
+we have food and beverages. below is a list of our menu:
+- Tea and snack person: K65
+- Lunch or Dinner (Buffet) with choice of starter or desert: K130
+- Lunch or Dinner (Buffet) Complete: K180
+- Cocktail snacks: K90
+- Full English Breakfast: K60
+- Soft Drinks (300mls): K10
+- Mineral water (500mls): K8
 
-i. Starter: 
-- Greek Salad
-- Egg Carviar
-- Cold meat Platter
-
-ii. Main Course:
-- Spice grilled chicken
-- Fillet served with herbed mornay sauce
-- Beef Strongoff
-- Lasagne
-All accompanied with:
-- Saffron rice
-- Fondant Potatoes
-- And served with seasonal vegetables
-
-iii. Dessert:
-- Banana Crumble
-- Triffle
 
 D. Bar: 
 - our cocktail Bar offers some drinks and different kinds of beers.
@@ -153,16 +149,16 @@ E. Other activities:
 
 F. Photo Gallery:
 Below are some photo links to our lodge, rooms and restaurant:
-- Photo link: https://photo1.jpg
-- Photo link: https://photo2.jpg
-- Photo link: https://photo3.jpg
-- Photo link: https://photo4.jpg
+- Photo link: https://web.facebook.com/photo?fbid=711954037609172&set=a.711954350942474
+- Photo link: https://web.facebook.com/hostelsboard11/photos/a.112074110583399/112074030583407/
+- Photo link: https://web.facebook.com/hostelsboard11/photos/a.112073317250145/112073783916765/
+
+for more photos, check out our facebook page: https://web.facebook.com/hostelsboard11/photos
 
 G. CONTACT US:
 - Phone Number: +260-213-320647.
-
 - Email address: livingstonelodge7@gmail.com.
-
+- Facebook Page: https://web.facebook.com/hostelsboard11
 - Postal Address: P.O Box 61177, Livingstone.
 
 H. Location:

@@ -821,6 +821,37 @@ E. Location:
 - PO Box 60464 Livingstone.
 - nearby places: Highlands Market or Zambezi Sports Complex.
 
+10. Name of Lodge: Aunt Josephine's Executive Lodge.
+
+About Aunt Josephine's Executive Lodge:
+
+- Aunt Josephine's Executive Lodge is based in the heart of Livingstone. \ 
+It is located at Plot NO 2072/178, Maramba, Livingstone. It is near Maramba \ 
+market or Messenger area. It offers room or accommodation, a Bar. Please \ 
+Note that we do not have a Restaurant. Our contact details are 0770 156 856. \ 
+You can also email us on auntjosephineexecutivelodge@gmail.com.
+
+Available Services for Aunt Josephine's Executive Lodge:
+
+A. Rooms or Accommodation prices or charges or rates:
+
+- Double Bed: It is self contained, has no air con, no fridge. It is going at K180.
+- Double Bed: It is self contained, has an air con and a fridge. It is going at K250.
+- Double Bed: It is self contained, has an air con and a fridge. Glass Showers. It is going at K300.
+
+B. Bar:
+- We have a bar that offers various drinks and beers.
+
+Note: We do not have a restaurant or offer any food services.
+
+C. Contacts:
+- Call: 0770 156 856.
+- Email: auntjosephineexecutivelodge@gmail.com.
+
+D. Location:
+- Located: Plot NO 2072/178, Maramba, Livingstone.
+- Nearby: Maramba Market or Messenger area.
+
 
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered.

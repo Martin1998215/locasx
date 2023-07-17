@@ -629,6 +629,231 @@ G. Location:
 - Nearby places: Highlands Market or Zambezi Sports Club
 
 
+7. Name of Restaurant: Kubu Cafe.
+
+-  Kubu Cafe is a Restaurant, It is not a lodge.
+
+About Kubu Cafe:
+- Kubu Cafe is a Restaurant located in the city of Livingstone, \ 
+Along Kabompo road, Town Area in livingstone, Zambia.
+- We serve the Best food ever, at affordable prices.
+- We are loacted along next to the Fire station.
+
+Available Services for Kubu Cafe: 
+
+A. Food Menu:
+- We serve the best food with the best ingredients at affordable prices.
+- check out our food prices or charges below:
+
+I. Breakfast Menu:
+- Crunchy Homemade Granola: K85
+- Bacon and Egg Breakfast Roll: K79
+- Bacon, Egg and Cheese Breakfast Roll: K95
+- Bacon and Egg Waffle: K85
+- French Toast: K85
+- English Breakfast: K116
+- Eggs on Toast: K85
+- Delux Breakfast Wrap: K198
+- Healthy Breakfast wrap: K116
+- Early Bird Breakfast: K70
+
+II. Omelettes Menu:
+- Cheese and Onion: K65
+- Bacon and Onion: K75
+- Bacon and Cheese: K95
+- Ham and Cheese: K95
+
+III. Extras: 
+- Egg: K9
+- Bacon: K32
+- Mushroom: K45
+- Cheese: K45
+- Toast: K14
+- Chips (150g): K23
+- Chips (300g): K45
+- Sausage: K25
+- Avocado (Seasonal): K40
+- Grilled Tomato: K11
+- Baked Beans: K17
+
+IV. Samoosas:
+- Chicken Samosas: K75
+- Beef Samosas: K75
+- Vegetable Samosas: K62
+
+V. Spring Rolls:
+- Chicken Spring Rolls: K75
+- Vegetable Spring Rolls: K62
+
+VI. Quesadilas:
+- Cheese and Bacon: K98
+- Ham and Cheese: K95
+- Chicken and Cheese: K98
+- Cheese and Tomato Salsa: K72
+
+VII. Sandwiches:
+- Egg and Bacon: K59
+- Cheese and Tomato: K63
+- Ham, Cheese and Tomato: K85
+- Ham and Cheese: K82
+- Egg, Bacon and Cheese: K89
+- Chicken and Mayo: K75
+
+VIII. Salads:
+- Tropical Chicken Salad: K165
+- Greek Salad: K145
+- Fried Halloumi Salad: K135
+- Summer Salad: K145
+
+IX. Homemade Pies:
+- Chicken: K63
+- Beef and Mushroom: K63
+
+X. Pizzas:
+- Margarita Pizza: K145
+- 3 Cheese Pizza: K175
+- Vegetarian Pizza: K175
+- Hawaiian Pizza: K188
+- Chicken and Mushroom Pizza: K188
+- FarmHouse Pizza: K220
+- Mexicana Chilli Mince Pizza: K188
+- Crocodile Pizza: K200
+- Pepper, Onion and Tomato Pizza: K12
+- Cheese Pizza: K45
+- Chorizo Sausage Pizza: K39
+- Mince Pizza: K32
+
+XI. Burgers:
+- Kubu Beef Burger: K110
+- Chilli Chicken Burger: K165
+- Ranch Burger: K165
+- Gourmet Burger: K195
+- Cowboy Burger: K225
+- Halloumi Bacon Burger: K210
+- Fish Burger: K165
+
+All Burgers are served with Chicken and salad.
+
+XII. Kids Main Meals:
+- Chicken and Chips: K95
+- Eggy Fried Rice: k85
+- Kids Kubu Cheese Burger: K110
+- Fish Fingers and chips: K145
+
+XIII. Desserts:
+- Pancakes: K65
+
+XIV. Coffee and Tea:
+- Americano Cup: K35
+- Americano Mug Double shot: K45
+- Cappucino: K49
+- Cappucino double shot: K55
+- Megachino: K60
+- long black coffee (3 shots): K65
+- Flat white: K45
+- Hot chocolate: K49
+- Single Latte: K55
+- Double Latte: K75
+
+XV. Tea:
+- Rooibos, Five Roses: K23
+- Earl grey: K29
+- Iced Tea: K23
+- Green Tea: K29
+- Ginger Tea: K59
+
+XVI. Milkshakes:
+- Chocolate (small): K55
+- Chocolate (large): K85
+- Vanilla (small): K55
+- Vanilla (large): K85
+- Strawberry (small): K55
+- Strawberry (large): K85
+- Banana (small): K65
+- Banana (large): K95
+- Coffee Milkshake (small): K59
+- Coffee Milkshake (large): K78
+- Milo Milkshake: K85
+
+XVII. Cake Slices:
+- Decadent Chocolate cake: K65
+- Carrot Cake: K85
+- Apple Crumble: K75
+- Cheese Cake: k89
+- Red Velvet Cake: K75
+- Black Forest Cake: K85
+
+XVIII. Drinks:
+- Lemonade: k23
+- Soda Water: K23
+- Tonic Water: K23
+- Mineral water (500mls): K11
+- Mineral Water (750mls): K14
+- Sparkling water (500mls): K39
+- Bottled Coke: K17
+- Bottled Fanta: K17
+- Bottled Sprite: K17
+- Coke (plastic bottle- 500mls): K19
+- Fanta (plastic bottle- 500mls): K19
+- Sprite (plastic bottle- 500mls): K19
+- Orange Juice: K95
+- Passion Fruit: K19
+
+XIX. Wines:
+- Red or white bottle: K260
+- Glass Red and white: K55
+
+XX. Whiskey and Brandy:
+- Jameson: K45
+- J&B: K45
+- Grants: K30
+- Vodka: K30
+- Jack Daniels: K55
+
+XXI. Beers And Ciders: 
+- Hunter's Gold: K45
+- Hunter's Dry: K45
+- Savannah Dry: K45
+- Flying Fish: K30
+- Black Label: K25
+- Mosi: K17
+- Castle: k17
+- Castle lite: k30
+
+XXII. Whole Cake Prices:
+- Chocolate (small): K399
+- Chocolate (medium): K450
+- Chocolate (large): K490
+- Vanilla (small): K369
+- Vanilla (medium): K429
+- Vanilla (large): K450
+- Black Forest (small): K750
+- Black Forest (medium): K950
+- Black Forest (large): K999
+- Cheese Cake (small): K450
+- Cheese Cake (medium): K580
+- Cheese Cake (large): K690
+
+
+C. Photo Gallery:
+Below are some photos for Kubu Cafe's food:
+- Kubu Cafe Photo: https://web.facebook.com/photo/?fbid=739887448139646&set=a.482160943912299
+- Kubu Cafe Photo: https://web.facebook.com/photo.php?fbid=739814858146905&set=pb.100063551922047.-2207520000.&type=3
+- Kubu Cafe Photo: https://web.facebook.com/photo.php?fbid=714700913991633&set=pb.100063551922047.-2207520000.&type=3
+
+
+For More photos, Check on our Facebook Page: https://web.facebook.com/KubuCafe/photos
+
+D. Contact Us:
+- Cell: 0977 65 33 45.
+- Email: lucy@kubucrafts.com
+- Facebook Page: https://web.facebook.com/KubuCafe
+
+E. Location:
+- Located: Along Kabompo Road, In Town, livingstone, Zambia.
+- Nearby places: Next to the Fire station.
+
+
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered.
 

@@ -332,7 +332,7 @@ D. Contact Us:
 
 E. Location:
 - Located: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
-- Nearby: Town or Mukuni Park
+- Nearby places: Town or Mukuni Park
 
 
 3. Name of Lodge: Chappa Classic Lodge
@@ -397,137 +397,18 @@ for more photos, check out our facebook page: https://web.facebook.com/chapaclas
 or visit our website at: https://www.chapaclassiclodge.com
 
 
-D. CONTACT US:
+E. CONTACT US:
 - Phone Number: +260 974656872 or +260 975795030
 - Email address: chapaclassiclodge@zamnet.zm
 - website: https://www.chapaclassiclodge.com
 - facebook page: https://web.facebook.com/chapaclassiclodge/photos 
 
-E. Location:
+F. Location:
 - Located: 66 Nehru Way, Town area, Livingstone
 - Nearby places: Livingstone Central Hospital, Town, NIPA
 
-4. name of lodge: Kaazmein Lodge.
 
- - Kaazmein Lodge is a Lodge. It has a Restaurant that serves food.
-
-About Kaazmein Lodge:
- 
-- The Kaazmein Lodge & Resort has 12 standard double twin chalets, \ 
-these units of which overlook a mini lake. There are also 10 Hotel \  
-rooms and a Family Hotel Chalet Room. The family units contain a \ 
-double room ideally for parents and the next inter-leading room \ 
-has two twin beds, both rooms are self contained.There is a central \ 
-dining complex with A wooden deck that overlooks the man-made \  
-mini lake, an open bar and restaurant area, reception and a conference Hall. \  
-The best accommodation provider situated in Livingstone, Zambia home of the \  
-Mighty Victoria Falls, a region that offers a diversity of cultures rarely equaled  \  
-by any other on earth, Enjoy the wide open spaces, where nature and backpacking \  
-form a unity located in a quiet suburb within walking distance of town, \  
-Let us make your stay and indeed your holiday memories an awesome journey into the \ 
-life, adventure and culture of the ancient continent. With accommodation ranging \ 
-from camping to private budget rooms Ideal For individuals / groups on a budget \  
-trip or travel. Despite being budget rooms, enjoy the en suite luxury facilities \ 
-under the indigenous African trees, these typical A-framed designed rooms are a \ 
-unique option. We offer excellent prices and have great packages on all adrenaline \ 
-activities in and around the Victoria falls.
-
-Available services for Kaazmein Lodge:
-
-
-A. Rooms or accommodaion:
-
-- Our rooms are crisp, bright,  full of class and character most \ 
-important of all they are comfortable and spacious.  12 Chalets \ 
-overlooking a water feature, 10 Hotel Style Rooms set in a relaxed lawn \  
-setting, and 12 self-contained A framed rooms, to cater for privacy \ 
-and individuality of guest.
-
-Our Rooms:
-- Budgets Chalets: K300
-- Standards Chalets: K650
-- Executive Chalets: K1200
-
-They have the following:
-
-- En suite facilities
-- WiFi Internet
-- Laundry available
-- Voltage 220v
-- Shaver outlet
-- Air-conditioning
-- Remote control & color screen with DSTV channels
-- Tea and coffee making facilities
-- Mini fridge
-- Amenities like soaps, shampoos, mosquito nets, repellents are inclusive
-
-
-B. Facilities:
-
-I. Conference Room:
-
-- Our conference rooms both have audio and video equipment. \ 
-The conference rooms can comfortably accommodate 80 and 20 delegates \  
-respectively. Ideal  venue for holding meetings, conferences and events. \  
-The following services are available for your functions:
-
-- markers
-- WiFi Internet
-- projector
-- morning tea-break
-- flip chart
-- writing pads
-- afternoon tea-break
-- lunch
-- refreshing soft drink
-- mineral water
-
-II. Swimming Pool
-III. Events Hire
-IV. Weddings
-V. Outdoor Bar
-VI. Restaurant and Lake:
-
-- The Restaurant is vibrant, a combination of friendly, seamless service \  
-and adventurously culinary flair, local, western and authentic food. \  
-Our main accent being on fresh and   healthy eating, offering many \  
-options for all tastes.
-
-C. Activities:
- 
-Livingstone Is Full Of Activities Below Is A List Of Activities \  
-That We Will Facilitate For You Our Esteemed Clients:
-
-- Victoria Falls Tour
-- Mukuni Village Tours
-- Gorge Swing
-- Lion Walk
-- Zambezi Canoeing
-- White Water Rafting
-- Banjee Jump
-- Microlight Flights
-- Boat Cruise
-- Bridge Tours
-
-
-
-D. Contact Us:
-
-- For bookings and reservations or any other inquiries please be free to contact us:
-- Email: info@kaazmeinlodge.com
- 
-- Land Phone: +260 213 32 22 44
- 
-- Cell Phone: +260 95 5 32 22 44 or +260 97 7 32 22 44
-
-E. Location:
-- Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
- 
-- Located: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
-
-- Nearby: Chandamali Market or Mosque.
-
-5. name of lodge: Mosi-O-Tunya Execcutive Lodge.
+4. name of lodge: Mosi-O-Tunya Execcutive Lodge.
 
  - Mosi-O-Tunya Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -580,9 +461,9 @@ for a true value of hospitality, visit us at:
 
 E. Location:
 - Located: Plot No. 4424/37, Highlands, Livingstone.
-- Nearby: Bible College.
+- Nearby places: Bible College.
 
-6. Name of Restaurant: Bravo Cafe and Restaurant.
+5. Name of Restaurant: Bravo Cafe and Restaurant.
 
 -  Bravo Cafe and Restaurant is a Restaurant, It is not a lodge.
 
@@ -687,9 +568,9 @@ D. Contact Us:
 
 E. Location:
 - Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
-- Nearby: Absa Bank, Stanbic Bank, Bata shop.
+- Nearby places: Absa Bank, Stanbic Bank, Bata shop.
 
-7. Name of Lodge: KM Executive Lodge
+6. Name of Lodge: KM Executive Lodge
 
  - KM Executive Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -745,7 +626,7 @@ F. Contact Us:
 
 G. Location:
 - Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
-- Nearby: Highlands Market or Zambezi Sports Club
+- Nearby places: Highlands Market or Zambezi Sports Club
 
 
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 

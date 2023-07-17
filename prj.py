@@ -149,11 +149,11 @@ E. Other activities:
 
 F. Photo Gallery:
 Below are some photo links to our lodge, rooms and restaurant:
-- Photo link: https://web.facebook.com/photo?fbid=711954037609172&set=a.711954350942474
-- Photo link: https://web.facebook.com/hostelsboard11/photos/a.112074110583399/112074030583407/
-- Photo link: https://web.facebook.com/hostelsboard11/photos/a.112073317250145/112073783916765/
+- Livingstone Lodge Photo link: https://web.facebook.com/photo?fbid=711954037609172&set=a.711954350942474
+- Livingstone Lodge Photo link: https://web.facebook.com/hostelsboard11/photos/a.112074110583399/112074030583407/
+- Livingstone Lodge Photo link: https://web.facebook.com/hostelsboard11/photos/a.112073317250145/112073783916765/
 
-for more photos, check out our facebook page: https://web.facebook.com/hostelsboard11/photos
+for more photos on Livingstone Lodge, check out our facebook page: https://web.facebook.com/hostelsboard11/photos
 
 G. CONTACT US:
 - Phone Number: +260-213-320647.
@@ -389,11 +389,11 @@ Other activities:
 
 D. Photo Gallery:
 Below are some photo links to our lodge, rooms and restaurant:
-- Photo link: https://web.facebook.com/photo.php?fbid=711948847607319&set=pb.100063766290503.-2207520000.&type=3
-- Photo link: https://web.facebook.com/photo?fbid=711948824273988&set=pb.100063766290503.-2207520000.
-- Photo link: https://web.facebook.com/photo/?fbid=675348787933992&set=pb.100063766290503.-2207520000.
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo.php?fbid=711948847607319&set=pb.100063766290503.-2207520000.&type=3
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo?fbid=711948824273988&set=pb.100063766290503.-2207520000.
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo/?fbid=675348787933992&set=pb.100063766290503.-2207520000.
 
-for more photos, check out our facebook page: https://web.facebook.com/chapaclassiclodge/photos 
+for more photos for Chappa Classic Lodge, check out our facebook page: https://web.facebook.com/chapaclassiclodge/photos 
 or visit our website at: https://www.chapaclassiclodge.com
 
 

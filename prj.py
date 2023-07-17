@@ -387,14 +387,25 @@ Other activities:
 - Swimming Pool.
 - Event hires such as weddings, Parties, meetings.
 
+D. Photo Gallery:
+Below are some photo links to our lodge, rooms and restaurant:
+- Photo link: https://web.facebook.com/photo.php?fbid=711948847607319&set=pb.100063766290503.-2207520000.&type=3
+- Photo link: https://web.facebook.com/photo?fbid=711948824273988&set=pb.100063766290503.-2207520000.
+- Photo link: https://web.facebook.com/photo/?fbid=675348787933992&set=pb.100063766290503.-2207520000.
+
+for more photos, check out our facebook page: https://web.facebook.com/chapaclassiclodge/photos 
+or visit our website at: https://www.chapaclassiclodge.com
+
 
 D. CONTACT US:
-- Phone Number: +260977796710
+- Phone Number: +260 974656872 or +260 975795030
 - Email address: chapaclassiclodge@zamnet.zm
+- website: https://www.chapaclassiclodge.com
+- facebook page: https://web.facebook.com/chapaclassiclodge/photos 
 
 E. Location:
 - Located: 66 Nehru Way, Town area, Livingstone
-- Nearby: Livingstone Central Hospital, Town, NIPA
+- Nearby places: Livingstone Central Hospital, Town, NIPA
 
 4. name of lodge: Kaazmein Lodge.
 

@@ -18,8 +18,3 @@ tqdm==4.65.0
 tzdata==2022.7
 urllib3==2.0.3
 yarl==1.9.2
-
-snowflake==0.0.3
-snowflake-connector-python==3.0.4             
-snowflake-snowpark-python==1.5.1
-

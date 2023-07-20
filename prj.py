@@ -7,11 +7,11 @@ import pandas as pd
 import snowflake.connector
 # from api_key import apikey
 
-sf_account = st.secrets["snowflake_account"]
-sf_user = st.secrets["snowflake_user"]
-sf_password = st.secrets["snowflake_password"]
-sf_database = st.secrets["snowflake_database"]
-sf_schema = st.secrets["snowflake_schema"]
+# sf_account = st.secrets["snowflake_account"]
+# sf_user = st.secrets["snowflake_user"]
+# sf_password = st.secrets["snowflake_password"]
+# sf_database = st.secrets["snowflake_database"]
+# sf_schema = st.secrets["snowflake_schema"]
 
 table_name = "USER_DATA.PUBLIC.USER_TABLE"
 feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
@@ -995,29 +995,29 @@ if st.button("Ask Our AI Assistant"):
     st.write(final_response)
 
     # 3. Create the Streamlit app
-    conn = snowflake.connector.connect(
-        user=sf_user,
-        password=sf_password,
-        account=sf_account,
-        database=sf_database,
-        schema=sf_schema
-    )
+    # conn = snowflake.connector.connect(
+    #     user=sf_user,
+    #     password=sf_password,
+    #     account=sf_account,
+    #     database=sf_database,
+    #     schema=sf_schema
+    # )
 
-    cursor = conn.cursor()
+    # cursor = conn.cursor()
         
-    # Assuming your Snowflake table has a single column called 'data_column'
-    # You can adjust the query below based on your table structure.
-    query = f"INSERT INTO {table_name} (PROMPT,RESPONSE) VALUES (%s,%s)"
+    # # Assuming your Snowflake table has a single column called 'data_column'
+    # # You can adjust the query below based on your table structure.
+    # query = f"INSERT INTO {table_name} (PROMPT,RESPONSE) VALUES (%s,%s)"
 
-    try:
-        cursor.execute(query, (txt,final_response,))
-        conn.commit()
-        st.success("Data sent to Snowflake successfully!")
-    except Exception as e:
-        st.error(f"Error sending data to Snowflake: {e}")
-    finally:
-        cursor.close()
-        conn.close()
+    # try:
+    #     cursor.execute(query, (txt,final_response,))
+    #     conn.commit()
+    #     st.success("Data sent to Snowflake successfully!")
+    # except Exception as e:
+    #     st.error(f"Error sending data to Snowflake: {e}")
+    # finally:
+    #     cursor.close()
+    #     conn.close()
 
     st.write("---")
 
@@ -1037,32 +1037,32 @@ if st.button("Send"):
     if user_name and user_comment:
 
         # 3. Create the Streamlit app
-        conn = snowflake.connector.connect(
-            user=sf_user,
-            password=sf_password,
-            account=sf_account,
-            database=sf_database,
-            schema=sf_schema
-        )
+        # conn = snowflake.connector.connect(
+        #     user=sf_user,
+        #     password=sf_password,
+        #     account=sf_account,
+        #     database=sf_database,
+        #     schema=sf_schema
+        # )
 
-        cursor = conn.cursor()
+        # cursor = conn.cursor()
         
-        # Assuming your Snowflake table has a single column called 'data_column'
-        # You can adjust the query below based on your table structure.
-        query = f"INSERT INTO {feedback_name} (USER_NAME,USER_COMMENT) VALUES (%s,%s)"
+        # # Assuming your Snowflake table has a single column called 'data_column'
+        # # You can adjust the query below based on your table structure.
+        # query = f"INSERT INTO {feedback_name} (USER_NAME,USER_COMMENT) VALUES (%s,%s)"
 
-        try:
-            cursor.execute(query, (user_name,user_comment,))
-            conn.commit()
-            st.success("""
-            Comment Sent Successfully!
-            Thank You!
-            """)
-        except Exception as e:
-            st.error(f"Error sending data to Snowflake: {e}")
-        finally:
-            cursor.close()
-            conn.close()
+        # try:
+        #     cursor.execute(query, (user_name,user_comment,))
+        #     conn.commit()
+        st.success("""
+        Comment Sent Successfully!
+        Thank You!
+        """)
+        # except Exception as e:
+        #     st.error(f"Error sending data to Snowflake: {e}")
+        # finally:
+        #     cursor.close()
+        #     conn.close()
 
     else:
 

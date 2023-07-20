@@ -4,38 +4,17 @@ import re
 import openai
 import streamlit as st 
 import pandas as pd
-import sqlite3
+import snowflake.connector
 # from api_key import apikey
 
-conn = sqlite3.connect("data.db")
-c = conn.cursor()
+sf_account = st.secrets["snowflake_account"]
+sf_user = st.secrets["snowflake_user"]
+sf_password = st.secrets["snowflake_password"]
+sf_database = st.secrets["snowflake_database"]
+sf_schema = st.secrets["snowflake_schema"]
 
-def user_query():
-    c.execute('''
-    CREATE TABLE IF NOT EXISTS user_query(
-        query_id INTEGER PRIMARY KEY,
-        user_prompt VARCHAR(255),
-        system_solution VARCHAR(1000)
-    ) ''')
-
-
-def add_query(user_prompt, system_solution):
-    c.execute('''
-    INSERT INTO user_query(user_prompt, system_solution)
-    VALUES(?,?)''',
-              (user_prompt, system_solution)
-              )
-    conn.commit()
-
-
-def view_user_query():
-    c.execute('''
-    SELECT * FROM user_query
-    ''')
-
-    data = c.fetchall()
-    return data
-
+table_name = "USER_DATA.PUBLIC.USER_TABLE"
+feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
 
 openai.api_key = st.secrets["api"]
 
@@ -855,7 +834,8 @@ E. Location:
 
 
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
-As these are the only services offered.
+As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 
+is available, always include its contact details for easy reach.
 
 Answer the customer in a calm and friendly tone.
 
@@ -933,35 +913,48 @@ st.sidebar.write("---")
 
 st.write("### Suggested Questions...")
 
+st.write('''
+- what Restaurants are there?
+- a list of lodges and their room rates??
+- how much is food at Bravo Cafe and Restaurant?
+- what Lodges are there? 
+- do you have any photos for Bravo Cafe?
+- what accommodation can I get for [price]?
 
-col1, col2, col3 = st.columns(3)
+''')
 
-with col1:
-   st.warning("**how much is food at Bravo Cafe and Restaurant? ---**")
+# st.write("""*Please , the suggested questions below are not links,
+#  just plain texts. Copy and paste them into the search bar below*""")
 
-with col2:
-   st.warning("**what Restaurants are there?**")
 
-with col3:
-   st.warning("**a list of lodges and their room rates??**")
+# col1, col2, col3 = st.columns(3)
+
+# with col1:
+#    st.warning("**how much is food at Bravo Cafe and Restaurant? ---**")
+
+# with col2:
+#    st.warning("**what Restaurants are there?**")
+
+# with col3:
+#    st.warning("**a list of lodges and their room rates??**")
 	
 
-col4, col5, col6 = st.columns(3)
+# col4, col5, col6 = st.columns(3)
 
-with col4:
-   st.warning("**do you have any photos for Bravo Cafe? ---**")
+# with col4:
+#    st.warning("**do you have any photos for Bravo Cafe? ---**")
 
-with col5:
-   st.warning("**what are the room prices for lodge [insert name]? ---**")
+# with col5:
+#    st.warning("**what are the room prices for lodge [insert name]? ---**")
 
-with col6:
-   st.warning("**what Lodges are there? --**")
+# with col6:
+#    st.warning("**what Lodges are there? --**")
  
 
 st.write('---') 
 
 
-txt = st.text_input("How may we assist you, our customer?",max_chars=150,placeholder="Write here...")
+txt = st.text_input("How may we assist you, our customer?",max_chars=100,placeholder="Write here...")
 
 words = len(re.findall(r'\w+', txt))
 # st.write('Number of Words :', words, "/750")
@@ -1001,20 +994,30 @@ if st.button("Ask Our AI Assistant"):
 	
     st.write(final_response)
 
-    
-    # create user query db
-    user_query()
+    # 3. Create the Streamlit app
+    conn = snowflake.connector.connect(
+        user=sf_user,
+        password=sf_password,
+        account=sf_account,
+        database=sf_database,
+        schema=sf_schema
+    )
 
-    # add to user query db
-    add_query(txt,final_response)
+    cursor = conn.cursor()
+        
+    # Assuming your Snowflake table has a single column called 'data_column'
+    # You can adjust the query below based on your table structure.
+    query = f"INSERT INTO {table_name} (PROMPT,RESPONSE) VALUES (%s,%s)"
 
-    view_db = view_user_query()
-
-    view_df = pd.DataFrame(view_db, columns=[
-        "user_id", "user_prompt", "system_solution"
-    ])
-
-    # st.write(view_df)
+    try:
+        cursor.execute(query, (txt,final_response,))
+        conn.commit()
+        st.success("Data sent to Snowflake successfully!")
+    except Exception as e:
+        st.error(f"Error sending data to Snowflake: {e}")
+    finally:
+        cursor.close()
+        conn.close()
 
     st.write("---")
 
@@ -1022,47 +1025,47 @@ if st.button("Ask Our AI Assistant"):
     st.write('Number of Words :', res_word)
     st.write("Number of Tokens in System Message", token_dict['prompt_tokens'])
 
-# step 3: {delimiter}: If the user includes key words like affordable \  
-# or low budget or cheap or low price or less expensive etc \  
-# compare their room prices or restaurant prices \  
-# from the list of lodges and restaurants mentioned above and \ 
-# get the lodges or Restaurants with lowest room prices or food prices. \ 
-# recommend lodges and restaurants with the lowest room or food prices. \ 
-# Give at least 3 recommendations from the list. \ 
+st.write("---")
 
-# Search for these
-# 1. KM Executive Lodge
-# 2. Asenga Lodge
-# 3. Pumulani Guest Lodge
-# 4. Chapa Classic
-# 5. Woodlands Lodge
-# 6. Richland Lodge
-# 7. Golden days Executive
-# 8. Revine Lodge
-# 9. Zambezi Junction
-# 10. Chrismar Hotel
+st.write("### Comment")
+st.write("How would you like us improve our platform? Leave a comment below")
 
+user_name = st.text_input("Your Name", placeholder="Write your name")
+user_comment = st.text_area("Your Comment")
 
-# step 3: {delimiter}: If the message contains services in the list above, \ 
-# list any assumptions the user is making in their message e.g that room X has \ 
-# a higher price than room Y.
+if st.button("Send"):
+    if user_name and user_comment:
 
-# step 4: {delimiter}: If the user made any assumptions, figure out whether the assumption \ 
-# is true based on your services information.
+        # 3. Create the Streamlit app
+        conn = snowflake.connector.connect(
+            user=sf_user,
+            password=sf_password,
+            account=sf_account,
+            database=sf_database,
+            schema=sf_schema
+        )
 
-# step 5: {delimiter}: First, politely correct the customer's incorrect assumption \ 
-# if applicable. only mention or reference services in the list of available services, \ 
-# As these are the only services offered.
-# Answer the customer in a friendly tone.
+        cursor = conn.cursor()
+        
+        # Assuming your Snowflake table has a single column called 'data_column'
+        # You can adjust the query below based on your table structure.
+        query = f"INSERT INTO {feedback_name} (USER_NAME,USER_COMMENT) VALUES (%s,%s)"
 
-# Use the following format:
-# step 1 {delimiter} < step 1 reasoning >
-# step 2 {delimiter} < step 2 reasoning >
-# step 3 {delimiter} < step 3 reasoning >
-# step 4 {delimiter} < step 4 reasoning >
-# step 5 {delimiter} < step 5 reasoning >
-# Respond to user: {delimiter} < response to customer >
+        try:
+            cursor.execute(query, (user_name,user_comment,))
+            conn.commit()
+            st.success("""
+            Comment Sent Successfully!
+            Thank You!
+            """)
+        except Exception as e:
+            st.error(f"Error sending data to Snowflake: {e}")
+        finally:
+            cursor.close()
+            conn.close()
 
-# Make sure to include {delimiter} to seperate every step.
+    else:
 
-# strip off step 1 to 4 and Show only step 5 and Respond to user as final answer.
+        st.write("Enter Your Name and Comment...")
+   
+   

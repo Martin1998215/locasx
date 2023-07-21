@@ -875,9 +875,9 @@ with tab2:
         - **We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
         ---
         - Flavors Pub & Grill Restaurant
-        - Kaazimein Lodge
-        - White Rose Lodge
-        - KM Executive Lodge
+        - Livingstone Lodge
+        - Bravo Cafe
+        - Chapa Classic Lodge
 		""")        
 
 
@@ -914,6 +914,7 @@ st.write('''
 - how much is food at Bravo Cafe and Restaurant?
 - what Lodges are there? 
 - do you have any photos for Bravo Cafe?
+- can you give me a list of lodges that offer accommodation for no more than [price]?
 - what accommodation can I get for [price]?
 
 ''')

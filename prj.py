@@ -1012,9 +1012,9 @@ if st.button("Ask Our AI Assistant"):
     try:
         cursor.execute(query, (txt,final_response,))
         conn.commit()
-        st.success("Data sent to Snowflake successfully!")
+        # st.success("Data sent to Snowflake successfully!")
     except Exception as e:
-        st.error(f"Error sending data to Snowflake: {e}")
+        st.error(f"Error sending data to Database: {e}")
     finally:
         cursor.close()
         conn.close()

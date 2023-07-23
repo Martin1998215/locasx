@@ -1231,7 +1231,7 @@ if st.button("Ask Our AI Assistant"):
         final_response = "Sorry! Am having troubles right now, trying asking another question.." 
 	
 	
-    st.write(response)
+    st.write(final_response)
 
     # 3. Create the Streamlit app
     conn = snowflake.connector.connect(
@@ -1249,7 +1249,7 @@ if st.button("Ask Our AI Assistant"):
     query = f"INSERT INTO {table_name} (PROMPT,RESPONSE) VALUES (%s,%s)"
 
     try:
-        cursor.execute(query, (txt,response,))
+        cursor.execute(query, (txt,final_response,))
         conn.commit()
         # st.success("Data sent to Snowflake successfully!")
     except Exception as e:

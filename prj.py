@@ -1240,7 +1240,7 @@ if st.button("Ask Our AI Assistant"):
         final_response = "Sorry! Am having troubles right now, trying asking another question.." 
 	
 	
-    st.write(response)
+    st.write(final_response)
 
     # 3. Create the Streamlit app
     conn = snowflake.connector.connect(

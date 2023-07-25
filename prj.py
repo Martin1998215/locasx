@@ -141,7 +141,8 @@ G. CONTACT US:
 - Postal Address: P.O Box 61177, Livingstone.
 
 H. Location:
-- Located: Maramba Road Plot 01, maramba area.
+- address: Maramba Road Plot 01, maramba area.
+- Location: Maramba. 
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
 
 2. Name of Restaurant: Flavours Pubs and Grill Restaurant.
@@ -310,7 +311,8 @@ D. Contact Us:
 - Facebook Page: Flavours Pubs & Grill Restaurant.
 
 E. Location:
-- Located: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
+- address: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
+- location: Town.
 - Nearby places: Town or Mukuni Park
 
 
@@ -383,7 +385,8 @@ E. CONTACT US:
 - facebook page: https://web.facebook.com/chapaclassiclodge/photos 
 
 F. Location:
-- Located: 66 Nehru Way, Town area, Livingstone
+- address: 66 Nehru Way, Town area, Livingstone
+- location: Town.
 - Nearby places: Livingstone Central Hospital, Town, NIPA
 
 
@@ -439,7 +442,8 @@ for a true value of hospitality, visit us at:
 - Email: reservations@mosiotunyalodge.co.zm
 
 E. Location:
-- Located: Plot No. 4424/37, Highlands, Livingstone.
+- address: Plot No. 4424/37, Highlands, Livingstone.
+- location: Highlands.
 - Nearby places: Bible College.
 
 5. Name of Restaurant: Bravo Cafe and Restaurant.
@@ -546,7 +550,8 @@ D. Contact Us:
 - Facebook Page: https://web.facebook.com/BRAVOLSTONE
 
 E. Location:
-- Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
+- address: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
+- location: Town.
 - Nearby places: Absa Bank, Stanbic Bank, Bata shop.
 
 6. Name of Lodge: KM Executive Lodge
@@ -604,7 +609,8 @@ F. Contact Us:
 - Facebook Page: KM Executive Lodge
 
 G. Location:
-- Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
+- address: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
+- location: Highlands.
 - Nearby places: Highlands Market or Zambezi Sports Club
 
 
@@ -829,7 +835,8 @@ D. Contact Us:
 - Facebook Page: https://web.facebook.com/KubuCafe
 
 E. Location:
-- Located: Along Kabompo Road, In Town, livingstone, Zambia.
+- address: Along Kabompo Road, In Town, livingstone, Zambia.
+- location: Town.
 - Nearby places: Next to the Fire station.
 
 
@@ -874,8 +881,9 @@ For further clarification,please feel free to contact us:
 - Email: reservations.asengalodge@gmail.com
 
 E. Location:
-- located: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
-- PO Box 60464 Livingstone.
+- address: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
+- postal address: PO Box 60464 Livingstone.
+-location: Highlands.
 - nearby places: Highlands Market or Zambezi Sports Complex.
 
 9. Name of Lodge: Aunt Josephine's Executive Lodge.
@@ -906,7 +914,8 @@ C. Contacts:
 - Email: auntjosephineexecutivelodge@gmail.com.
 
 D. Location:
-- Located: Plot NO 2072/178, Maramba, Livingstone.
+- address: Plot NO 2072/178, Maramba, Livingstone.
+- location: Maramba.
 - Nearby: Maramba Market or Messenger area.
 
 
@@ -947,7 +956,8 @@ C. Contact Us:
 
 
 D. Location:
-- Located: at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
+- address: at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
+- location: Highlands.
 - Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge . 
 
 
@@ -1066,9 +1076,8 @@ D. Contact Us:
 
 E. Location:
 - Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
- 
-- Located: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
-
+- address: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
+- location: Nottie Broadie.
 - Nearby: Chandamali Market or Mosque.
 
 
@@ -1231,7 +1240,7 @@ if st.button("Ask Our AI Assistant"):
         final_response = "Sorry! Am having troubles right now, trying asking another question.." 
 	
 	
-    st.write(final_response)
+    st.write(response)
 
     # 3. Create the Streamlit app
     conn = snowflake.connector.connect(

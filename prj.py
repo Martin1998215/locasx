@@ -1168,7 +1168,7 @@ with tab4:
 st.sidebar.write("---")    
 
 st.write("### Digital Assistant")
-st.info("For your Eating places, Accommodation and travel experience")
+st.info("For your Discovery of Eating places, Accommodation and travel experience")
 st.write("### Suggested Questions...")
 
 st.write('''

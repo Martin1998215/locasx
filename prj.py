@@ -1211,7 +1211,7 @@ st.write('''
 st.write('---') 
 
 
-txt = st.text_input("How may we assist you, our customer?",max_chars=150,placeholder="Write here...")
+txt = st.text_input("How may we assist you, our customer?",max_chars=250,placeholder="Write here...")
 
 words = len(re.findall(r'\w+', txt))
 # st.write('Number of Words :', words, "/750")

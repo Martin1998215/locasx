@@ -525,6 +525,15 @@ VI. Grill:
 - Sharwama special: K39.99
 - Sausage and chips: K60
 
+B. Promotions:
+- We run promotions on regular basis, below are our promotions.
+I. On Monday, Wednesday and Friday, we have the Pizza promotion:
+- Tikka/regular chicken: K80
+II. On Tuesday and Thursday, we have the double trouble promotion:
+- 2 milkshakes (mango, strawberry, chocolate,caramel): K54
+- Ice cream cones (chocolate, vanilla, strawberry): K20
+- 2 ouarter chicken (with chips and Greek salad): K130
+
 B. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery vans \ 
 around livingstone.
@@ -1202,7 +1211,7 @@ st.write('''
 st.write('---') 
 
 
-txt = st.text_input("How may we assist you, our customer?",max_chars=100,placeholder="Write here...")
+txt = st.text_input("How may we assist you, our customer?",max_chars=150,placeholder="Write here...")
 
 words = len(re.findall(r'\w+', txt))
 # st.write('Number of Words :', words, "/750")

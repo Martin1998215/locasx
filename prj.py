@@ -1172,11 +1172,12 @@ st.write("### Suggested Questions...")
 
 st.write('''
 - what Restaurants are there?
-- a list of lodges and their room rates??
-- how much is food at Bravo Cafe and Restaurant?
 - what Lodges are there? 
 - do you have any photos for Bravo Cafe?
-- what accommodation can I get for [price]?
+- I want accommodation for less than [price]?
+- what eating places are there
+- make me a budget from bravo cafe within K200 for the following:
+4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours
 
 ''')
 

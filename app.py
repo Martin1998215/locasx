@@ -1002,5 +1002,5 @@ if st.button("Send"):
     else:
 
         st.write("Enter Your Name and Comment...")
-   
-   com.html("")
+
+com.html("")

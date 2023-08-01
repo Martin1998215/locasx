@@ -872,7 +872,7 @@ st.sidebar.write("---")
 st.sidebar.write("Copyrights © Quest2Query 2023")
 st.sidebar.write("**Powered By LocasAI**")   
 
-com.html("<h2>Suggested Questions...</h2>")
+st.write("### Suggested Questions...")
 
 st.write('''
 - what Restaurants are there?
@@ -1003,4 +1003,4 @@ if st.button("Send"):
 
         st.write("Enter Your Name and Comment...")
    
-   
+   com.html("")

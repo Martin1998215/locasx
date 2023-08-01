@@ -8,8 +8,6 @@ import snowflake.connector
 import streamlit.components.v1 as com
 # from api_key import apikey
 
-com.html("")
-
 sf_account = st.secrets["snowflake_account"]
 sf_user = st.secrets["snowflake_user"]
 sf_password = st.secrets["snowflake_password"]
@@ -874,7 +872,7 @@ st.sidebar.write("---")
 st.sidebar.write("Copyrights © Quest2Query 2023")
 st.sidebar.write("**Powered By LocasAI**")   
 
-st.write("### Suggested Questions...")
+com.html("<h2>Suggested Questions...</h2>")
 
 st.write('''
 - what Restaurants are there?

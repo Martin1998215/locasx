@@ -451,6 +451,7 @@ About Bravo Cafe and Restaurant:
 Along Mosi O Tunya road, Town Area in livingstone, Zambia.
 - We serve the Best food ever, at affordable prices.
 - We also make the quickiest deliveries anywhere around Livingstone.
+- we are open 24hrs from sunday to monday.
 
 Available Services for Bravo Cafe and Restaurant: 
 
@@ -489,7 +490,7 @@ II. Drink Prices or charges:
 - Mineral Water (500mls): K5
 - Mineral Water (750mls): K7
 - Mineral water (1L): K10
-III. Pizza Menu:
+III. Pizza:
 a. Large Sized Pizza:
 - Chicken Mushroom: K149.99
 - Macon Chicken BBQ: K135
@@ -850,65 +851,25 @@ Respond to user: {delimiter} < response to customer >
 
 Make sure to include {delimiter} to seperate every step.
 """
-
-
-
-st.sidebar.write("### AI Assistant for Travel.")
+st.sidebar.write("### Quest2Query.")
+st.sidebar.write("**Your Digital Assistant**")
 st.sidebar.write("""
-Let Us Improve Your Travel Experience with all the services you need.
+- "AI at Your Service - Your Travel, Dining and Accommodation Ally!"
+
 
 """)
-
-
-tab1, tab2, tab3, tab4 = st.sidebar.tabs(["Services", "Partners", "About Us", "Contact Us"])
-
-with tab1:
-	st.write("""
-        - Travel
-        - Restaurant
-        - Hospitality
-        ---
-        **Are you coming to Livingstone? and you are wondering where to lodge or eating place ? 
-        dont worry, our assistant got you covered... Just ask it whatever lodges are available, 
-        their accommodation pricing, restaurants available and their menus**
-		""")
-
-
-with tab2:
-
-   	st.write("""
-        - **We partner with Lodges and restaurants to improve travel customer service experience through our AI assistant**
-        ---
-        - Flavors Pub & Grill Restaurant
-        - Kaazimein Lodge
-        - White Rose Lodge
-        - KM Executive Lodge
-		""")        
-
-
-with tab3:
-
-    st.write("""
-
-        - This is an AI chatbot powered by a large language model that has info on lodges and restaurants 
-        we partnered with... check out our partners.. 
-        - our goal is help improve your travel experience as you visit livingstone,
-        by providing you with our AI assistant to help you where to find 
-        accommodation or a restaurant.
-        - **NOTE: Our Assistant is just a tool and has a 70% accuracy. we are working on improving that.**
-        - We are only available in Livingstone.
-    
-    """) 
-
-with tab4:
-
-   	st.write("""
-        - Call: 0976 03 57 66.
-        - Email: locastechnology@gmail.com
-        - We are located room # Mosi O Tunya business center, livingstone.
-		""")        
-
-st.sidebar.write("---")    
+st.sidebar.write("---")
+st.sidebar.write("""
+**Embark on Limitless Adventures - Your AI-Powered Travel, Dining, and Stay Companion Awaits!**
+""")
+st.sidebar.write("### Contact")
+st.sidebar.write("""
+- +260 976 718 998/0976035766
+- locastechnology@gmail.com.
+""")
+st.sidebar.write("---")
+st.sidebar.write("Copyrights © Quest2Query 2023")
+st.sidebar.write("**Powered By LocasAI**")   
 
 st.write("### Suggested Questions...")
 
@@ -922,33 +883,6 @@ st.write('''
 4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours
 
 ''')
-
-# st.write("""*Please , the suggested questions below are not links,
-#  just plain texts. Copy and paste them into the search bar below*""")
-
-
-# col1, col2, col3 = st.columns(3)
-
-# with col1:
-#    st.warning("**how much is food at Bravo Cafe and Restaurant? ---**")
-
-# with col2:
-#    st.warning("**what Restaurants are there?**")
-
-# with col3:
-#    st.warning("**a list of lodges and their room rates??**")
-	
-
-# col4, col5, col6 = st.columns(3)
-
-# with col4:
-#    st.warning("**do you have any photos for Bravo Cafe? ---**")
-
-# with col5:
-#    st.warning("**what are the room prices for lodge [insert name]? ---**")
-
-# with col6:
-#    st.warning("**what Lodges are there? --**")
  
 
 st.write('---') 

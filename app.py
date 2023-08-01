@@ -5,7 +5,10 @@ import openai
 import streamlit as st 
 import pandas as pd
 import snowflake.connector
+import streamlit.components.v1 as com
 # from api_key import apikey
+
+com.html("")
 
 sf_account = st.secrets["snowflake_account"]
 sf_user = st.secrets["snowflake_user"]

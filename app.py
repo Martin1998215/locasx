@@ -889,16 +889,13 @@ st.write('''
 st.write('---') 
 
 
-txt = st.text_input("How may we assist you, our customer?",max_chars=250,placeholder="Write here...")
-
-words = len(re.findall(r'\w+', txt))
-# st.write('Number of Words :', words, "/750")
+txt = st.chat_input(placeholder="How may we assist you, our customer?",max_chars=300)
 
 word = len(re.findall(r'\w+', system_message))
 # st.write('Number of Words :', word)
 
 
-if st.button("Ask Our AI Assistant"):
+if txt:
 
     user_message = f"""
      {txt}
@@ -951,7 +948,8 @@ if st.button("Ask Our AI Assistant"):
             conn.close()
 
     else:
-        st.write(final_response)
+	message = st.chat_message("assistant")
+        message.write(final_response)
 
         conn = snowflake.connector.connect(
             user=sf_user,
@@ -974,85 +972,53 @@ if st.button("Ask Our AI Assistant"):
         finally:
             cursor.close()
             conn.close()
-	
 
-    # try:
-    #     final_response = response.split(delimiter)[-1].strip()
 
-    # except Exception as e:
-    #     final_response = "Sorry! Am having troubles right now, trying asking another question.." 
-	
-	
-    # st.write(final_response)
-    # conn = snowflake.connector.connect(
-    #     user=sf_user,
-    #     password=sf_password,
-    #     account=sf_account,
-    #     database=sf_database,
-    #     schema=sf_schema
-    # )
-
-    # cursor = conn.cursor()
-        
-    # query = f"INSERT INTO {table_name} (PROMPT,RESPONSE) VALUES (%s,%s)"
-
-    # try:
-    #     cursor.execute(query, (txt,final_response,))
-    #     conn.commit()
-    #     # st.success("Data sent to Snowflake successfully!")
-    # except Exception as e:
-    #     st.error(f"Error sending data to Snowflake: {e}")
-    # finally:
-    #     cursor.close()
-    #     conn.close()
-
-    # st.write("---")
 
     # res_word = len(re.findall(r'\w+', final_response))
     # st.write('Number of Words :', res_word)
     # st.write("Number of Tokens in System Message", token_dict['prompt_tokens'])
 
-st.write("---")
 
-st.write("### Comment")
-st.write("How would you like us improve our platform? Leave a comment below")
+# st.write("### Comment")
+# st.write("How would you like us improve our platform? Leave a comment below")
 
-user_name = st.text_input("Your Name", placeholder="Write your name")
-user_comment = st.text_area("Your Comment")
+# user_name = st.text_input("Your Name", placeholder="Write your name")
+# user_comment = st.text_area("Your Comment")
 
-if st.button("Send"):
-    if user_name and user_comment:
+# if st.button("Send"):
+#     if user_name and user_comment:
 
-        # 3. Create the Streamlit app
-        conn = snowflake.connector.connect(
-            user=sf_user,
-            password=sf_password,
-            account=sf_account,
-            database=sf_database,
-            schema=sf_schema
-        )
+#         # 3. Create the Streamlit app
+#         conn = snowflake.connector.connect(
+#             user=sf_user,
+#             password=sf_password,
+#             account=sf_account,
+#             database=sf_database,
+#             schema=sf_schema
+#         )
 
-        cursor = conn.cursor()
+#         cursor = conn.cursor()
         
-        # Assuming your Snowflake table has a single column called 'data_column'
-        # You can adjust the query below based on your table structure.
-        query = f"INSERT INTO {feedback_name} (USER_NAME,USER_COMMENT) VALUES (%s,%s)"
+#         # Assuming your Snowflake table has a single column called 'data_column'
+#         # You can adjust the query below based on your table structure.
+#         query = f"INSERT INTO {feedback_name} (USER_NAME,USER_COMMENT) VALUES (%s,%s)"
 
-        try:
-            cursor.execute(query, (user_name,user_comment,))
-            conn.commit()
-            st.success("""
-            Comment Sent Successfully!
-            Thank You!
-            """)
-        except Exception as e:
-            st.error(f"Error sending data to Snowflake: {e}")
-        finally:
-            cursor.close()
-            conn.close()
+#         try:
+#             cursor.execute(query, (user_name,user_comment,))
+#             conn.commit()
+#             st.success("""
+#             Comment Sent Successfully!
+#             Thank You!
+#             """)
+#         except Exception as e:
+#             st.error(f"Error sending data to Snowflake: {e}")
+#         finally:
+#             cursor.close()
+#             conn.close()
 
-    else:
+#     else:
 
-        st.write("Enter Your Name and Comment...")
+#         st.write("Enter Your Name and Comment...")
 
-com.html("")
+# com.html("")

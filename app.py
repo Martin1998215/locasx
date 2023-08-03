@@ -853,6 +853,8 @@ Respond to user: {delimiter} < response to customer >
 
 Make sure to include {delimiter} to seperate every step.
 """
+
+
 st.sidebar.markdown("<h2 style='text-align: center; color: black;'>Your Digital Assistant</h2>", unsafe_allow_html=True)
 st.sidebar.write("""
 - "AI at Your Service - Your Travel, Dining and Accommodation Ally!"

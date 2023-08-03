@@ -19,6 +19,9 @@ feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
 
 openai.api_key = st.secrets["api"]
 
+mytxt = st.chat_message("assistant")
+
+
 
 # model = "gpt-3.5-turbo"
 model = "gpt-3.5-turbo-16k"
@@ -949,9 +952,7 @@ if txt:
 
     else:
 
-	message = st.chat_message("assistant")
-	# msg = st.chat_message("assistant")
-        message.write(final_response)
+        mytxt.write(final_response)
 
         conn = snowflake.connector.connect(
             user=sf_user,

@@ -920,10 +920,10 @@ if st.button("Ask Our AI Assistant"):
 
     if res_word < 3:
         	    
-        # st.write("sorry, having troubles right now...")
+        message = st.chat_message("assistant")
         error_text = "Sorry! Am having troubles right now, try to rephrase your question to help me have more insight, please!..." 
 
-        st.write("""
+        message.write("""
         ### Sorry! Am having troubles right now, try to rephrase your question to help me have more insight, please!...
         ### Otherwise I really want to assist you.
         """ )

@@ -948,8 +948,8 @@ if txt:
             conn.close()
 
     else:
-	msg = st.chat_message("assistant")
-        msg.write(final_response)
+	# msg = st.chat_message("assistant")
+        st.write(final_response)
 
         conn = snowflake.connector.connect(
             user=sf_user,

@@ -853,8 +853,7 @@ Respond to user: {delimiter} < response to customer >
 
 Make sure to include {delimiter} to seperate every step.
 """
-st.sidebar.write("### Quest2Query.")
-st.sidebar.write("**Your Digital Assistant**")
+st.sidebar.markdown("<h2 style='text-align: center; color: black;'>Your Digital Assistant</h2>", unsafe_allow_html=True)
 st.sidebar.write("""
 - "AI at Your Service - Your Travel, Dining and Accommodation Ally!"
 
@@ -864,16 +863,17 @@ st.sidebar.write("---")
 st.sidebar.write("""
 **Embark on Limitless Adventures - Your AI-Powered Travel, Dining, and Stay Companion Awaits!**
 """)
-st.sidebar.write("### Contact")
+st.sidebar.markdown("<h3 style='text-align: center; color: black;'>Contact</h3>", unsafe_allow_html=True)
 st.sidebar.write("""
 - +260 976 718 998/0976035766
 - locastechnology@gmail.com.
 """)
 st.sidebar.write("---")
-st.sidebar.write("Copyrights © Quest2Query 2023")
-st.sidebar.write("**Powered By LocasAI**")   
+st.sidebar.markdown("<h5 style='text-align: center; color: black;'>Copyrights © Quest2Query 2023</h5>", unsafe_allow_html=True)
+st.sidebar.markdown("<h5 style='text-align: center; color: blue;'>Powered By LocasAI</h5>", unsafe_allow_html=True)   
 
-st.write("### Suggested Questions...")
+st.markdown("<h2 style='text-align: center; color: gray;'>Quest2Query</h2>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center; color: lightgray;'>Suggested Questions...</h3>", unsafe_allow_html=True)
 
 st.write('''
 - what Restaurants are there?

@@ -917,8 +917,8 @@ if txt:
     response, token_dict = get_completion_from_messages(messages)
     final_response = response.split(delimiter)[-1].strip()
     res_word = len(re.findall(r'\w+', final_response))
-    user = st.chat_message("user")
-    user.write(txt)
+    user_text = st.chat_message("user")
+    user_text.write(txt)
 
     if res_word < 3:
         	    

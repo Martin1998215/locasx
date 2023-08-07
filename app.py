@@ -145,6 +145,7 @@ G. CONTACT US:
 H. Location:
 - Located: Maramba Road Plot 01, maramba area.
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
+- google maps link: https://www.google.com/maps/place/Livingstone+Lodge/@-17.8454748,25.8632469,17z/data=!3m1!4b1!4m9!3m8!1s0x194ff1bc2453719f:0x58857bdcaf4746fb!5m2!4m1!1i2!8m2!3d-17.8454799!4d25.8658218!16s%2Fg%2F11f8fcc5xq?authuser=0&entry=ttu
 
 2. Name of Restaurant: Flavours Pubs and Grill Restaurant.
 

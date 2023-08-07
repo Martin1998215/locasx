@@ -895,7 +895,6 @@ st.write('''
 4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours
 
 ''')
-st.write(myapp)
  
 
 st.write('---') 

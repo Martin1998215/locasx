@@ -314,6 +314,7 @@ D. Contact Us:
 E. Location:
 - Located: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
 - Nearby places: Town or Mukuni Park
+- google maps link: https://www.google.com/maps/place/Flavours+Pub+%26+Grill/@-17.8418073,25.8589363,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff0a37d88ae5f:0x1ea901cc2522e27d!8m2!3d-17.8418124!4d25.8615112!16s%2Fg%2F11c4kppd0j?authuser=0&entry=ttu
 
 
 3. Name of Lodge: Chappa Classic Lodge
@@ -387,6 +388,7 @@ E. CONTACT US:
 F. Location:
 - Located: 66 Nehru Way, Town area, Livingstone
 - Nearby places: Livingstone Central Hospital, Town, NIPA
+- google maps link: https://www.google.com/maps/place/Chapa+Classic+Lodge/@-17.8417421,25.8547134,17z/data=!4m20!1m10!3m9!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!2sChapa+Classic+Lodge!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj!3m8!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj?authuser=0&entry=ttu
 
 
 4. name of lodge: Mosi-O-Tunya Execcutive Lodge.
@@ -833,8 +835,8 @@ D. Contact Us:
 
 E. Location:
 - Located: Along Kabompo Road, In Town, livingstone, Zambia.
-- Nearby places: Next to the Fire station.
-
+- Nearby places: Next to/ the Fire station.
+- google maps link: https://www.google.com/maps/place/Kubu+Cafe/@-17.8517417,25.8515932,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff09c33cee72f:0x48beb661532b7ff8!8m2!3d-17.8517468!4d25.8541681!16s%2Fg%2F11g9nrdk5z?authuser=0&entry=ttu
 
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 

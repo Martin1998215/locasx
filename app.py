@@ -164,10 +164,10 @@ open space and shelter space.
 
 Available Services for Flavours Pubs and Grill Restaurant: 
 
-A. Food Menu:
+A. Food Menu for Flavours Pubs and Grill Restaurant:
 - We serve the best food with the best ingredients at affordable prices.
 
-I. Hot Beverages:
+I. Hot Beverages for Flavours Pubs and Grill Restaurant:
 - Masala Tea: K40
 - Regular Coffee: K30
 - Milo/Hot Chocolate: K40
@@ -176,14 +176,14 @@ I. Hot Beverages:
 - Creamocino: K40
 - Roibos, Five Roses: K30
 
-II. Breakfast
+II. Breakfast for Flavours Pubs and Grill Restaurant:
 - Cafe Breakfast: K105
 - Mega Breakfast: K105
 - Executive Breakfast: K105
 - Farmers Breakfast: K105
 - Sunrise Breakfast: K70
 
-III. Drinks
+III. Drinks for Flavours Pubs and Grill Restaurant:
 - Mineral Water (500mls): K10
 - Fruticana (500mls): K15
 - Bottled Fanta: K10
@@ -193,7 +193,7 @@ III. Drinks
 - Disposable Fanta (500mls): K15
 - Disposable Coke (500mls): K15
 
-IV. Traditional Food:
+IV. Traditional for Food Flavours Pubs and Grill Restaurant:
 - Village Chicken stew: K100
 - Goat stew: K95
 - Beef shew: K85
@@ -201,25 +201,25 @@ IV. Traditional Food:
 - Oxtail: K100
 - Kapenta: K70
 
-V. Samoosa:
+V. Samoosa for Flavours Pubs and Grill Restaurant:
 - Chicken samoosa: K60
 - Vegetable samoosa: K55
 
-VI. Sandwiches:
+VI. Sandwiches for Flavours Pubs and Grill Restaurant:
 - Chicken and Mayonnaise: K80
 - Tuna Sandwich: K90
 
-VII. Desserts:
+VII. Desserts for Flavours Pubs and Grill Restaurant:
 - Milkshake: K55
 - Ice Cream: K40
 
-VIII. Main Course Burgers:
+VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
 - Beef Burger: K95
 - Chicken Burger: K90
 - Vegetable Burger: K90
 - Cheese Burger: K100
 
-IX. Main Course Meals:
+IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
 - Dreamlight T-Bone steak 350g: K125
 - Beef Fillet steak 350g: K120
 - Rump steak 350g: K115
@@ -227,21 +227,21 @@ IX. Main Course Meals:
 - Carribean Pork chops: K120
 - Buffalo wings: K100
 
-X. Sausage:
+X. Sausage for Flavours Pubs and Grill Restaurant:
 - Boerewars sausage and chips: K85
 - Hungarian sausage and chips: K70
 
-XI. Platter:
+XI. Platter for Flavours Pubs and Grill Restaurant:
 - Platter for 3: K320
 - Platter for 4: K400
 - Platter for 6: K600
 - Family Platter: K900
 
-XII. Pasta/Noodles:
+XII. Pasta/Noodles for Flavours Pubs and Grill Restaurant:
 - Chicken Fried Noodles: K80
 - Beef Fried Noodles: K85
 
-XIII. Special Pizza:
+XIII. Special Pizza for Flavours Pubs and Grill Restaurant:
 - Mini Pizza (all flavour): K80
 - Meat Feast: K120
 - Mexican Pizza: K140
@@ -250,31 +250,31 @@ XIII. Special Pizza:
 - Vegetable Pizza: K105
 - Hawaiian Chicken Pizza: K105
 
-XIV. Salads:
+XIV. Salads for Flavours Pubs and Grill Restaurant:
 - Greek Salad: K55
 - chicken ceaser salad: K80
 - Crocodile strip salad: K105
 
-XV. Snacks:
+XV. Snacks for Flavours Pubs and Grill Restaurant:
 - Chicken wing: K70
 - Beef Kebabs: K100
 
-XVI. Side Orders:
+XVI. Side Orders for Flavours Pubs and Grill Restaurant:
 - Paper Sauce: K35
 - Potato widges, rice or Nshima: K35
 - Chips or mashed potato: K35
 - Garlic Sauce: K40
 - Butter Sauce: K45
 
-XVII. Fish:
+XVII. Fish for Flavours Pubs and Grill Restaurant:
 - Zambezi whole Bream: K110
 - Bream Fillet: K130
 
-XVIII. Soups and starters:
+XVIII. Soups and starters for Flavours Pubs and Grill Restaurant:
 - Vegetable/tomato soup: K50
 - Home made mushroom soup: K60
 
-XIX. Non Vegetable Main Course: 
+XIX. Non Vegetable Main Course for Flavours Pubs and Grill Restaurant: 
 - Plain Rice: K30
 - Jeera Rice: K60
 - Vegetable Pilau: K40
@@ -285,7 +285,7 @@ XIX. Non Vegetable Main Course:
 - Kadhai Chicken: K150
 - Chicken Tikka Masala: K150
 
-XX. Naan/Rotis:
+XX. Naan/Rotis for Flavours Pubs and Grill Restaurant:
 - Butter Naan: K35
 - Garlic Naan: K40
 - Chilli Naan: K35
@@ -297,22 +297,24 @@ B. Our Deliveries:
 around livingstone.
 - Make An order by calling us on 0978 812 068.
 
-C. Photo Gallery:
+C. Photo Gallery for Flavours Pubs and Grill Restaurant:
 Below are some photo links to our restaurant and food menu:
-- Photo link: https://flavours/photo1.jpg
-- Photo link: https://flavours/photo2.jpg
-- Photo link: https://flavours/photo3.jpg
-- Photo link: https://flavours/photo4.jpg
+- Photo link: https://web.facebook.com/photo.php?fbid=474999991306412&set=pb.100063892449844.-2207520000.&type=3
+- Photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./4528830233883872/?type=3
+- Photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./4461719493928280/?type=3
+- Photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./3165299936903582/?type=3
+- photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./3069982023102041/?type=3
+- photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./3034737313293179/?type=3
 
-For More photos, check our Facebook Page: Flavours Pubs & Grill Restaurant.
+For More photos, check our Facebook Page: https://web.facebook.com/flavourspubandgrill/photos
 
 D. Contact Us:
 - Cell: 0978 812 068.
 - Tel: +260 213 322 356.
 - Email: FlavoursPub&Grill@gmail.com.
-- Facebook Page: Flavours Pubs & Grill Restaurant.
+- Facebook Page: https://web.facebook.com/flavourspubandgrill/photos
 
-E. Location:
+E. Location for Flavours Pubs and Grill Restaurant:
 - Located: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
 - Nearby places: Town or Mukuni Park
 - google maps link: https://www.google.com/maps/place/Flavours+Pub+%26+Grill/@-17.8418073,25.8589363,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff0a37d88ae5f:0x1ea901cc2522e27d!8m2!3d-17.8418124!4d25.8615112!16s%2Fg%2F11c4kppd0j?authuser=0&entry=ttu
@@ -464,7 +466,7 @@ A. Food Menu:
 - We serve the best food with the best ingredients at affordable prices.
 - check out our food prices or charges below:
 
-I. Cafe Menu:
+I. Cafe Menu for Bravo Cafe:
 - Beef Pies (large): K25
 - Chicken Pies (large): K25
 - Mini Sausage Roll: K21
@@ -480,7 +482,7 @@ I. Cafe Menu:
 - Chicken Combo Delux: K22
 - Bread: K17
 -  Milkshake: 35
-II. Drinks:
+II. Drinks for Bravo Cafe:
 - Fruticana (500mls): K13
 - Fanta (500mls): K16
 - Sprite (500mls): K16
@@ -490,7 +492,7 @@ II. Drinks:
 - Mineral Water (500mls): K5
 - Mineral Water (750mls): K7
 - Mineral water (1L): K10
-III. Pizza:
+III. Pizza for Bravo Cafe:
 - Chicken Mushroom: K149.99
 - Macon Chicken BBQ: K135
 - Tikka Chicken: K99
@@ -503,24 +505,24 @@ III. Pizza:
 - Big Friday Pizza: K78
 - PeriPeri Chicken: K50
 
-IV. Cream:
+IV. Ice Cream for Bravo Cafe:
 - Ice Cream Cone: K12
 - Ice cream Cup (large): K25
 - Ice Cream Cup (small): K18
 
-V. Red Burgers:
+V. Red Burgers for Bravo Cafe:
 - Beef Burger: K39
 - Chicken Burger: K50
 
-VI. Grill:
+VI. Grills for Bravo Cafe:
 - T Bone + chips: K95
 - Grilled Piece Chicken: K25
 - Grilled Piece + chips: K45
 - Sharwama special: K39.99
 - Sausage and chips: K60
-VII. Breakfast:
+VII. Breakfast for Bravo Cafe:
 - English Breakfast: K50
-VIII. Cakes:
+VIII. Cakes for Bravo Cafe:
 - Cake Slice: K37
 - Birthday cake (large): K350
 - Choco Cake (large): K350
@@ -532,7 +534,7 @@ B. Our Deliveries:
 around livingstone.
 - Make An order by calling us on 0771 023 899.
 
-C. Photo Gallery:
+C. Photo Gallery for Bravo Cafe:
 Below are some photos for Bravo Cafe's food:
 - Photo: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
 - Photo: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
@@ -626,11 +628,11 @@ Along Kabompo road, Town Area in livingstone, Zambia.
 
 Available Services for Kubu Cafe: 
 
-A. Food Menu:
+A. Food Menu for Kubu Cafe:
 - We serve the best food with the best ingredients at affordable prices.
 - check out our food prices or charges below:
 
-I. Breakfast Menu:
+I. Breakfast Menu for Kubu Cafe:
 - Crunchy Homemade Granola: K85
 - Bacon and Egg Breakfast Roll: K79
 - Bacon, Egg and Cheese Breakfast Roll: K95
@@ -642,13 +644,13 @@ I. Breakfast Menu:
 - Healthy Breakfast wrap: K116
 - Early Bird Breakfast: K70
 
-II. Omelettes Menu:
+II. Omelettes Menu for Kubu Cafe:
 - Cheese and Onion: K65
 - Bacon and Onion: K75
 - Bacon and Cheese: K95
 - Ham and Cheese: K95
 
-III. Extras: 
+III. Extras for Kubu Cafe: 
 - Egg: K9
 - Bacon: K32
 - Mushroom: K45
@@ -661,22 +663,22 @@ III. Extras:
 - Grilled Tomato: K11
 - Baked Beans: K17
 
-IV. Samoosas:
+IV. Samoosas for Kubu Cafe:
 - Chicken Samosas: K75
 - Beef Samosas: K75
 - Vegetable Samosas: K62
 
-V. Spring Rolls:
+V. Spring Rolls for Kubu Cafe:
 - Chicken Spring Rolls: K75
 - Vegetable Spring Rolls: K62
 
-VI. Quesadilas:
+VI. Quesadilas for Kubu Cafe:
 - Cheese and Bacon: K98
 - Ham and Cheese: K95
 - Chicken and Cheese: K98
 - Cheese and Tomato Salsa: K72
 
-VII. Sandwiches:
+VII. Sandwiches for Kubu Cafe:
 - Egg and Bacon: K59
 - Cheese and Tomato: K63
 - Ham, Cheese and Tomato: K85
@@ -684,17 +686,17 @@ VII. Sandwiches:
 - Egg, Bacon and Cheese: K89
 - Chicken and Mayo: K75
 
-VIII. Salads:
+VIII. Salads for Kubu Cafe:
 - Tropical Chicken Salad: K165
 - Greek Salad: K145
 - Fried Halloumi Salad: K135
 - Summer Salad: K145
 
-IX. Homemade Pies:
+IX. Homemade Pies for Kubu Cafe:
 - Chicken: K63
 - Beef and Mushroom: K63
 
-X. Pizzas:
+X. Pizza for Kubu Cafe:
 - Margarita Pizza: K145
 - 3 Cheese Pizza: K175
 - Vegetarian Pizza: K175
@@ -708,7 +710,7 @@ X. Pizzas:
 - Chorizo Sausage Pizza: K39
 - Mince Pizza: K32
 
-XI. Burgers:
+XI. Burgers for Kubu Cafe:
 - Kubu Beef Burger: K110
 - Chilli Chicken Burger: K165
 - Ranch Burger: K165
@@ -719,16 +721,16 @@ XI. Burgers:
 
 All Burgers are served with Chicken and salad.
 
-XII. Kids Main Meals:
+XII. Kids Main Meals for Kubu Cafe:
 - Chicken and Chips: K95
 - Eggy Fried Rice: k85
 - Kids Kubu Cheese Burger: K110
 - Fish Fingers and chips: K145
 
-XIII. Desserts:
+XIII. Desserts for Kubu Cafe:
 - Pancakes: K65
 
-XIV. Coffee and Tea:
+XIV. Coffee and Tea for Kubu Cafe:
 - Americano Cup: K35
 - Americano Mug Double shot: K45
 - Cappucino: K49
@@ -740,14 +742,14 @@ XIV. Coffee and Tea:
 - Single Latte: K55
 - Double Latte: K75
 
-XV. Tea:
+XV. Tea for Kubu Cafe:
 - Rooibos, Five Roses: K23
 - Earl grey: K29
 - Iced Tea: K23
 - Green Tea: K29
 - Ginger Tea: K59
 
-XVI. Milkshakes:
+XVI. Milkshakes for Kubu Cafe:
 - Chocolate (small): K55
 - Chocolate (large): K85
 - Vanilla (small): K55
@@ -760,7 +762,7 @@ XVI. Milkshakes:
 - Coffee Milkshake (large): K78
 - Milo Milkshake: K85
 
-XVII. Cake Slices:
+XVII. Cake Slices for Kubu Cafe:
 - Decadent Chocolate cake: K65
 - Carrot Cake: K85
 - Apple Crumble: K75
@@ -768,7 +770,7 @@ XVII. Cake Slices:
 - Red Velvet Cake: K75
 - Black Forest Cake: K85
 
-XVIII. Drinks:
+XVIII. Drinks for Kubu Cafe:
 - Lemonade: k23
 - Soda Water: K23
 - Tonic Water: K23
@@ -784,18 +786,18 @@ XVIII. Drinks:
 - Orange Juice: K95
 - Passion Fruit: K19
 
-XIX. Wines:
+XIX. Wines for Kubu Cafe:
 - Red or white bottle: K260
 - Glass Red and white: K55
 
-XX. Whiskey and Brandy:
+XX. Whiskey and Brandy for Kubu Cafe:
 - Jameson: K45
 - J&B: K45
 - Grants: K30
 - Vodka: K30
 - Jack Daniels: K55
 
-XXI. Beers And Ciders: 
+XXI. Beers And Ciders for Kubu Cafe: 
 - Hunter's Gold: K45
 - Hunter's Dry: K45
 - Savannah Dry: K45
@@ -805,7 +807,7 @@ XXI. Beers And Ciders:
 - Castle: k17
 - Castle lite: k30
 
-XXII. Whole Cake Prices:
+XXII. Whole Cake Prices for Kubu Cafe:
 - Chocolate (small): K399
 - Chocolate (medium): K450
 - Chocolate (large): K490
@@ -820,7 +822,7 @@ XXII. Whole Cake Prices:
 - Cheese Cake (large): K690
 
 
-C. Photo Gallery:
+C. Photo Gallery for Kubu Cafe:
 Below are some photos for Kubu Cafe's food:
 - Kubu Cafe Photo: https://web.facebook.com/photo/?fbid=739887448139646&set=a.482160943912299
 - Kubu Cafe Photo: https://web.facebook.com/photo.php?fbid=739814858146905&set=pb.100063551922047.-2207520000.&type=3
@@ -834,7 +836,7 @@ D. Contact Us:
 - Email: lucy@kubucrafts.com
 - Facebook Page: https://web.facebook.com/KubuCafe
 
-E. Location:
+E. Location for Kubu Cafe:
 - Located: Along Kabompo Road, In Town, livingstone, Zambia.
 - Nearby places: Next to/ the Fire station.
 - google maps link: https://www.google.com/maps/place/Kubu+Cafe/@-17.8517417,25.8515932,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff09c33cee72f:0x48beb661532b7ff8!8m2!3d-17.8517468!4d25.8541681!16s%2Fg%2F11g9nrdk5z?authuser=0&entry=ttu

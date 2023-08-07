@@ -19,6 +19,8 @@ feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
 
 openai.api_key = st.secrets["api"]
 
+myapp = st.secrets["api_key"]
+
 
 
 # model = "gpt-3.5-turbo"
@@ -893,6 +895,7 @@ st.write('''
 4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours
 
 ''')
+st.write(myapp)
  
 
 st.write('---') 

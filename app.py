@@ -19,7 +19,7 @@ feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
 
 openai.api_key = st.secrets["api"]
 
-myapp = st.secrets["api"]
+myapp = st.secrets["api_key"]
 
 
 

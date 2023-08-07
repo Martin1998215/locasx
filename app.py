@@ -467,10 +467,6 @@ I. Cafe Menu:
 - Mini Sausage Roll: K21
 - Hot Chocolate: K35
 - Cuppucino: K35
-- Cake Slice: K37
-- Birthday cake (large): K350
-- Choco Cake (large): K350
-- Vanilla Cake Slice: K37
 - Cream Doughnut: K15
 - Plain Scone: K12
 - Bran Muffin: K18
@@ -479,10 +475,9 @@ I. Cafe Menu:
 - Egg Roll: K35
 - Samoosa: K10
 - Chicken Combo Delux: K22
-- English Breakfast: K50
 - Bread: K17
 -  Milkshake: 35
-II. Drink Prices or charges:
+II. Drinks:
 - Fruticana (500mls): K13
 - Fanta (500mls): K16
 - Sprite (500mls): K16
@@ -493,10 +488,8 @@ II. Drink Prices or charges:
 - Mineral Water (750mls): K7
 - Mineral water (1L): K10
 III. Pizza:
-a. Large Sized Pizza:
 - Chicken Mushroom: K149.99
 - Macon Chicken BBQ: K135
-b. Medium Sized Pizza:
 - Tikka Chicken: K99
 - Chicken Mushroom: K105
 - Pepperon Plus: K80
@@ -504,7 +497,6 @@ b. Medium Sized Pizza:
 - Hawaian: K90
 - Veggie Natural: K78
 - Margerita: K75
-c. Regular Sized Pizza:
 - Big Friday Pizza: K78
 - PeriPeri Chicken: K50
 
@@ -523,6 +515,14 @@ VI. Grill:
 - Grilled Piece + chips: K45
 - Sharwama special: K39.99
 - Sausage and chips: K60
+VII. Breakfast:
+- English Breakfast: K50
+VIII. Cakes:
+- Cake Slice: K37
+- Birthday cake (large): K350
+- Choco Cake (large): K350
+- Vanilla Cake Slice: K37
+
 
 B. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery vans \ 

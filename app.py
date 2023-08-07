@@ -870,7 +870,7 @@ st.sidebar.write("---")
 st.sidebar.write("""
 **Embark on Limitless Adventures - Your AI-Powered Travel, Dining, and Stay Companion Awaits!**
 """)
-st.sidebar.markdown("<h3 style='text-align: center; color: black;'>Contact</h3>", unsafe_allow_html=True)
+st.sidebar.markdown("<h3 style='text-align: center; color: blue;'>Contact</h3>", unsafe_allow_html=True)
 st.sidebar.write("""
 - +260 976 718 998/0976035766
 - locastechnology@gmail.com.
@@ -885,6 +885,7 @@ st.markdown("<h3 style='text-align: center; color: lightgray;'>Suggested Questio
 st.write('''
 - what Restaurants are there?
 - what Lodges are there? 
+- i will be travelling to livingstone. recommend for me some cheap accommodation and how much they cost
 - do you have any photos for Bravo Cafe?
 - I want accommodation for less than [price]?
 - what eating places are there

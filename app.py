@@ -17,7 +17,7 @@ sf_schema = st.secrets["snowflake_schema"]
 table_name = "USER_DATA.PUBLIC.USER_TABLE"
 feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
 
-openai.api_key = st.secrets["apikey"]
+openai.api_key = st.secrets["api_key"]
 
 
 

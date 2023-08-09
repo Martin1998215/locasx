@@ -530,13 +530,20 @@ VIII. Cakes for Bravo Cafe:
 - Choco Cake (large): K350
 - Vanilla Cake Slice: K37
 
+B. Promotions at Bravo Cafe:
+* Bravo Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:
+- Tikka/ regular chicken: K80
+* Bravo cafe the double trouble promotion on Tuesday and Thursday for the following:
+- milkshakes (mango, strawberry, chocolate,caramel): K54
+- Ice cream cones (chocolate, vanilla, strawberry): K20
+- 2 ouarter chicken (with chips and Greek salad): K130
 
-B. Our Deliveries:
+C. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery vans \ 
 around livingstone.
 - Make An order by calling us on 0771 023 899.
 
-C. Photo Gallery for Bravo Cafe:
+D. Photo Gallery for Bravo Cafe:
 Below are some photos for Bravo Cafe's food:
 - Photo: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
 - Photo: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
@@ -550,14 +557,15 @@ Below are some photos for Bravo Cafe's food:
 
 For More photos, Check on our Facebook Page: https://web.facebook.com/BRAVOLSTONE/photos
 
-D. Contact Us:
+E. Contact Us:
 - Cell: 0978 833 685.
 - Email: bravorestaurant@gmail.com.
 - Facebook Page: https://web.facebook.com/BRAVOLSTONE
 
-E. Location:
+F. Location:
 - Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
 - Nearby places: Absa Bank, Stanbic Bank, Bata shop.
+
 
 6. Name of Lodge: KM Executive Lodge
 

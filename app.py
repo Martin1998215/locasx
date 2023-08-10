@@ -114,11 +114,15 @@ we have food and beverages. below is a list of our menu:
 - Soft Drinks (300mls): K10
 - Mineral water (500mls): K8
 
+D. Promotions at Livingstone Lodge:
+- Happy Hour:
+- Every friday at 18:00 to 19:00hrs: Free snacks
+- Every saturday at 17:00 to 18:00hrs: Free snacks.
 
-D. Bar: 
+E. Bar: 
 - our cocktail Bar offers some drinks and different kinds of beers.
 
-E. Other activities:
+F. Other activities:
 - Event hires such as weddings, Parties, meetings.
 - we do not offer swimming pool services.
 - Game Drive + Rhino walk: K400
@@ -130,7 +134,7 @@ E. Other activities:
 - Gorge Siving: K1550
 - Airport Transfer: K140.
 
-F. Photo Gallery:
+G. Photo Gallery:
 Below are some photo links to our lodge, rooms and restaurant:
 - Livingstone Lodge Photo link: https://web.facebook.com/photo?fbid=711954037609172&set=a.711954350942474
 - Livingstone Lodge Photo link: https://web.facebook.com/hostelsboard11/photos/a.112074110583399/112074030583407/
@@ -138,13 +142,13 @@ Below are some photo links to our lodge, rooms and restaurant:
 
 for more photos on Livingstone Lodge, check out our facebook page: https://web.facebook.com/hostelsboard11/photos
 
-G. CONTACT US:
+H. CONTACT US:
 - Phone Number: +260-213-320647.
 - Email address: livingstonelodge7@gmail.com.
 - Facebook Page: https://web.facebook.com/hostelsboard11
 - Postal Address: P.O Box 61177, Livingstone.
 
-H. Location:
+I. Location:
 - Located: Maramba Road Plot 01, maramba area.
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
 - google maps link: https://www.google.com/maps/place/Livingstone+Lodge/@-17.8454748,25.8632469,17z/data=!3m1!4b1!4m9!3m8!1s0x194ff1bc2453719f:0x58857bdcaf4746fb!5m2!4m1!1i2!8m2!3d-17.8454799!4d25.8658218!16s%2Fg%2F11f8fcc5xq?authuser=0&entry=ttu

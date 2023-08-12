@@ -114,13 +114,19 @@ we have food and beverages. below is a list of our menu:
 - Soft Drinks (300mls): K10
 - Mineral water (500mls): K8
 
-D. Promotions at Livingstone Lodge:
-- Happy Hour:
-- Every friday at 18:00 to 19:00hrs: Free snacks
-- Every saturday at 17:00 to 18:00hrs: Free snacks.
-
-E. Bar: 
+D. Bar: 
 - our cocktail Bar offers some drinks and different kinds of beers.
+I. Beer prices:
+- Mosi (small): K15
+- Black Label (small): K15
+- Castle Lite (small): K20
+- Castle (small): K15
+
+E. Promotions at Livingstone Lodge:
+I. Happy Hour Promo
+* Buy anything from our Cocktail Bar and get a free snack:
+- Every friday at 18:00 to 19:00hrs.
+- Every saturday at 17:00 to 18:00hrs.
 
 F. Other activities:
 - Event hires such as weddings, Parties, meetings.

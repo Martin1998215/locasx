@@ -703,6 +703,11 @@ st.write('''
 
 st.write('---') 
 
+if 'generated' not in st.session_state:
+    st.session_state['generated'] = []
+
+if 'past' not in st.session_state:
+    st.session_state['past'] = []
 
 txt = st.chat_input(placeholder="How may we assist you, our customer?",max_chars=300)
 
@@ -730,7 +735,8 @@ if txt:
     final_response = response.split(delimiter)[-1].strip()
     res_word = len(re.findall(r'\w+', final_response))
     user_text = st.chat_message("user")
-    user_text.write(txt)
+    user_text.session_state.past.append(txt)
+    # user_text.write(txt)
 
     if res_word < 3:
         	    
@@ -766,7 +772,8 @@ if txt:
 
     else:
         mytxt = st.chat_message("assistant")
-        mytxt.write(final_response)
+        mytxt.session_state.generated.append(final_response)
+        # mytxt.write(final_response)
 
         conn = snowflake.connector.connect(
             user=sf_user,

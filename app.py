@@ -654,6 +654,11 @@ Respond to user: {delimiter} < response to customer >
 Make sure to include {delimiter} to seperate every step.
 """
 
+from PIL import Image
+
+img = Image.open('locas.jpg')
+
+st.set_page_config(page_title="Assistant, Quest2Query", page_icon=img)
 
 st.sidebar.markdown("<h2 style='text-align: center; color: blue;'>Your Digital Assistant</h2>", unsafe_allow_html=True)
 st.sidebar.write("""

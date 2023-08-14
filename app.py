@@ -660,6 +660,14 @@ img = Image.open('locas.jpg')
 
 st.set_page_config(page_title="Assistant, Quest2Query", page_icon=img)
 
+hide_menu_style = """
+<style>
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+</style>
+"""
+st.markdown(hide_menu_style, unsafe_allow_html=True)
+
 st.sidebar.markdown("<h2 style='text-align: center; color: blue;'>Your Digital Assistant</h2>", unsafe_allow_html=True)
 st.sidebar.write("""
 - "For All Things Dining and Lodging..."

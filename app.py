@@ -963,7 +963,6 @@ if txt:
     final_response = response.split(delimiter)[-1].strip()
     res_word = len(re.findall(r'\w+', final_response))
     user_text = st.chat_message("user")
-    # user_text.session_state.past.append(txt)
     user_text.write(txt)
 
     if res_word < 3:

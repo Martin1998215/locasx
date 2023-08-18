@@ -332,311 +332,7 @@ E. Location for Flavours Pubs and Grill Restaurant:
 - google maps link: https://www.google.com/maps/place/Flavours+Pub+%26+Grill/@-17.8418073,25.8589363,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff0a37d88ae5f:0x1ea901cc2522e27d!8m2!3d-17.8418124!4d25.8615112!16s%2Fg%2F11c4kppd0j?authuser=0&entry=ttu
 
 
-3. Name of Lodge: Chappa Classic Lodge
-
- - Chappa Classic Lodge is a Lodge. It has a Restaurant that serves food.
-
-About Chappa Classic Lodge:
-
-- The Chapa Classic Lodge and the annex Chapa Vanguard offer a total of \ 
-67 rooms and conference facilities for up to 160 participants. The lodges \  
-are across the street from each other in a quiet area just next to the \  
-Livingstone city centre.
-- Located: 66 Nehru Way, town area, Livingstone.
-- The lodges are locally owned and operated. Buy local and support the local community!
-- Just 7 minutes to shops and restaurants.
-- Chapa Classic Lodge and Tours offers easy access to the major Livingstone \  
-town business centers and we can arrange any activity you would want to \ 
-do around the magnificent Victoria Fall.
-- Affordable rates: We offer affordable rooms and conferencing: value for \  
-money. Ask for seasonal special deals.
-
-Available services For Chappa Classic Lodge:
-
-A. Rooms or Accommodation:
-
-All rooms come with WiFi, air-conditioning, a fridge, en suite bathroom, \ 
-DStv and full English breakfast. Rates are based on double occupancy.
-
-- Deluxe Classic: US$ 45
-- Single Room Classic: US$ 35
-- Double/Twin Room Classic: US$ 40
-
-Deluxe Rooms at Chapa Vanguard:
-- Deluxe Rooms: US$ 50
-- All rooms at the Chapa Vanguard are spacious Deluxe rooms with a modern \  
-en suite bathroom. The rooms comes with DStv, a fridge and coffee and \  
-tea making facilities.
-
-B. Conference Room:
-
-Conferencing, meetings and seminars for up to 160 participants:
-- We cater for conferences, seminars and workshops for up to 160 \ 
-people with a large conference halls and meeting rooms. Flipovers, \ 
-LCD projector are available.
-
-Hotel room:
-Chapa Classic and Chapa Vanguard together offer a total of 67 rooms. \ 
-We work together with hotels nearby to accommodate all of your guest, \ 
-arranging transport to the conference facilities at Chapa upon request.
-
-Other activities:
-- Swimming Pool.
-- Event hires such as weddings, Parties, meetings.
-
-D. Photo Gallery:
-Below are some photo links to our lodge, rooms and restaurant:
-- Chappa Classic Lodge Photo link: https://web.facebook.com/photo.php?fbid=711948847607319&set=pb.100063766290503.-2207520000.&type=3
-- Chappa Classic Lodge Photo link: https://web.facebook.com/photo?fbid=711948824273988&set=pb.100063766290503.-2207520000.
-- Chappa Classic Lodge Photo link: https://web.facebook.com/photo/?fbid=675348787933992&set=pb.100063766290503.-2207520000.
-
-for more photos for Chappa Classic Lodge, check out our facebook page: https://web.facebook.com/chapaclassiclodge/photos 
-or visit our website at: https://www.chapaclassiclodge.com
-
-
-E. CONTACT US:
-- Phone Number: +260 974656872 or +260 975795030
-- Email address: chapaclassiclodge@zamnet.zm
-- website: https://www.chapaclassiclodge.com
-- facebook page: https://web.facebook.com/chapaclassiclodge/photos 
-
-F. Location:
-- Located: 66 Nehru Way, Town area, Livingstone
-- Nearby places: Livingstone Central Hospital, Town, NIPA
-- google maps link: https://www.google.com/maps/place/Chapa+Classic+Lodge/@-17.8417421,25.8547134,17z/data=!4m20!1m10!3m9!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!2sChapa+Classic+Lodge!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj!3m8!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj?authuser=0&entry=ttu
-
-
-4. name of lodge: Mosi-O-Tunya Execcutive Lodge.
-
- - Mosi-O-Tunya Lodge is a Lodge. It has a Restaurant that serves food.
-
-About Mosi-O-Tunya Lodge:
-
-- Classified as a grade A - lodge by the ministry of Tourism and Natural resources.
-- We are situated in the highlands area of Livingstone, off Lusaka Road and behind \ 
-the Bible college. when with us, you are only five and eight minutes drive away from \ 
-Town and the mighty victoria falls. 
-- The lodge has 16 fully air conditioned immaculate en-suite rooms including family \ 
-and self catering rooms.
-- DSTV, WI FI & coffee/Tea making facilities are available in all the rooms.
-- Also available is a restaurant serving appetizing international and special \ 
-meals on al a carte basis as well as a swimming pool to cool you off from the \ 
-blazing heat of livingstone.
-- We arrange tours and adventure activities and offer Bus stop and Airport transfers \ 
-at affordable fees.
-- we are located on Plot No. 4424/37, in Highlands, Livingstone.
-
-Available Services for Mosi-O-Tunya Lodge:
-
-A. Rooms or Accommodation:
-
-- Standard Rooms: They are going at K450. They have a Double Bed.
-- Executive Rooms: They are going at K550. They have a Queen Size Bed.
-- Twin Rooms: they are going at K700. They have two three quarters Beds.
-- Family Rooms: They are going at K1200. 
-
-B. Restaurant:
-
-Our Menus:
-- Nshima with Fish: K70 per plate.
-- Nshima with Chicken: K60 per plate.
-- Nshima with Pork: K60 per plate.
-- Nshima with Sausage: K50 per plate.
-- Nshima with T Bone: K75 per plate.
-
-C. Activities:
-
-- Swimming Pool services.
-- We arrange Tours and Adventure activities and offer Bus stop and Airport transfers at \ 
-affordable fees.
-
-D. Contact Us:
-
-for a true value of hospitality, visit us at:
-- website: www.mosiotunyalodge.co.zm.
-- contact us on: 09773891512
-- Email: reservations@mosiotunyalodge.co.zm
-
-E. Location:
-- Located: Plot No. 4424/37, Highlands, Livingstone.
-- Nearby places: Bible College.
-
-5. Name of Restaurant: Bravo Cafe and Restaurant.
-
--  Bravo Cafe and Restaurant is a Restaurant, It is not a lodge.
-
-About Bravo Cafe and Restaurant:
-- Bravo Cafe and Restaurant is a Restaurant located in the city of Livingstone, \ 
-Along Mosi O Tunya road, Town Area in livingstone, Zambia.
-- We serve the Best food ever, at affordable prices.
-- We also make the quickiest deliveries anywhere around Livingstone.
-- we are open 24hrs from sunday to monday.
-
-Available Services for Bravo Cafe and Restaurant: 
-
-A. Food Menu:
-- We serve the best food with the best ingredients at affordable prices.
-- check out our food prices or charges below:
-
-I. Cafe Menu for Bravo Cafe:
-- Beef Pies (large): K25
-- Chicken Pies (large): K25
-- Mini Sausage Roll: K21
-- Hot Chocolate: K35
-- Cuppucino: K35
-- Cream Doughnut: K15
-- Plain Scone: K12
-- Bran Muffin: K18
-- Melting Moments: K18
-- Cheese Strows: K23
-- Egg Roll: K35
-- Samoosa: K10
-- Chicken Combo Delux: K22
-- Bread: K17
--  Milkshake: 35
-II. Drinks for Bravo Cafe:
-- Fruticana (500mls): K13
-- Fanta (500mls): K16
-- Sprite (500mls): K16
-- Coke (500mls): K16
-- Fruitree: K25
-- Embe: K17
-- Mineral Water (500mls): K5
-- Mineral Water (750mls): K7
-- Mineral water (1L): K10
-III. Pizza for Bravo Cafe:
-- Chicken Mushroom: K149.99
-- Macon Chicken BBQ: K135
-- Tikka Chicken: K99
-- Chicken Mushroom: K105
-- Pepperon Plus: K80
-- All round Meat: K95
-- Hawaian: K90
-- Veggie Natural: K78
-- Margerita: K75
-- Big Friday Pizza: K78
-- PeriPeri Chicken: K50
-
-IV. Ice Cream for Bravo Cafe:
-- Ice Cream Cone: K12
-- Ice cream Cup (large): K25
-- Ice Cream Cup (small): K18
-
-V. Red Burgers for Bravo Cafe:
-- Beef Burger: K39
-- Chicken Burger: K50
-
-VI. Grills for Bravo Cafe:
-- T Bone + chips: K95
-- Grilled Piece Chicken: K25
-- Grilled Piece + chips: K45
-- Sharwama special: K39.99
-- Sausage and chips: K60
-VII. Breakfast for Bravo Cafe:
-- English Breakfast: K50
-VIII. Cakes for Bravo Cafe:
-- Cake Slice: K37
-- Birthday cake (large): K350
-- Choco Cake (large): K350
-- Vanilla Cake Slice: K37
-
-B. Promotions at Bravo Cafe:
-* Bravo Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:
-- Tikka/ regular chicken: K80
-* Bravo cafe the double trouble promotion on Tuesday and Thursday for the following:
-- milkshakes (mango, strawberry, chocolate,caramel): K54
-- Ice cream cones (chocolate, vanilla, strawberry): K20
-- 2 ouarter chicken (with chips and Greek salad): K130
-
-C. Our Deliveries:
-- We offer the best and quickest kind of deliveries using our delivery vans \ 
-around livingstone.
-- Make An order by calling us on 0771 023 899.
-
-D. Photo Gallery for Bravo Cafe:
-Below are some photos for Bravo Cafe's food:
-- Photo: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=252277424215064&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=251681690941304&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=251681597607980&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=250980197678120&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo.php?fbid=245265944916212&set=pb.100082984238391.-2207520000.&type=3
-- Photo: https://web.facebook.com/photo.php?fbid=234845942624879&set=pb.100082984238391.-2207520000.&type=3
-- Photo: https://web.facebook.com/photo.php?fbid=210258831750257&set=pb.100082984238391.-2207520000.&type=3
-
-For More photos, Check on our Facebook Page: https://web.facebook.com/BRAVOLSTONE/photos
-
-E. Contact Us:
-- Cell: 0978 833 685.
-- Email: bravorestaurant@gmail.com.
-- Facebook Page: https://web.facebook.com/BRAVOLSTONE
-
-F. Location:
-- Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
-- Nearby places: Absa Bank, Stanbic Bank, Bata shop.
-
-
-6. Name of Lodge: KM Executive Lodge
-
- - KM Executive Lodge is a Lodge. It has a Restaurant that serves food.
-
-About KM Executive Lodge:
-
-- KM Execuive Lodge is a Lodge which is located in Livingstone, Highlands, on plot number 2898/53 \ 
-Off Lusaka Road.
-- It offers a variety of services from Accommodation or Room services (Executive Rooms with self catering), \ 
-a Conference Hall for events such as meetings, workshops etc, a Restaurant, Gym and a Swimming Pool \ 
-with 24Hrs Security Services.
-
-Available Sevices for Asenga Executive Lodge: 
-
-A. Room Prices:
-
-- Double Room: K250
-- King Executive Bed: K350
-- Twin Executive (Two Double Beds): K500
-- Family Apartment (Self Catering): K750
-- King Executive (Self Catering): K500
-- Any Single Room with Breakfast Provided for one person: K250
-- Any Couple we charge K50 for Extra Breakfast.
-- Twin Executive (Two Double Beds) with Breakfast provided for 2 people.
-
-B. Restaurant:
-- Full English Breakfast: K50
-- Plain Chips: K35
-- Full Salads With Potatoes: K45
-- Plain Potatoes with salads: K40
-- Chips with Fish: K90
-- Chips with T Bone: K90
-- Rice Beef: K90
-- Dry Fish: K120
-- Beef Shew: K90
-- Nshima with Chicken: K90
-- Nshima with T Bone: K90
-- Nshima with Kapenta: K50
-- Nshima with Visashi: K40
-- Smashed Potatoes: K45
-- Chips with Chicken: K90
-
-C. Gym Service.
-D. Swimming Pool:
-- we also have a swimming pool with 24Hrs security service.
-E. Conference Hall:
-- We also have a conference hall for events such as meetings, workshops and presentations.
-
-F. Contact Us:
-- Tel: +0213324051
-- Cell: 0966603232 or 0977433762
-- Email: kmexecutivelodge@gmail.com
-- Facebook Page: KM Executive Lodge
-
-G. Location:
-- Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
-- Nearby places: Highlands Market or Zambezi Sports Club
-
-
-7. Name of Restaurant: Kubu Cafe.
+3. Name of Restaurant: Kubu Cafe.
 
 -  Kubu Cafe is a Restaurant, It is not a lodge.
 
@@ -860,6 +556,311 @@ E. Location for Kubu Cafe:
 - Located: Along Kabompo Road, In Town, livingstone, Zambia.
 - Nearby places: Next to/ the Fire station.
 - google maps link: https://www.google.com/maps/place/Kubu+Cafe/@-17.8517417,25.8515932,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff09c33cee72f:0x48beb661532b7ff8!8m2!3d-17.8517468!4d25.8541681!16s%2Fg%2F11g9nrdk5z?authuser=0&entry=ttu
+
+
+
+4. Name of Lodge: Chappa Classic Lodge
+
+ - Chappa Classic Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Chappa Classic Lodge:
+
+- The Chapa Classic Lodge and the annex Chapa Vanguard offer a total of \ 
+67 rooms and conference facilities for up to 160 participants. The lodges \  
+are across the street from each other in a quiet area just next to the \  
+Livingstone city centre.
+- Located: 66 Nehru Way, town area, Livingstone.
+- The lodges are locally owned and operated. Buy local and support the local community!
+- Just 7 minutes to shops and restaurants.
+- Chapa Classic Lodge and Tours offers easy access to the major Livingstone \  
+town business centers and we can arrange any activity you would want to \ 
+do around the magnificent Victoria Fall.
+- Affordable rates: We offer affordable rooms and conferencing: value for \  
+money. Ask for seasonal special deals.
+
+Available services For Chappa Classic Lodge:
+
+A. Rooms or Accommodation:
+
+All rooms come with WiFi, air-conditioning, a fridge, en suite bathroom, \ 
+DStv and full English breakfast. Rates are based on double occupancy.
+
+- Deluxe Classic: US$ 45
+- Single Room Classic: US$ 35
+- Double/Twin Room Classic: US$ 40
+
+Deluxe Rooms at Chapa Vanguard:
+- Deluxe Rooms: US$ 50
+- All rooms at the Chapa Vanguard are spacious Deluxe rooms with a modern \  
+en suite bathroom. The rooms comes with DStv, a fridge and coffee and \  
+tea making facilities.
+
+B. Conference Room:
+
+Conferencing, meetings and seminars for up to 160 participants:
+- We cater for conferences, seminars and workshops for up to 160 \ 
+people with a large conference halls and meeting rooms. Flipovers, \ 
+LCD projector are available.
+
+Hotel room:
+Chapa Classic and Chapa Vanguard together offer a total of 67 rooms. \ 
+We work together with hotels nearby to accommodate all of your guest, \ 
+arranging transport to the conference facilities at Chapa upon request.
+
+Other activities:
+- Swimming Pool.
+- Event hires such as weddings, Parties, meetings.
+
+D. Photo Gallery:
+Below are some photo links to our lodge, rooms and restaurant:
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo.php?fbid=711948847607319&set=pb.100063766290503.-2207520000.&type=3
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo?fbid=711948824273988&set=pb.100063766290503.-2207520000.
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo/?fbid=675348787933992&set=pb.100063766290503.-2207520000.
+
+for more photos for Chappa Classic Lodge, check out our facebook page: https://web.facebook.com/chapaclassiclodge/photos 
+or visit our website at: https://www.chapaclassiclodge.com
+
+
+E. CONTACT US:
+- Phone Number: +260 974656872 or +260 975795030
+- Email address: chapaclassiclodge@zamnet.zm
+- website: https://www.chapaclassiclodge.com
+- facebook page: https://web.facebook.com/chapaclassiclodge/photos 
+
+F. Location:
+- Located: 66 Nehru Way, Town area, Livingstone
+- Nearby places: Livingstone Central Hospital, Town, NIPA
+- google maps link: https://www.google.com/maps/place/Chapa+Classic+Lodge/@-17.8417421,25.8547134,17z/data=!4m20!1m10!3m9!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!2sChapa+Classic+Lodge!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj!3m8!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj?authuser=0&entry=ttu
+
+
+5. name of lodge: Mosi-O-Tunya Execcutive Lodge.
+
+ - Mosi-O-Tunya Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Mosi-O-Tunya Lodge:
+
+- Classified as a grade A - lodge by the ministry of Tourism and Natural resources.
+- We are situated in the highlands area of Livingstone, off Lusaka Road and behind \ 
+the Bible college. when with us, you are only five and eight minutes drive away from \ 
+Town and the mighty victoria falls. 
+- The lodge has 16 fully air conditioned immaculate en-suite rooms including family \ 
+and self catering rooms.
+- DSTV, WI FI & coffee/Tea making facilities are available in all the rooms.
+- Also available is a restaurant serving appetizing international and special \ 
+meals on al a carte basis as well as a swimming pool to cool you off from the \ 
+blazing heat of livingstone.
+- We arrange tours and adventure activities and offer Bus stop and Airport transfers \ 
+at affordable fees.
+- we are located on Plot No. 4424/37, in Highlands, Livingstone.
+
+Available Services for Mosi-O-Tunya Lodge:
+
+A. Rooms or Accommodation:
+
+- Standard Rooms: They are going at K450. They have a Double Bed.
+- Executive Rooms: They are going at K550. They have a Queen Size Bed.
+- Twin Rooms: they are going at K700. They have two three quarters Beds.
+- Family Rooms: They are going at K1200. 
+
+B. Restaurant:
+
+Our Menus:
+- Nshima with Fish: K70 per plate.
+- Nshima with Chicken: K60 per plate.
+- Nshima with Pork: K60 per plate.
+- Nshima with Sausage: K50 per plate.
+- Nshima with T Bone: K75 per plate.
+
+C. Activities:
+
+- Swimming Pool services.
+- We arrange Tours and Adventure activities and offer Bus stop and Airport transfers at \ 
+affordable fees.
+
+D. Contact Us:
+
+for a true value of hospitality, visit us at:
+- website: www.mosiotunyalodge.co.zm.
+- contact us on: 09773891512
+- Email: reservations@mosiotunyalodge.co.zm
+
+E. Location:
+- Located: Plot No. 4424/37, Highlands, Livingstone.
+- Nearby places: Bible College.
+
+6. Name of Restaurant: Bravo Cafe and Restaurant.
+
+-  Bravo Cafe and Restaurant is a Restaurant, It is not a lodge.
+
+About Bravo Cafe and Restaurant:
+- Bravo Cafe and Restaurant is a Restaurant located in the city of Livingstone, \ 
+Along Mosi O Tunya road, Town Area in livingstone, Zambia.
+- We serve the Best food ever, at affordable prices.
+- We also make the quickiest deliveries anywhere around Livingstone.
+- we are open 24hrs from sunday to monday.
+
+Available Services for Bravo Cafe and Restaurant: 
+
+A. Food Menu:
+- We serve the best food with the best ingredients at affordable prices.
+- check out our food prices or charges below:
+
+I. Cafe Menu for Bravo Cafe:
+- Beef Pies (large): K25
+- Chicken Pies (large): K25
+- Mini Sausage Roll: K21
+- Hot Chocolate: K35
+- Cuppucino: K35
+- Cream Doughnut: K15
+- Plain Scone: K12
+- Bran Muffin: K18
+- Melting Moments: K18
+- Cheese Strows: K23
+- Egg Roll: K35
+- Samoosa: K10
+- Chicken Combo Delux: K22
+- Bread: K17
+-  Milkshake: 35
+II. Drinks for Bravo Cafe:
+- Fruticana (500mls): K13
+- Fanta (500mls): K16
+- Sprite (500mls): K16
+- Coke (500mls): K16
+- Fruitree: K25
+- Embe: K17
+- Mineral Water (500mls): K5
+- Mineral Water (750mls): K7
+- Mineral water (1L): K10
+III. Pizza for Bravo Cafe:
+- Chicken Mushroom: K149.99
+- Macon Chicken BBQ: K135
+- Tikka Chicken: K99
+- Chicken Mushroom: K105
+- Pepperon Plus: K80
+- All round Meat: K95
+- Hawaian: K90
+- Veggie Natural: K78
+- Margerita: K75
+- Big Friday Pizza: K78
+- PeriPeri Chicken: K50
+
+IV. Ice Cream for Bravo Cafe:
+- Ice Cream Cone: K12
+- Ice cream Cup (large): K25
+- Ice Cream Cup (small): K18
+
+V. Red Burgers for Bravo Cafe:
+- Beef Burger: K39
+- Chicken Burger: K50
+
+VI. Grills for Bravo Cafe:
+- T Bone + chips: K95
+- Grilled Piece Chicken: K25
+- Grilled Piece + chips: K45
+- Sharwama special: K39.99
+- Sausage and chips: K60
+VII. Breakfast for Bravo Cafe:
+- English Breakfast: K50
+VIII. Cakes for Bravo Cafe:
+- Cake Slice: K37
+- Birthday cake (large): K350
+- Choco Cake (large): K350
+- Vanilla Cake Slice: K37
+
+B. Promotions at Bravo Cafe:
+* Bravo Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:
+- Tikka/ regular chicken: K80
+* Bravo cafe the double trouble promotion on Tuesday and Thursday for the following:
+- milkshakes (mango, strawberry, chocolate,caramel): K54
+- Ice cream cones (chocolate, vanilla, strawberry): K20
+- 2 ouarter chicken (with chips and Greek salad): K130
+
+C. Our Deliveries:
+- We offer the best and quickest kind of deliveries using our delivery vans \ 
+around livingstone.
+- Make An order by calling us on 0771 023 899.
+
+D. Photo Gallery for Bravo Cafe:
+Below are some photos for Bravo Cafe's food:
+- Photo: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=252277424215064&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=251681690941304&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=251681597607980&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=250980197678120&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo.php?fbid=245265944916212&set=pb.100082984238391.-2207520000.&type=3
+- Photo: https://web.facebook.com/photo.php?fbid=234845942624879&set=pb.100082984238391.-2207520000.&type=3
+- Photo: https://web.facebook.com/photo.php?fbid=210258831750257&set=pb.100082984238391.-2207520000.&type=3
+
+For More photos, Check on our Facebook Page: https://web.facebook.com/BRAVOLSTONE/photos
+
+E. Contact Us:
+- Cell: 0978 833 685.
+- Email: bravorestaurant@gmail.com.
+- Facebook Page: https://web.facebook.com/BRAVOLSTONE
+
+F. Location:
+- Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
+- Nearby places: Absa Bank, Stanbic Bank, Bata shop.
+
+
+7. Name of Lodge: KM Executive Lodge
+
+ - KM Executive Lodge is a Lodge. It has a Restaurant that serves food.
+
+About KM Executive Lodge:
+
+- KM Execuive Lodge is a Lodge which is located in Livingstone, Highlands, on plot number 2898/53 \ 
+Off Lusaka Road.
+- It offers a variety of services from Accommodation or Room services (Executive Rooms with self catering), \ 
+a Conference Hall for events such as meetings, workshops etc, a Restaurant, Gym and a Swimming Pool \ 
+with 24Hrs Security Services.
+
+Available Sevices for Asenga Executive Lodge: 
+
+A. Room Prices:
+
+- Double Room: K250
+- King Executive Bed: K350
+- Twin Executive (Two Double Beds): K500
+- Family Apartment (Self Catering): K750
+- King Executive (Self Catering): K500
+- Any Single Room with Breakfast Provided for one person: K250
+- Any Couple we charge K50 for Extra Breakfast.
+- Twin Executive (Two Double Beds) with Breakfast provided for 2 people.
+
+B. Restaurant:
+- Full English Breakfast: K50
+- Plain Chips: K35
+- Full Salads With Potatoes: K45
+- Plain Potatoes with salads: K40
+- Chips with Fish: K90
+- Chips with T Bone: K90
+- Rice Beef: K90
+- Dry Fish: K120
+- Beef Shew: K90
+- Nshima with Chicken: K90
+- Nshima with T Bone: K90
+- Nshima with Kapenta: K50
+- Nshima with Visashi: K40
+- Smashed Potatoes: K45
+- Chips with Chicken: K90
+
+C. Gym Service.
+D. Swimming Pool:
+- we also have a swimming pool with 24Hrs security service.
+E. Conference Hall:
+- We also have a conference hall for events such as meetings, workshops and presentations.
+
+F. Contact Us:
+- Tel: +0213324051
+- Cell: 0966603232 or 0977433762
+- Email: kmexecutivelodge@gmail.com
+- Facebook Page: KM Executive Lodge
+
+G. Location:
+- Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
+- Nearby places: Highlands Market or Zambezi Sports Club
 
 
 

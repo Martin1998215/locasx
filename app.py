@@ -999,8 +999,8 @@ if txt:
 
     else:
         mytxt = st.chat_message("assistant")
-        mytxt.session_state.generated.append(final_response)
-        # mytxt.write(final_response)
+        # mytxt.session_state.generated.append(final_response)
+        mytxt.write(final_response)
 
         conn = snowflake.connector.connect(
             user=sf_user,

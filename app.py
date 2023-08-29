@@ -1094,7 +1094,6 @@ st.sidebar.write("""
 - "For All Things Dining and Lodging..."
 """)
 st.sidebar.write("---")
-st.sidebar.write(myapp)
 st.sidebar.write("""
 **Embark on Limitless Adventures - Your AI-Powered Travel, Dining, and Stay Companion Awaits!**
 """)

@@ -863,6 +863,199 @@ G. Location:
 - Nearby places: Highlands Market or Zambezi Sports Club
 
 
+8. name of lodge: Kaazmein Lodge.
+
+ - Kaazmein Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Kaazmein Lodge:
+ 
+- The Kaazmein Lodge & Resort has 12 standard double twin chalets, \ 
+these units of which overlook a mini lake. There are also 10 Hotel \  
+rooms and a Family Hotel Chalet Room. The family units contain a \ 
+double room ideally for parents and the next inter-leading room \ 
+has two twin beds, both rooms are self contained.There is a central \ 
+dining complex with A wooden deck that overlooks the man-made \  
+mini lake, an open bar and restaurant area, reception and a conference Hall. \  
+The best accommodation provider situated in Livingstone, Zambia home of the \  
+Mighty Victoria Falls, a region that offers a diversity of cultures rarely equaled  \  
+by any other on earth, Enjoy the wide open spaces, where nature and backpacking \  
+form a unity located in a quiet suburb within walking distance of town, \  
+Let us make your stay and indeed your holiday memories an awesome journey into the \ 
+life, adventure and culture of the ancient continent. With accommodation ranging \ 
+from camping to private budget rooms Ideal For individuals / groups on a budget \  
+trip or travel. Despite being budget rooms, enjoy the en suite luxury facilities \ 
+under the indigenous African trees, these typical A-framed designed rooms are a \ 
+unique option. We offer excellent prices and have great packages on all adrenaline \ 
+activities in and around the Victoria falls.
+
+Available services for Kaazmein Lodge:
+
+
+A. Rooms or accommodaion:
+
+- Our rooms are crisp, bright,  full of class and character most \ 
+important of all they are comfortable and spacious.  12 Chalets \ 
+overlooking a water feature, 10 Hotel Style Rooms set in a relaxed lawn \  
+setting, and 12 self-contained A framed rooms, to cater for privacy \ 
+and individuality of guest.
+
+Our Rooms:
+- Budgets Chalets: K300
+- Standards Chalets: K650
+- Executive Chalets: K1200
+
+They have the following:
+
+- En suite facilities
+- WiFi Internet
+- Laundry available
+- Voltage 220v
+- Shaver outlet
+- Air-conditioning
+- Remote control & color screen with DSTV channels
+- Tea and coffee making facilities
+- Mini fridge
+- Amenities like soaps, shampoos, mosquito nets, repellents are inclusive
+
+
+B. Facilities:
+
+I. Conference Room:
+
+- Our conference rooms both have audio and video equipment. \ 
+The conference rooms can comfortably accommodate 80 and 20 delegates \  
+respectively. Ideal  venue for holding meetings, conferences and events. \  
+The following services are available for your functions:
+
+- markers
+- WiFi Internet
+- projector
+- morning tea-break
+- flip chart
+- writing pads
+- afternoon tea-break
+- lunch
+- refreshing soft drink
+- mineral water
+
+II. Swimming Pool
+III. Events Hire
+IV. Weddings
+V. Outdoor Bar
+VI. Restaurant and Lake:
+
+- The Restaurant is vibrant, a combination of friendly, seamless service \  
+and adventurously culinary flair, local, western and authentic food. \  
+Our main accent being on fresh and   healthy eating, offering many \  
+options for all tastes.
+
+C. Activities:
+ 
+Livingstone Is Full Of Activities Below Is A List Of Activities \  
+That We Will Facilitate For You Our Esteemed Clients:
+
+- Victoria Falls Tour
+- Mukuni Village Tours
+- Gorge Swing
+- Lion Walk
+- Zambezi Canoeing
+- White Water Rafting
+- Banjee Jump
+- Microlight Flights
+- Boat Cruise
+- Bridge Tours
+
+
+D. Contact Us:
+
+- For bookings and reservations or any other inquiries please be free to contact us:
+- Email: info@kaazmeinlodge.com
+ 
+- Land Phone: +260 213 32 22 44
+ 
+- Cell Phone: +260 95 5 32 22 44 or +260 97 7 32 22 44
+
+E. Location:
+- Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
+ 
+- Located: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
+
+- Nearby: Chandamali Market or Mosque.
+
+
+9. Name of Lodge: White Rose Lodge.
+
+ - White Rose Lodge is a Lodge. It has a Restaurant that serves food.
+
+About White Rose Lodge:
+
+- White Rose Lodge is situated in Highlands, Livingstone at Plot No. 4424/17.
+- It has 12 Self contained rooms with DSTV and WI FI.
+- It also has a Restaurant which opens from 07 to 22 hrs.
+
+Available Services for White Rose Lodge:
+A. Rooms or Accommodation:
+
+All our rooms have DSTV and free WI FI.
+
+- Double Bed Rooms: these are not self contained. They only have a cooler. they are going at K260.
+- Double Bed Rooms: These are self contained, they have an Air Con. They are going at K350 and K360.
+- Queen Standard Rooms: They are self contained, have an Air Con. They are going at K430.
+- Apartment: It has 2 bedrooms, a Kitchen, living room, self catering. they are going at K1200.
+
+B. Activities:
+- Restaurant: we have a restaurant that opens at 07:00 to 22:00.
+- Breakfast: between 07:00 to 09:00.
+- Lunch: between 12:30 to 15:30.
+- Dinner: between 18:30 to 22:00.
+- Room Service: K10.
+- Laundry: opens from 06:30 to 21:00.
+- Mini Bar: We have a mini bar that closes at 22:00. 
+- we do not offer swimming pool services.
+
+C. Contact Us:
+
+- call us on 0977 84 96 90.
+- Email us at whiteroselodge@yahoo.com
+
+
+D. Location:
+- Located: at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
+- Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge . 
+
+
+10. Name of Lodge: Aunt Josephine's Executive Lodge.
+
+About Aunt Josephine's Executive Lodge:
+
+- Aunt Josephine's Executive Lodge is based in the heart of Livingstone. \ 
+It is located at Plot NO 2072/178, Maramba, Livingstone. It is near Maramba \ 
+market or Messenger area. It offers room or accommodation, a Bar. Please \ 
+Note that we do not have a Restaurant. Our contact details are 0770 156 856. \ 
+You can also email us on auntjosephineexecutivelodge@gmail.com.
+
+Available Services for Aunt Josephine's Executive Lodge:
+
+A. Rooms or Accommodation prices or charges or rates:
+
+- Double Bed: It is self contained, has no air con, no fridge. It is going at K180.
+- Double Bed: It is self contained, has an air con and a fridge. It is going at K250.
+- Double Bed: It is self contained, has an air con and a fridge. Glass Showers. It is going at K300.
+
+B. Bar:
+- We have a bar that offers various drinks and beers.
+
+Note: We do not have a restaurant or offer any food services.
+
+C. Contacts:
+- Call: 0770 156 856.
+- Email: auntjosephineexecutivelodge@gmail.com.
+
+D. Location:
+- Located: Plot NO 2072/178, Maramba, Livingstone.
+- Nearby: Maramba Market or Messenger area.
+
+
 
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 
@@ -901,6 +1094,7 @@ st.sidebar.write("""
 - "For All Things Dining and Lodging..."
 """)
 st.sidebar.write("---")
+st.sidebar.write(myapp)
 st.sidebar.write("""
 **Embark on Limitless Adventures - Your AI-Powered Travel, Dining, and Stay Companion Awaits!**
 """)

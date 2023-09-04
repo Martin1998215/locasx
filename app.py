@@ -1096,6 +1096,13 @@ For further clarification,please feel free to contact us:
 - call: +260 963774237.
 - Email: reservations.asengalodge@gmail.com
 
+G. Photo Gallery:
+Below are some photo links to our lodge, rooms and restaurant:
+- Asenga Lodge Photo link: https://web.facebook.com/photo/?fbid=1627423537606038&set=br.AboFFOLqttpgmBezIjBx65aqkQZGu1hDafbawLVFAvbhyfLzsfSqvoRWYJ1GdCFQuBzJAxfRHX3sv47Tl5qukReuGFN3bkjvJ_EfOyC6N9OWyen3rPzoLb06L4p-_HJ_UF1yDhWrThXDBhraJuCGqWUO
+- Asenga Lodge Photo link: https://web.facebook.com/photo/?fbid=158894020168715&set=br.AboFFOLqttpgmBezIjBx65aqkQZGu1hDafbawLVFAvbhyfLzsfSqvoRWYJ1GdCFQuBzJAxfRHX3sv47Tl5qukReuGFN3bkjvJ_EfOyC6N9OWyen3rPzoLb06L4p-_HJ_UF1yDhWrThXDBhraJuCGqWUO
+
+for more photos on Livingstone Lodge, check out our facebook page: https://web.facebook.com/pages/Asenga%20Executive%20Lodge/422914465206795/photos
+
 E. Location:
 - located: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
 - PO Box 60464 Livingstone.

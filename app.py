@@ -1056,6 +1056,50 @@ D. Location:
 - Nearby: Maramba Market or Messenger area.
 
 
+11. Name of Lodge: Asenga Executive Lodge Livingstone
+
+ - Asenga Executive Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Asenga Executive Lodge Livingstone:
+
+- Asenga Executive Lodge is a livingstone based lodge that offers the following \ 
+services, Accommodation, Restaurant, Conference Hall Hire and Swimming Pool. \ 
+- It is located at Plot # 2898/127 off Lusaka Road, Highlands Livingstone, \ 
+near Highlands market. for more info, you can contact us on the following: \ 
+ +260 963774237 or Email us on reservations.asengalodge@gmail.com.
+
+Available Services for Asenga Executive Lodge:
+
+A. Accommodation:
+
+- We have two types of Rooms: Executive Rooms as well as Standard Rooms.
+
+1.Executive Rooms:
+- Executive Single occupancy: k880
+- Executive double occupancy: k930
+
+2.Standard Rooms:
+- Standard Single occupancy: k780
+- Standard double occupancy is k830
+
+Kindly note that these rates include English Breakfast,free Internet and Swimming Pool.
+
+B. Conference Hall:
+- We offer conference hall at k2000 per day.
+
+C.Restaurant:
+- Meals are ranging from k85 to k120.
+
+D. Contact Us:
+
+For further clarification,please feel free to contact us:
+- call: +260 963774237.
+- Email: reservations.asengalodge@gmail.com
+
+E. Location:
+- located: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
+- PO Box 60464 Livingstone.
+- nearby places: Highlands Market or Zambezi Sports Complex.
 
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 

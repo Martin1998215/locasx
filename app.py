@@ -56,12 +56,16 @@ the customer query will be delimeted with four hashtags, \
 i.e {delimiter}.
 
 step 1: {delimiter}: First decide whether a user is asking \ 
-a question about a lodge or restaurant or specific service or services about the rooms \ 
-or accommodation \ or the conference room for hosting an event or restaurant or bar or \ 
-other outlets etc. \ 
+a question about any of the following:
+- a lodge or restaurant in general \ 
+- a restaurant menu eg flavours menu or Bravo menu. always include the prices \ 
+- any specific service or services about the room or accommodation rates of a lodge \ 
+- conference room rates for hosting events  \ 
+- bar menu or rates and swimming pool rates \ 
+- other services relating to dining and lodging \ 
 
-step 2: {delimiter}: If the user is asking about specific lodge or restaurant or just the services, \ 
-identify if the services are in the following list.
+step 2: {delimiter}: If the user is asking about anything from step 1, \ 
+identify if it is or they are available in the following list below.
 All available lodges and restaurants and their services:  
 
 1. Name of the lodge: Livingstone lodge
@@ -159,6 +163,8 @@ I. Location:
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
 - google maps link: https://www.google.com/maps/place/Livingstone+Lodge/@-17.8454748,25.8632469,17z/data=!3m1!4b1!4m9!3m8!1s0x194ff1bc2453719f:0x58857bdcaf4746fb!5m2!4m1!1i2!8m2!3d-17.8454799!4d25.8658218!16s%2Fg%2F11f8fcc5xq?authuser=0&entry=ttu
 
+------------------------------------------------------------------------------------------
+
 2. Name of Restaurant: Flavours Pubs and Grill Restaurant.
 
 - Flavours Pubs and Grill Restaurant is a Restaurant, It is not a lodge.
@@ -176,7 +182,7 @@ open space and shelter space.
 
 Available Services for Flavours Pubs and Grill Restaurant: 
 
-A. Food Menu for Flavours Pubs and Grill Restaurant:
+A. Flavours Pubs and Grill Restaurant Menu:
 - We serve the best food with the best ingredients at affordable prices.
 
 I. Hot Beverages for Flavours Pubs and Grill Restaurant:
@@ -307,7 +313,7 @@ XX. Naan/Rotis for Flavours Pubs and Grill Restaurant:
 B. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery van \ 
 around livingstone.
-- Make An order by calling us on 0978 812 068.
+- Make An order by calling us on 0970288859 or 0978 812 068.
 
 C. Photo Gallery for Flavours Pubs and Grill Restaurant:
 Below are some photo links to our restaurant and food menu:
@@ -331,6 +337,7 @@ E. Location for Flavours Pubs and Grill Restaurant:
 - Nearby places: Town or Mukuni Park
 - google maps link: https://www.google.com/maps/place/Flavours+Pub+%26+Grill/@-17.8418073,25.8589363,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff0a37d88ae5f:0x1ea901cc2522e27d!8m2!3d-17.8418124!4d25.8615112!16s%2Fg%2F11c4kppd0j?authuser=0&entry=ttu
 
+---------------------------------------------------------------------------------------------
 
 3. Name of Restaurant: Kubu Cafe.
 
@@ -344,7 +351,7 @@ Along Kabompo road, Town Area in livingstone, Zambia.
 
 Available Services for Kubu Cafe: 
 
-A. Food Menu for Kubu Cafe:
+A. Kubu Cafe Menu:
 - We serve the best food with the best ingredients at affordable prices.
 - check out our food prices or charges below:
 
@@ -557,7 +564,7 @@ E. Location for Kubu Cafe:
 - Nearby places: Next to/ the Fire station.
 - google maps link: https://www.google.com/maps/place/Kubu+Cafe/@-17.8517417,25.8515932,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff09c33cee72f:0x48beb661532b7ff8!8m2!3d-17.8517468!4d25.8541681!16s%2Fg%2F11g9nrdk5z?authuser=0&entry=ttu
 
-
+------------------------------------------------------------------------------------------
 
 4. Name of Lodge: Chappa Classic Lodge
 
@@ -585,12 +592,12 @@ A. Rooms or Accommodation:
 All rooms come with WiFi, air-conditioning, a fridge, en suite bathroom, \ 
 DStv and full English breakfast. Rates are based on double occupancy.
 
-- Deluxe Classic: US$ 45
-- Single Room Classic: US$ 35
-- Double/Twin Room Classic: US$ 40
+- Deluxe Classic: K750
+- Single Room Classic: K630
+- Double/Twin Room Classic: K600
 
 Deluxe Rooms at Chapa Vanguard:
-- Deluxe Rooms: US$ 50
+- Deluxe Rooms: K800
 - All rooms at the Chapa Vanguard are spacious Deluxe rooms with a modern \  
 en suite bathroom. The rooms comes with DStv, a fridge and coffee and \  
 tea making facilities.
@@ -632,6 +639,7 @@ F. Location:
 - Nearby places: Livingstone Central Hospital, Town, NIPA
 - google maps link: https://www.google.com/maps/place/Chapa+Classic+Lodge/@-17.8417421,25.8547134,17z/data=!4m20!1m10!3m9!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!2sChapa+Classic+Lodge!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj!3m8!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj?authuser=0&entry=ttu
 
+-------------------------------------------------------------------------------------------
 
 5. name of lodge: Mosi-O-Tunya Execcutive Lodge.
 
@@ -688,6 +696,8 @@ E. Location:
 - Located: Plot No. 4424/37, Highlands, Livingstone.
 - Nearby places: Bible College.
 
+-----------------------------------------------------------------------------------------------
+
 6. Name of Restaurant: Bravo Cafe and Restaurant.
 
 -  Bravo Cafe and Restaurant is a Restaurant, It is not a lodge.
@@ -701,7 +711,7 @@ Along Mosi O Tunya road, Town Area in livingstone, Zambia.
 
 Available Services for Bravo Cafe and Restaurant: 
 
-A. Food Menu:
+A. Bravo Cafe and Restaurant Menu:
 - We serve the best food with the best ingredients at affordable prices.
 - check out our food prices or charges below:
 
@@ -803,6 +813,7 @@ F. Location:
 - Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
 - Nearby places: Absa Bank, Stanbic Bank, Bata shop.
 
+-----------------------------------------------------------------------------------------------
 
 7. Name of Lodge: KM Executive Lodge
 
@@ -862,6 +873,7 @@ G. Location:
 - Located: plot number 2898/53, Off Lusaka Road, Highlands area, Livingstone.
 - Nearby places: Highlands Market or Zambezi Sports Club
 
+----------------------------------------------------------------------------------------------------
 
 8. name of lodge: Kaazmein Lodge.
 
@@ -982,6 +994,8 @@ E. Location:
 
 - Nearby: Chandamali Market or Mosque.
 
+---------------------------------------------------------------------------------------
+
 
 9. Name of Lodge: White Rose Lodge.
 
@@ -1024,6 +1038,8 @@ D. Location:
 - Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge . 
 
 
+-------------------------------------------------------------------------------------------
+
 10. Name of Lodge: Aunt Josephine's Executive Lodge.
 
 About Aunt Josephine's Executive Lodge:
@@ -1055,6 +1071,7 @@ D. Location:
 - Located: Plot NO 2072/178, Maramba, Livingstone.
 - Nearby: Maramba Market or Messenger area.
 
+--------------------------------------------------------------------------------------------
 
 11. Name of Lodge: Asenga Executive Lodge Livingstone
 

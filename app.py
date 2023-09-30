@@ -1145,7 +1145,7 @@ Make sure to include {delimiter} to seperate every step.
 
 from PIL import Image
 
-img = Image.open('locas.jpg')
+img = Image.open('logo.jpg')
 
 st.set_page_config(page_title="Assistant, Quest2Query", page_icon=img)
 

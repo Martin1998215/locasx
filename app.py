@@ -56,16 +56,14 @@ the customer query will be delimeted with four hashtags, \
 i.e {delimiter}.
 
 step 1: {delimiter}: First decide whether a user is asking \ 
-a question about any of the following:
-- a lodge or restaurant in general \ 
-- a restaurant menu eg flavours menu or Bravo menu. always include the prices \ 
-- any specific service or services about the room or accommodation rates of a lodge \ 
-- conference room rates for hosting events  \ 
-- bar menu or rates and swimming pool rates \ 
-- other services relating to dining and lodging \ 
+a question about a lodge or restaurant or specific service or services about the rooms \ 
+or accommodation \ or the conference room or restaurant menu or bar or \ 
+other outlets etc. \ 
 
-step 2: {delimiter}: If the user is asking about anything from step 1, \ 
-identify if it is or they are available in the following list below.
+step 2: {delimiter}: If the user is asking about specific lodge or restaurant or just the services, \ 
+identify if the services are in the following list.
+if the user is asking a list of lodges or restaurants, kindly include their contact details \ 
+and locations to the list.
 All available lodges and restaurants and their services:  
 
 1. Name of the lodge: Livingstone lodge

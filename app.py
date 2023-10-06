@@ -1173,7 +1173,7 @@ st.sidebar.markdown("<h5 style='text-align: center; color: black;'>Copyrights ©
 st.sidebar.markdown("<h5 style='text-align: center; color: blue;'>Powered By LocasAI</h5>", unsafe_allow_html=True)   
 
 st.markdown("<h2 style='text-align: center; color: gray;'>Quest2Query</h2>", unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: center; color: lightgray;'>Suggested Questions...</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center; color: lightgray;'>Some Suggested Questions...</h3>", unsafe_allow_html=True)
 
 st.write('''
 - show me a menu for flavours?
@@ -1181,7 +1181,7 @@ st.write('''
 - what Lodges are there? 
 - i will be travelling to livingstone. recommend for me some cheap accommodation and how much they cost
 - do you have any photos for Bravo Cafe?
-- I want accommodation for less than [price]?
+- I want accommodation for less than [insert your budget]?
 - what eating places are there
 - make me a budget from bravo cafe within K200 for the following:
 4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours

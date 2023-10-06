@@ -1176,6 +1176,7 @@ st.markdown("<h2 style='text-align: center; color: gray;'>Quest2Query</h2>", uns
 st.markdown("<h3 style='text-align: center; color: lightgray;'>Suggested Questions...</h3>", unsafe_allow_html=True)
 
 st.write('''
+- show me a menu for flavours?
 - what Restaurants are there?
 - what Lodges are there? 
 - i will be travelling to livingstone. recommend for me some cheap accommodation and how much they cost

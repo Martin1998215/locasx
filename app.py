@@ -1133,6 +1133,110 @@ D. Location:
 - Nearby: Town area or Flavours Pub and Grill Restaurant.
 - Google maps link: https://www.google.com/maps/place/Pumulani+Lodge+Livingstone/@-17.8423113,25.8617373,17z/data=!4m21!1m11!3m10!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!2sPumulani+Lodge+Livingstone!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!10e5!16s%2Fg%2F11ddxyw7qv!3m8!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!16s%2Fg%2F11ddxyw7qv?authuser=0&entry=ttu
 
+-------------------------------------------------------------------------------------------------------------
+
+
+13. name of restaurant: Sweet & Salty Cafe
+
+About Sweet & Salty Cafe:
+
+- Sweet & Salty Cafe is a cafe located along Mosi-o-tunya Livingstone Way, \ 
+T1 (Next to Puma Filling Station), Livingstone, Zambia.
+- We are open everyday from 07:30 to 22:00.
+- Contact them at 0967983308
+
+Available Services Sweet & Salty Cafe: 
+
+A. Food Menu:
+- Below is the food menu for Sweet & Salty Cafe:
+
+I. Breakfast:
+- Big Bwana (waffle): K150
+- Big Bwana (Magwinya): K150
+- Madala (waffle): K130
+- Madala (Magwinya): K130
+- Ham (waffle): K120
+- Ham (Magwinya): K120
+- Bacon Brekkie (waffle): K110
+- Bacon Brekkie (Magwinya): K110
+- Veggie Brekkie (Waffle): K110
+- Veggie Brekkie (Magwinya): K110
+- French toast (waffle): K110
+- French toast (Magwinya): K110
+
+II. Pizza:
+- Nyama: K170
+- Veggie: K160
+- Chicken and Mushroom: K150
+- Hawaiian: K150
+- Mexicana: K150
+- Regina: K130
+
+III. Sweets:
+- Lemon Meringue: K105
+- Chocolate: K105
+- Banoffe: K105
+- Peppermint Crisps: K105
+- Plain: K90
+
+IV. Ice Creams:
+- Sugar cone plain: K25
+- Cone plain: K15
+- Add Flakes: K10
+- Add Syrups: K5
+
+V. Milkshakes:
+- Vanilla: K85
+- Bubblegum: K85
+- Caramel: K85
+- Chocolate: K85
+- Strawberry: K85
+- Peanut Butter: K85
+
+VI. Donuts:
+- Vanilla: K50
+- Caramel: K50
+- Chocolate: K50
+- DIY Dounut box: K110
+
+VII. Mains:
+- Sweet n Sour Pork/Chicken (waffle): K150
+- Sweet n Sour Pork/Chicken (Magwinya): K150
+- Fillet Steak & Pepper Sauce (waffle): K150
+- Fillet Steak & Pepper Sauce (Magwinya): K150
+- Crumbed Chicken (waffle): K150
+- Crumbed Chicken (Magwinya): K150
+- Mutton Curry (waffle): K150
+- Mutton Curry (Magwinya): K150
+- Beef Burger (waffle): K130
+- Beef Burger (Magwinya): K130
+- Beef Stew (waffle): K130
+- Beef Stew (Magwinya): K130
+- Peri Peri Chicken livers (waffle): K120
+- Peri Peri Chicken livers (Magwinya): K120
+- Sloppy Joe (waffle): K110
+- Sloppy Joe (Magwinya): K110
+- Chicken Mayo (waffle): K110
+- Chicken Mayo (Magwinya): K110
+
+B. Photo Gallery:
+Below are some photos for Sweet & Salty Cafe's food:
+- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=814769610653993&set=pb.100063628853340.-2207520000&type=3
+- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=809164927881128&set=pb.100063628853340.-2207520000&type=3
+- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=802679638529657&set=pb.100063628853340.-2207520000&type=3
+
+
+For More photos, Check on our Facebook Page: https://web.facebook.com/SweetnSaltyLivingstone/photos
+
+C. Contacts:
+- Call: 0967 98 33 08.
+- Facebook Page: https://web.facebook.com/SweetnSaltyLivingstone
+
+D. Location:
+- located: Mosi-o-tunya Livingstone Way, T1 (Next to Puma Filling Station), Livingstone, Zambia.
+- Nearby: Town Area or Next to Puma Filling Station
+- Google maps link: https://www.google.com/maps/place/Sweet+%26+Salty+cafe/@-17.852535,25.8522176,17z/data=!4m14!1m7!3m6!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!2sSweet+%26+Salty+cafe!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp!3m5!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp?authuser=0&entry=ttu
+-------------------------------------------------------------------------------------------------------
 
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 

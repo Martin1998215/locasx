@@ -64,7 +64,8 @@ step 2: {delimiter}: If the user is asking about specific lodge or restaurant or
 identify if the services are in the following list.
 if the user is asking a list of lodges or restaurants, kindly include their contact details \ 
 and locations to the list.
-All available lodges and restaurants and their services:  
+
+All available lodges and restaurants and their services: 
 
 1. Name of the lodge: Livingstone lodge
 
@@ -74,10 +75,6 @@ About Livingstone Lodge:
 
 - Livingstone Lodge is of the Lodge with a total of 11 Self contained rooms, \ 
 a VIP deluxe suite and conferencing facility accommodating about 80 people. \ 
-Established on July 1, 1957, the Hostels Board of Management is a government \ 
-Institution under the Ministry of Tourism and Arts of the Government of the \ 
-Republic of Zambia. However, over time, the demand from the general public and \ 
-other Institutions emerged and the government decided to open to the general public. \
 - Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
 
 Available services for Livingstone Lodge:
@@ -315,12 +312,10 @@ around livingstone.
 
 C. Photo Gallery for Flavours Pubs and Grill Restaurant:
 Below are some photo links to our restaurant and food menu:
-- Photo link: https://web.facebook.com/photo.php?fbid=474999991306412&set=pb.100063892449844.-2207520000.&type=3
-- Photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./4528830233883872/?type=3
-- Photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./4461719493928280/?type=3
-- Photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./3165299936903582/?type=3
-- photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./3069982023102041/?type=3
-- photo link: https://web.facebook.com/flavourspubandgrill/photos/pb.100063892449844.-2207520000./3034737313293179/?type=3
+- Photo link: https://web.facebook.com/photo.php?fbid=759094352896973&set=pb.100063892449844.-2207520000&type=3
+- Photo link: https://web.facebook.com/photo.php?fbid=753602776779464&set=pb.100063892449844.-2207520000&type=3
+- Photo link: https://web.facebook.com/photo.php?fbid=752840906855651&set=pb.100063892449844.-2207520000&type=3
+- Photo link: https://web.facebook.com/photo.php?fbid=752841046855637&set=pb.100063892449844.-2207520000&type=3
 
 For More photos, check our Facebook Page: https://web.facebook.com/flavourspubandgrill/photos
 
@@ -575,13 +570,9 @@ About Chappa Classic Lodge:
 are across the street from each other in a quiet area just next to the \  
 Livingstone city centre.
 - Located: 66 Nehru Way, town area, Livingstone.
-- The lodges are locally owned and operated. Buy local and support the local community!
 - Just 7 minutes to shops and restaurants.
-- Chapa Classic Lodge and Tours offers easy access to the major Livingstone \  
-town business centers and we can arrange any activity you would want to \ 
-do around the magnificent Victoria Fall.
 - Affordable rates: We offer affordable rooms and conferencing: value for \  
-money. Ask for seasonal special deals.
+money.
 
 Available services For Chappa Classic Lodge:
 
@@ -606,11 +597,6 @@ Conferencing, meetings and seminars for up to 160 participants:
 - We cater for conferences, seminars and workshops for up to 160 \ 
 people with a large conference halls and meeting rooms. Flipovers, \ 
 LCD projector are available.
-
-Hotel room:
-Chapa Classic and Chapa Vanguard together offer a total of 67 rooms. \ 
-We work together with hotels nearby to accommodate all of your guest, \ 
-arranging transport to the conference facilities at Chapa upon request.
 
 Other activities:
 - Swimming Pool.
@@ -645,18 +631,12 @@ F. Location:
 
 About Mosi-O-Tunya Lodge:
 
-- Classified as a grade A - lodge by the ministry of Tourism and Natural resources.
 - We are situated in the highlands area of Livingstone, off Lusaka Road and behind \ 
-the Bible college. when with us, you are only five and eight minutes drive away from \ 
-Town and the mighty victoria falls. 
-- The lodge has 16 fully air conditioned immaculate en-suite rooms including family \ 
-and self catering rooms.
+the Bible college.
 - DSTV, WI FI & coffee/Tea making facilities are available in all the rooms.
 - Also available is a restaurant serving appetizing international and special \ 
 meals on al a carte basis as well as a swimming pool to cool you off from the \ 
 blazing heat of livingstone.
-- We arrange tours and adventure activities and offer Bus stop and Airport transfers \ 
-at affordable fees.
 - we are located on Plot No. 4424/37, in Highlands, Livingstone.
 
 Available Services for Mosi-O-Tunya Lodge:
@@ -879,24 +859,8 @@ G. Location:
 
 About Kaazmein Lodge:
  
-- The Kaazmein Lodge & Resort has 12 standard double twin chalets, \ 
-these units of which overlook a mini lake. There are also 10 Hotel \  
-rooms and a Family Hotel Chalet Room. The family units contain a \ 
-double room ideally for parents and the next inter-leading room \ 
-has two twin beds, both rooms are self contained.There is a central \ 
-dining complex with A wooden deck that overlooks the man-made \  
-mini lake, an open bar and restaurant area, reception and a conference Hall. \  
-The best accommodation provider situated in Livingstone, Zambia home of the \  
-Mighty Victoria Falls, a region that offers a diversity of cultures rarely equaled  \  
-by any other on earth, Enjoy the wide open spaces, where nature and backpacking \  
-form a unity located in a quiet suburb within walking distance of town, \  
-Let us make your stay and indeed your holiday memories an awesome journey into the \ 
-life, adventure and culture of the ancient continent. With accommodation ranging \ 
-from camping to private budget rooms Ideal For individuals / groups on a budget \  
-trip or travel. Despite being budget rooms, enjoy the en suite luxury facilities \ 
-under the indigenous African trees, these typical A-framed designed rooms are a \ 
-unique option. We offer excellent prices and have great packages on all adrenaline \ 
-activities in and around the Victoria falls.
+- The Kaazmein Lodge & Resort is located in Nottie Brodie \ 
+near the Mosque. 
 
 Available services for Kaazmein Lodge:
 
@@ -1122,6 +1086,53 @@ E. Location:
 - located: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
 - PO Box 60464 Livingstone.
 - nearby places: Highlands Market or Zambezi Sports Complex.
+
+----------------------------------------------------------------------------------------------------------
+
+12. Name of Lodge: Pumulani Lodge.
+
+About Pumulani Lodge:
+
+- Pumulani Lodge is based in the heart of Livingstone. \ 
+- It is located on the main lusaka road opposite Flavours \ 
+Restaurant  and just 2 minutes walk from the centre of Livingstone.
+- You can contact us on +260 213 320 981 or +260 978 691 514.
+- Email us at pumulanizambia@yahoo.com
+- NOTE: Pumulani lodge doesnt offer restaurant services.
+
+Available Services for Pumulani Lodge:
+
+A. Rooms or Accommodation prices or charges or rates:
+
+NOTE: All our rooms are en suite and have air-con, plasma screens, \ 
+DSTV, fridges, coffee/tea making facilities, free WiFi internet \ 
+and continental breakfast.
+
+- K550 per room per night.
+- K600 per room per night.
+- K650 per room per night.
+- K850 per room per night.
+
+Note: We do not have a restaurant or offer any food services.
+
+B. Photo Gallery for Pumulani lodge:
+Below are some photos for Pumulani lodge:
+- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=681477130658576&set=pb.100063888850293.-2207520000&type=3
+- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=681477003991922&set=pb.100063888850293.-2207520000&type=3
+- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=649665143839775&set=pb.100063888850293.-2207520000&type=3
+
+For More photos, Check on our Facebook Page: https://web.facebook.com/pumulanizambia/photos
+
+C. Contacts:
+- Call: +260 213 320 981 or +260 978 691 514.
+- Email: pumulanizambia@yahoo.com
+- Facebook Page: https://web.facebook.com/pumulanizambia
+
+D. Location:
+- located: 281 Mosi-O-Tunya Rd, Livingstone, Zambia
+- Nearby: Town area or Flavours Pub and Grill Restaurant.
+- Google maps link: https://www.google.com/maps/place/Pumulani+Lodge+Livingstone/@-17.8423113,25.8617373,17z/data=!4m21!1m11!3m10!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!2sPumulani+Lodge+Livingstone!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!10e5!16s%2Fg%2F11ddxyw7qv!3m8!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!16s%2Fg%2F11ddxyw7qv?authuser=0&entry=ttu
+
 
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 

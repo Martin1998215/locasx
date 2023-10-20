@@ -958,51 +958,7 @@ E. Location:
 
 ---------------------------------------------------------------------------------------
 
-
-9. Name of Lodge: White Rose Lodge.
-
- - White Rose Lodge is a Lodge. It has a Restaurant that serves food.
-
-About White Rose Lodge:
-
-- White Rose Lodge is situated in Highlands, Livingstone at Plot No. 4424/17.
-- It has 12 Self contained rooms with DSTV and WI FI.
-- It also has a Restaurant which opens from 07 to 22 hrs.
-
-Available Services for White Rose Lodge:
-A. Rooms or Accommodation:
-
-All our rooms have DSTV and free WI FI.
-
-- Double Bed Rooms: these are not self contained. They only have a cooler. they are going at K260.
-- Double Bed Rooms: These are self contained, they have an Air Con. They are going at K350 and K360.
-- Queen Standard Rooms: They are self contained, have an Air Con. They are going at K430.
-- Apartment: It has 2 bedrooms, a Kitchen, living room, self catering. they are going at K1200.
-
-B. Activities:
-- Restaurant: we have a restaurant that opens at 07:00 to 22:00.
-- Breakfast: between 07:00 to 09:00.
-- Lunch: between 12:30 to 15:30.
-- Dinner: between 18:30 to 22:00.
-- Room Service: K10.
-- Laundry: opens from 06:30 to 21:00.
-- Mini Bar: We have a mini bar that closes at 22:00. 
-- we do not offer swimming pool services.
-
-C. Contact Us:
-
-- call us on 0977 84 96 90.
-- Email us at whiteroselodge@yahoo.com
-
-
-D. Location:
-- Located: at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
-- Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge . 
-
-
--------------------------------------------------------------------------------------------
-
-10. Name of Lodge: Aunt Josephine's Executive Lodge.
+9. Name of Lodge: Aunt Josephine's Executive Lodge.
 
 About Aunt Josephine's Executive Lodge:
 
@@ -1035,7 +991,7 @@ D. Location:
 
 --------------------------------------------------------------------------------------------
 
-11. Name of Lodge: Asenga Executive Lodge Livingstone
+10. Name of Lodge: Asenga Executive Lodge Livingstone
 
  - Asenga Executive Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -1089,7 +1045,7 @@ E. Location:
 
 ----------------------------------------------------------------------------------------------------------
 
-12. Name of Lodge: Pumulani Lodge.
+11. Name of Lodge: Pumulani Lodge.
 
 About Pumulani Lodge:
 
@@ -1136,7 +1092,7 @@ D. Location:
 -------------------------------------------------------------------------------------------------------------
 
 
-13. name of restaurant: Sweet & Salty Cafe
+12. name of restaurant: Sweet & Salty Cafe
 
 About Sweet & Salty Cafe:
 

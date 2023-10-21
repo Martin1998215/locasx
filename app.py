@@ -15,12 +15,13 @@ sf_password = st.secrets["snowflake_password"]
 sf_database = st.secrets["snowflake_database"]
 sf_schema = st.secrets["snowflake_schema"]
 
+
 table_name = "USER_DATA.PUBLIC.USER_TABLE"
 feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
 
 openai.api_key = st.secrets["api1"]
 
-myapp = st.secrets["api"]
+# myapp = st.secrets["api"]
 
 
 
@@ -1318,8 +1319,9 @@ if txt:
 
         cursor = conn.cursor()
             
-	query = f"INSERT INTO {table_name} (PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s)"
         current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+        query = f"INSERT INTO {table_name} (PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s)"
 
         try:
             cursor.execute(query, (txt,error_text,current_time,))
@@ -1345,8 +1347,10 @@ if txt:
 
         cursor = conn.cursor()
             
-	query = f"INSERT INTO {table_name} (PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s)"
+	    
         current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+        query = f"INSERT INTO {table_name} (PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s)"
 
         try:
             cursor.execute(query, (txt,final_response,current_time,))

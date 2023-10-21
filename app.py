@@ -6,6 +6,7 @@ import streamlit as st
 import pandas as pd
 import snowflake.connector
 import streamlit.components.v1 as com
+from datetime import datetime
 # from api_key import apikey
 
 sf_account = st.secrets["snowflake_account"]
@@ -1317,11 +1318,11 @@ if txt:
 
         cursor = conn.cursor()
             
-
-        query = f"INSERT INTO {table_name} (PROMPT,RESPONSE) VALUES (%s,%s)"
+	query = f"INSERT INTO {table_name} (PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s)"
+        current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
 
         try:
-            cursor.execute(query, (txt,error_text,))
+            cursor.execute(query, (txt,error_text,current_time,))
             conn.commit()
         except Exception as e:
             st.error(f"Error sending data to Database: {e}")
@@ -1344,11 +1345,11 @@ if txt:
 
         cursor = conn.cursor()
             
-
-        query = f"INSERT INTO {table_name} (PROMPT,RESPONSE) VALUES (%s,%s)"
+	query = f"INSERT INTO {table_name} (PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s)"
+        current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
 
         try:
-            cursor.execute(query, (txt,final_response,))
+            cursor.execute(query, (txt,final_response,current_time,))
             conn.commit()
         except Exception as e:
             st.error(f"Error sending data to Database: {e}")

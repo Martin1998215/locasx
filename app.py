@@ -1340,7 +1340,7 @@ if txt:
         mytxt = st.chat_message("assistant")
         # mytxt.session_state.generated.append(final_response)
         mytxt.write(final_response)
-	loading_message.text(" ")
+	    loading_message.text(" ")
 
         conn = snowflake.connector.connect(
             user=sf_user,

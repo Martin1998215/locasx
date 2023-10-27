@@ -993,7 +993,54 @@ D. Location:
 
 --------------------------------------------------------------------------------------------
 
-10. Name of Lodge: Asenga Executive Lodge Livingstone
+
+10. Name of Lodge: Pumulani Lodge.
+
+About Pumulani Lodge:
+
+- Pumulani Lodge is based in the heart of Livingstone. \ 
+- It is located on the main lusaka road opposite Flavours \ 
+Restaurant  and just 2 minutes walk from the centre of Livingstone.
+- You can contact us on +260 213 320 981 or +260 978 691 514.
+- Email us at pumulanizambia@yahoo.com
+- NOTE: Pumulani lodge doesnt offer restaurant services.
+
+Available Services for Pumulani Lodge:
+
+A. Rooms or Accommodation prices or charges or rates:
+
+NOTE: All our rooms are en suite and have air-con, plasma screens, \ 
+DSTV, fridges, coffee/tea making facilities, free WiFi internet \ 
+and continental breakfast.
+
+- K550 per room per night.
+- K600 per room per night.
+- K650 per room per night.
+- K850 per room per night.
+
+Note: We do not have a restaurant or offer any food services.
+
+B. Photo Gallery for Pumulani lodge:
+Below are some photos for Pumulani lodge:
+- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=681477130658576&set=pb.100063888850293.-2207520000&type=3
+- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=681477003991922&set=pb.100063888850293.-2207520000&type=3
+- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=649665143839775&set=pb.100063888850293.-2207520000&type=3
+
+For More photos, Check on our Facebook Page: https://web.facebook.com/pumulanizambia/photos
+
+C. Contacts:
+- Call: +260 213 320 981 or +260 978 691 514.
+- Email: pumulanizambia@yahoo.com
+- Facebook Page: https://web.facebook.com/pumulanizambia
+
+D. Location:
+- located: 281 Mosi-O-Tunya Rd, Livingstone, Zambia
+- Nearby: Town area or Flavours Pub and Grill Restaurant.
+- Google maps link: https://www.google.com/maps/place/Pumulani+Lodge+Livingstone/@-17.8423113,25.8617373,17z/data=!4m21!1m11!3m10!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!2sPumulani+Lodge+Livingstone!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!10e5!16s%2Fg%2F11ddxyw7qv!3m8!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!16s%2Fg%2F11ddxyw7qv?authuser=0&entry=ttu
+
+-----------------------------------------------------------------------------------------------------------------------
+
+11. Name of Lodge: Asenga Executive Lodge Livingstone
 
  - Asenga Executive Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -1044,52 +1091,6 @@ E. Location:
 - located: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
 - PO Box 60464 Livingstone.
 - nearby places: Highlands Market or Zambezi Sports Complex.
-
-----------------------------------------------------------------------------------------------------------
-
-11. Name of Lodge: Pumulani Lodge.
-
-About Pumulani Lodge:
-
-- Pumulani Lodge is based in the heart of Livingstone. \ 
-- It is located on the main lusaka road opposite Flavours \ 
-Restaurant  and just 2 minutes walk from the centre of Livingstone.
-- You can contact us on +260 213 320 981 or +260 978 691 514.
-- Email us at pumulanizambia@yahoo.com
-- NOTE: Pumulani lodge doesnt offer restaurant services.
-
-Available Services for Pumulani Lodge:
-
-A. Rooms or Accommodation prices or charges or rates:
-
-NOTE: All our rooms are en suite and have air-con, plasma screens, \ 
-DSTV, fridges, coffee/tea making facilities, free WiFi internet \ 
-and continental breakfast.
-
-- K550 per room per night.
-- K600 per room per night.
-- K650 per room per night.
-- K850 per room per night.
-
-Note: We do not have a restaurant or offer any food services.
-
-B. Photo Gallery for Pumulani lodge:
-Below are some photos for Pumulani lodge:
-- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=681477130658576&set=pb.100063888850293.-2207520000&type=3
-- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=681477003991922&set=pb.100063888850293.-2207520000&type=3
-- Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=649665143839775&set=pb.100063888850293.-2207520000&type=3
-
-For More photos, Check on our Facebook Page: https://web.facebook.com/pumulanizambia/photos
-
-C. Contacts:
-- Call: +260 213 320 981 or +260 978 691 514.
-- Email: pumulanizambia@yahoo.com
-- Facebook Page: https://web.facebook.com/pumulanizambia
-
-D. Location:
-- located: 281 Mosi-O-Tunya Rd, Livingstone, Zambia
-- Nearby: Town area or Flavours Pub and Grill Restaurant.
-- Google maps link: https://www.google.com/maps/place/Pumulani+Lodge+Livingstone/@-17.8423113,25.8617373,17z/data=!4m21!1m11!3m10!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!2sPumulani+Lodge+Livingstone!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!10e5!16s%2Fg%2F11ddxyw7qv!3m8!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!16s%2Fg%2F11ddxyw7qv?authuser=0&entry=ttu
 
 -------------------------------------------------------------------------------------------------------------
 

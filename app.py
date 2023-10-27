@@ -9,6 +9,7 @@ import streamlit.components.v1 as com
 from datetime import datetime
 # from api_key import apikey
 
+
 sf_account = st.secrets["sf_account"]
 sf_user = st.secrets["sf_user"]
 sf_password = st.secrets["sf_password"]
@@ -1340,7 +1341,8 @@ if txt:
         mytxt = st.chat_message("assistant")
         # mytxt.session_state.generated.append(final_response)
         mytxt.write(final_response)
-	loading_message.text(". ")
+        loading_message.text("")
+
 
         conn = snowflake.connector.connect(
             user=sf_user,

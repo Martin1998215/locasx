@@ -1279,6 +1279,9 @@ word = len(re.findall(r'\w+', system_message))
 
 if txt:
 
+    loading_message = st.empty()
+    loading_message.text("Loading... Please wait!")
+
     user_message = f"""
      {txt}
 

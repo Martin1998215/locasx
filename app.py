@@ -624,15 +624,23 @@ A. Rooms or Accommodation:
 All rooms come with WiFi, air-conditioning, a fridge, en suite bathroom, \ 
 DStv and full English breakfast. Rates are based on double occupancy.
 
+I. Chapa Classic 1:
+- Standard Double (2 people): K430
+- Twin (2 people): K500
+- Deluxe (2 people): K550
+- Family Room (4 people): K750
+Contact for chapa Classic 1: 0974 65 68 72
+
+II. Chapa Classic 2:
+- Deluxe Single (2 people): K700
+- Twin (2 people): K750
+- Family Room: K1300
+- Deluxe Twin (4 people): K850
+- Twins (3 people): K800
 - Deluxe Classic: K750
 - Single Room Classic: K630
 - Double/Twin Room Classic: K600
-
-Deluxe Rooms at Chapa Vanguard:
-- Deluxe Rooms: K800
-- All rooms at the Chapa Vanguard are spacious Deluxe rooms with a modern \  
-en suite bathroom. The rooms comes with DStv, a fridge and coffee and \  
-tea making facilities.
+Contact for chapa Classic 2: 0975 79 50 30
 
 B. Conference Room:
 
@@ -641,7 +649,7 @@ Conferencing, meetings and seminars for up to 160 participants:
 people with a large conference halls and meeting rooms. Flipovers, \ 
 LCD projector are available.
 
-Other activities:
+C. Other activities:
 - Swimming Pool.
 - Event hires such as weddings, Parties, meetings.
 

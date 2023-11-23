@@ -305,8 +305,48 @@ XX. Naan/Rotis for Flavours Pubs and Grill Restaurant:
 - Butter Naan: K35
 - Garlic Naan: K40
 - Chilli Naan: K35
-
-
+XXI. Bar Menu for Flavours Pubs and Grill Restaurant:
+A. LAGERS:
+- Mosi: K20
+- Castle: K20
+- Black Label: K20
+- Castle Canned: K30
+- Budweiser: K35
+- Castle Lite Draught: K35
+- Black label Canned: K30
+- Heinekein: K35
+- Stella: K35
+B. CIDERS:
+- Hunters Dry: K35
+- Flying Fish: K30
+- Savanna Dry: K35
+- Smirnoff Spin: K40
+- Breezer: K35
+- Hunters Gold: K35
+- Flying Fish Canned: K35
+- Smirnoff Storm: K40
+C. WHISKEY:
+- Grants: K30
+- Jameson: K30
+- JackDaniels: K40
+- Hennesy: K85
+- Glenlivet: K90
+- Blue Label: K250
+- Jameson Caskmate: K55
+- J&B: K30
+- Gold Label: K150
+- Black Label: K30
+- Black Barrel: K85
+- Gentleman's Jack: K85
+D. BRANDY:
+- Vice Roy: K30
+- Klip Drift: K30
+- KWV 3Years: K30
+- KWV 5Years: K35
+- KWV 10Years: K40
+- Wellingtone: K40
+E. We also have Shisha available, all flavours:
+- K100
 
 B. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery van \ 

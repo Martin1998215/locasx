@@ -674,60 +674,9 @@ F. Location:
 - Nearby places: Livingstone Central Hospital, Town, NIPA
 - google maps link: https://www.google.com/maps/place/Chapa+Classic+Lodge/@-17.8417421,25.8547134,17z/data=!4m20!1m10!3m9!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!2sChapa+Classic+Lodge!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj!3m8!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj?authuser=0&entry=ttu
 
--------------------------------------------------------------------------------------------
-
-5. name of lodge: Mosi-O-Tunya Execcutive Lodge.
-
- - Mosi-O-Tunya Lodge is a Lodge. It has a Restaurant that serves food.
-
-About Mosi-O-Tunya Lodge:
-
-- We are situated in the highlands area of Livingstone, off Lusaka Road and behind \ 
-the Bible college.
-- DSTV, WI FI & coffee/Tea making facilities are available in all the rooms.
-- Also available is a restaurant serving appetizing international and special \ 
-meals on al a carte basis as well as a swimming pool to cool you off from the \ 
-blazing heat of livingstone.
-- we are located on Plot No. 4424/37, in Highlands, Livingstone.
-
-Available Services for Mosi-O-Tunya Lodge:
-
-A. Rooms or Accommodation:
-
-- Standard Rooms: They are going at K450. They have a Double Bed.
-- Executive Rooms: They are going at K550. They have a Queen Size Bed.
-- Twin Rooms: they are going at K700. They have two three quarters Beds.
-- Family Rooms: They are going at K1200. 
-
-B. Restaurant:
-
-Our Menus:
-- Nshima with Fish: K70 per plate.
-- Nshima with Chicken: K60 per plate.
-- Nshima with Pork: K60 per plate.
-- Nshima with Sausage: K50 per plate.
-- Nshima with T Bone: K75 per plate.
-
-C. Activities:
-
-- Swimming Pool services.
-- We arrange Tours and Adventure activities and offer Bus stop and Airport transfers at \ 
-affordable fees.
-
-D. Contact Us:
-
-for a true value of hospitality, visit us at:
-- website: www.mosiotunyalodge.co.zm.
-- contact us on: 09773891512
-- Email: reservations@mosiotunyalodge.co.zm
-
-E. Location:
-- Located: Plot No. 4424/37, Highlands, Livingstone.
-- Nearby places: Bible College.
-
 -----------------------------------------------------------------------------------------------
 
-6. Name of Restaurant: Bravo Cafe and Restaurant.
+5. Name of Restaurant: Bravo Cafe and Restaurant.
 
 -  Bravo Cafe and Restaurant is a Restaurant, It is not a lodge.
 
@@ -844,7 +793,7 @@ F. Location:
 
 -----------------------------------------------------------------------------------------------
 
-7. Name of Lodge: KM Executive Lodge
+6. Name of Lodge: KM Executive Lodge
 
  - KM Executive Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -904,112 +853,7 @@ G. Location:
 
 ----------------------------------------------------------------------------------------------------
 
-8. name of lodge: Kaazmein Lodge.
-
- - Kaazmein Lodge is a Lodge. It has a Restaurant that serves food.
-
-About Kaazmein Lodge:
- 
-- The Kaazmein Lodge & Resort is located in Nottie Brodie \ 
-near the Mosque. 
-
-Available services for Kaazmein Lodge:
-
-
-A. Rooms or accommodaion:
-
-- Our rooms are crisp, bright,  full of class and character most \ 
-important of all they are comfortable and spacious.  12 Chalets \ 
-overlooking a water feature, 10 Hotel Style Rooms set in a relaxed lawn \  
-setting, and 12 self-contained A framed rooms, to cater for privacy \ 
-and individuality of guest.
-
-Our Rooms:
-- Budgets Chalets: K300
-- Standards Chalets: K650
-- Executive Chalets: K1200
-
-They have the following:
-
-- En suite facilities
-- WiFi Internet
-- Laundry available
-- Voltage 220v
-- Shaver outlet
-- Air-conditioning
-- Remote control & color screen with DSTV channels
-- Tea and coffee making facilities
-- Mini fridge
-- Amenities like soaps, shampoos, mosquito nets, repellents are inclusive
-
-
-B. Facilities:
-
-I. Conference Room:
-
-- Our conference rooms both have audio and video equipment. \ 
-The conference rooms can comfortably accommodate 80 and 20 delegates \  
-respectively. Ideal  venue for holding meetings, conferences and events. \  
-The following services are available for your functions:
-
-- markers
-- WiFi Internet
-- projector
-- morning tea-break
-- flip chart
-- writing pads
-- afternoon tea-break
-- lunch
-- refreshing soft drink
-- mineral water
-
-II. Swimming Pool
-III. Events Hire
-IV. Weddings
-V. Outdoor Bar
-VI. Restaurant and Lake:
-
-- The Restaurant is vibrant, a combination of friendly, seamless service \  
-and adventurously culinary flair, local, western and authentic food. \  
-Our main accent being on fresh and   healthy eating, offering many \  
-options for all tastes.
-
-C. Activities:
- 
-Livingstone Is Full Of Activities Below Is A List Of Activities \  
-That We Will Facilitate For You Our Esteemed Clients:
-
-- Victoria Falls Tour
-- Mukuni Village Tours
-- Gorge Swing
-- Lion Walk
-- Zambezi Canoeing
-- White Water Rafting
-- Banjee Jump
-- Microlight Flights
-- Boat Cruise
-- Bridge Tours
-
-
-D. Contact Us:
-
-- For bookings and reservations or any other inquiries please be free to contact us:
-- Email: info@kaazmeinlodge.com
- 
-- Land Phone: +260 213 32 22 44
- 
-- Cell Phone: +260 95 5 32 22 44 or +260 97 7 32 22 44
-
-E. Location:
-- Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
- 
-- Located: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
-
-- Nearby: Chandamali Market or Mosque.
-
----------------------------------------------------------------------------------------
-
-9. Name of Lodge: Aunt Josephine's Executive Lodge.
+7. Name of Lodge: Aunt Josephine's Executive Lodge.
 
 About Aunt Josephine's Executive Lodge:
 
@@ -1043,7 +887,7 @@ D. Location:
 --------------------------------------------------------------------------------------------
 
 
-10. Name of Lodge: Pumulani Lodge.
+8. Name of Lodge: Pumulani Lodge.
 
 About Pumulani Lodge:
 
@@ -1089,62 +933,7 @@ D. Location:
 
 -----------------------------------------------------------------------------------------------------------------------
 
-11. Name of Lodge: Asenga Executive Lodge Livingstone
-
- - Asenga Executive Lodge is a Lodge. It has a Restaurant that serves food.
-
-About Asenga Executive Lodge Livingstone:
-
-- Asenga Executive Lodge is a livingstone based lodge that offers the following \ 
-services, Accommodation, Restaurant, Conference Hall Hire and Swimming Pool. \ 
-- It is located at Plot # 2898/127 off Lusaka Road, Highlands Livingstone, \ 
-near Highlands market. for more info, you can contact us on the following: \ 
- +260 963774237 or Email us on reservations.asengalodge@gmail.com.
-
-Available Services for Asenga Executive Lodge:
-
-A. Accommodation:
-
-- We have two types of Rooms: Executive Rooms as well as Standard Rooms.
-
-1.Executive Rooms:
-- Executive Single occupancy: k880
-- Executive double occupancy: k930
-
-2.Standard Rooms:
-- Standard Single occupancy: k780
-- Standard double occupancy is k830
-
-Kindly note that these rates include English Breakfast,free Internet and Swimming Pool.
-
-B. Conference Hall:
-- We offer conference hall at k2000 per day.
-
-C.Restaurant:
-- Meals are ranging from k85 to k120.
-
-D. Contact Us:
-
-For further clarification,please feel free to contact us:
-- call: +260 963774237.
-- Email: reservations.asengalodge@gmail.com
-
-G. Photo Gallery:
-Below are some photo links to our lodge, rooms and restaurant:
-- Asenga Lodge Photo link: https://web.facebook.com/photo/?fbid=1627423537606038&set=br.AboFFOLqttpgmBezIjBx65aqkQZGu1hDafbawLVFAvbhyfLzsfSqvoRWYJ1GdCFQuBzJAxfRHX3sv47Tl5qukReuGFN3bkjvJ_EfOyC6N9OWyen3rPzoLb06L4p-_HJ_UF1yDhWrThXDBhraJuCGqWUO
-- Asenga Lodge Photo link: https://web.facebook.com/photo/?fbid=158894020168715&set=br.AboFFOLqttpgmBezIjBx65aqkQZGu1hDafbawLVFAvbhyfLzsfSqvoRWYJ1GdCFQuBzJAxfRHX3sv47Tl5qukReuGFN3bkjvJ_EfOyC6N9OWyen3rPzoLb06L4p-_HJ_UF1yDhWrThXDBhraJuCGqWUO
-
-for more photos on Livingstone Lodge, check out our facebook page: https://web.facebook.com/pages/Asenga%20Executive%20Lodge/422914465206795/photos
-
-E. Location:
-- located: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
-- PO Box 60464 Livingstone.
-- nearby places: Highlands Market or Zambezi Sports Complex.
-
--------------------------------------------------------------------------------------------------------------
-
-
-12. name of restaurant: Sweet & Salty Cafe
+9. name of restaurant: Sweet & Salty Cafe
 
 About Sweet & Salty Cafe:
 

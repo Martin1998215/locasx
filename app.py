@@ -863,7 +863,7 @@ st.markdown("<h3 style='text-align: center; color: gray;'>Quest2Query</h3>", uns
 st.markdown("<h5 style='text-align: center; color: blue;'>NOTE: Always specify the name of the restaurant or lodge you are asking about.</h5>", unsafe_allow_html=True)
 
 st.markdown('''
-<ul>
+<ul style='margin: 0; padding: 0; box-sizing: border-box;'>
 <h5>Access Menus for Restaurants eg</h5>
 <li>show me a menu for flavours? or Bravo Cafe or Sweet & Salty Cafe? (Lodges inclusive)</li>
 <h5>Access Room rates or Conference or restaurant menus for Lodges e.g</h5>

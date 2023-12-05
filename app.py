@@ -869,7 +869,7 @@ st.markdown('''
 <h5>Access Room rates or Conference or restaurant menus for Lodges e.g</h5>
 <li>Room rates for Livingstone Lodge? Chapa Classic Lodge? and More...</li>
 </ul>
-''')
+''', unsafe_allow_html=True)
 
 # st.write('''
 # **Access Menus for Restaurants eg**

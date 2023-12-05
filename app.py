@@ -868,6 +868,9 @@ st.markdown('''
 <li>show me a menu for flavours? or Bravo Cafe or Sweet & Salty Cafe? (Lodges inclusive)</li>
 <h5>Access Room rates or Conference or restaurant menus for Lodges e.g</h5>
 <li>Room rates for Livingstone Lodge? Chapa Classic Lodge? and More...</li>
+<h5>Plan Trips or Date outings at your favourite Restaurants e.g</h5>
+<li>make me a budget from bravo cafe within K200 for the following: 4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours
+<li>I will be travelling to livingstone. recommend for me some cheap accommodation and how much they cost</li>
 </ul>
 ''', unsafe_allow_html=True)
 

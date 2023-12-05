@@ -860,7 +860,7 @@ st.sidebar.markdown("<h5 style='text-align: center; color: blue;'>Powered By Loc
 
 st.markdown("<h3 style='text-align: center; color: gray;'>Quest2Query</h3>", unsafe_allow_html=True)
 # st.markdown("<h3 style='text-align: center; color: lightgray;'>Some Suggested Questions...</h3>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: blue;'>NOTE: Always specify the name of the restaurant or lodge you are asking about.</h5>", unsafe_allow_html=True)
+# st.markdown("<h5 style='text-align: center; color: blue;'>NOTE: Always specify the name of the restaurant or lodge you are asking about.</h5>", unsafe_allow_html=True)
 
 st.markdown('''
 <div>

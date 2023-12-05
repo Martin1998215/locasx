@@ -863,21 +863,21 @@ st.markdown("<h3 style='text-align: center; color: gray;'>Quest2Query</h3>", uns
 st.markdown("<h5 style='text-align: center; color: blue;'>NOTE: Always specify the name of the restaurant or lodge you are asking about.</h5>", unsafe_allow_html=True)
 
 st.markdown('''
-<ul style='margin: 0; padding: 0; box-sizing: border-box;'>
+<div style='margin: 0; padding: 0; box-sizing: border-box;'>
 <div style='border: 0.3px solid light-gray; border-radius: 10%;'>
-<p style='color:blue;'>Access Menus for Restaurants eg</p>
-<li>show me a menu for flavours? or Bravo Cafe or Sweet & Salty Cafe? (Lodges inclusive)</li>
+<p style='color:blue;'><b>Access Menus for Restaurants eg</b></p>
+<p><i>- Show me a menu for flavours? or Bravo Cafe or Sweet & Salty Cafe? (Lodges inclusive)</i></p>
 </div>
 <div>
-<p>Access Room rates or Conference or restaurant menus for Lodges e.g</p>
-<li>Room rates for Livingstone Lodge? Chapa Classic Lodge? and More...</li>
+<p><b>Access Room rates or Conference or restaurant menus for Lodges e.g</b></p>
+<p><i>- Room rates for Livingstone Lodge? Chapa Classic Lodge? and More...</i></p>
 </div>
 <div>
-<p>Plan Trips or Date outings at your favourite Restaurants e.g</p>
-<li>make me a budget from bravo cafe within K200 for the following: 4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours
-<li>I will be travelling to livingstone. recommend for me some cheap accommodation and how much they cost</li>
+<p><b>Plan Trips or Date outings at your favourite Restaurants e.g</b></p>
+<p><i>- Make me a budget from bravo cafe within K200 for the following: 4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours</i></p>
+<p><i>- I will be travelling to livingstone. recommend for me some cheap accommodation and how much they cost</i></p>
 </div>
-</ul>
+</div>
 ''', unsafe_allow_html=True)
 
 # st.write('''

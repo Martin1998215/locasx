@@ -865,15 +865,15 @@ st.markdown("<h5 style='text-align: center; color: blue;'>NOTE: Always specify t
 st.markdown('''
 <ul style='margin: 0; padding: 0; box-sizing: border-box;'>
 <div style='border: 0.3px solid light-gray; border-radius: 10%;'>
-<h5 style='color:blue;'>Access Menus for Restaurants eg</h5>
+<p style='color:blue;'>Access Menus for Restaurants eg</p>
 <li>show me a menu for flavours? or Bravo Cafe or Sweet & Salty Cafe? (Lodges inclusive)</li>
 </div>
 <div>
-<h5>Access Room rates or Conference or restaurant menus for Lodges e.g</h5>
+<p>Access Room rates or Conference or restaurant menus for Lodges e.g</p>
 <li>Room rates for Livingstone Lodge? Chapa Classic Lodge? and More...</li>
 </div>
 <div>
-<h5>Plan Trips or Date outings at your favourite Restaurants e.g</h5>
+<p>Plan Trips or Date outings at your favourite Restaurants e.g</p>
 <li>make me a budget from bravo cafe within K200 for the following: 4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours
 <li>I will be travelling to livingstone. recommend for me some cheap accommodation and how much they cost</li>
 </div>

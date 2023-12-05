@@ -865,7 +865,7 @@ st.markdown("<h5 style='text-align: center; color: blue;'>NOTE: Always specify t
 st.markdown('''
 <ul style='margin: 0; padding: 0; box-sizing: border-box;'>
 <div style='border: 0.3px solid light-gray; border-radius: 10%;'>
-<h5>Access Menus for Restaurants eg</h5>
+<h5 style='color:blue;'>Access Menus for Restaurants eg</h5>
 <li>show me a menu for flavours? or Bravo Cafe or Sweet & Salty Cafe? (Lodges inclusive)</li>
 </div>
 <div>

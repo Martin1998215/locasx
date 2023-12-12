@@ -234,6 +234,8 @@ VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
 - Chicken Burger: K90
 - Vegetable Burger: K90
 - Cheese Burger: K100
+- chicken warp: K90
+-Beef warp: K85
 
 IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
 - Dreamlight T-Bone steak 350g: K125

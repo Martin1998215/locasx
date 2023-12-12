@@ -811,6 +811,147 @@ D. Location:
 - Google maps link: https://www.google.com/maps/place/Sweet+%26+Salty+cafe/@-17.852535,25.8522176,17z/data=!4m14!1m7!3m6!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!2sSweet+%26+Salty+cafe!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp!3m5!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp?authuser=0&entry=ttu
 -------------------------------------------------------------------------------------------------------
 
+
+9. Name of Lodge: Asenga Executive Lodge Livingstone
+
+ - Asenga Executive Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Asenga Executive Lodge Livingstone:
+
+- Asenga Executive Lodge is a livingstone based lodge that offers the following \ 
+services, Accommodation, Restaurant, Conference Hall Hire and Swimming Pool. \ 
+- It is located at Plot # 2898/127 off Lusaka Road, Highlands Livingstone, \ 
+near Highlands market. for more info, you can contact us on the following: \ 
+ +260 963774237 or Email us on reservations.asengalodge@gmail.com.
+
+Available Services for Asenga Executive Lodge:
+
+A. Accommodation:
+
+- We have two types of Rooms: Executive Rooms as well as Standard Rooms.
+
+1.Executive Rooms:
+- Executive Single occupancy: k880
+- Executive double occupancy: k930
+
+2.Standard Rooms:
+- Standard Single occupancy: k780
+- Standard double occupancy is k830
+
+Kindly note that these rates include English Breakfast,free Internet and Swimming Pool.
+
+B. Conference Hall:
+- We offer conference hall at k2000 per day.
+
+C.Restaurant:
+- Meals are ranging from k85 to k120.
+
+D. Contact Us:
+
+For further clarification,please feel free to contact us:
+- call: +260 963774237.
+- Email: reservations.asengalodge@gmail.com
+
+E. Location:
+- located: Plot # 2898/127 off Lusaka Road, Highlands Livingstone.
+- PO Box 60464 Livingstone.
+- nearby places: Highlands Market or Zambezi Sports Complex.
+
+---------------------------------------------------------------------------------------------------------
+
+
+10. Name of Lodge: White Rose Lodge.
+
+ - White Rose Lodge is a Lodge. It has a Restaurant that serves food.
+
+About White Rose Lodge:
+
+- White Rose Lodge is situated in Highlands, Livingstone at Plot No. 4424/17.
+- It has 12 Self contained rooms with DSTV and WI FI.
+- It also has a Restaurant which opens from 07 to 22 hrs.
+
+Available Services for White Rose Lodge:
+A. Rooms or Accommodation:
+
+All our rooms have DSTV and free WI FI.
+
+- Double Bed Rooms: K260. these are not self contained.
+- Double Bed Rooms: K350 and K360. These are self contained.
+- Queen Standard Rooms: K430. They are self contained.
+- Apartment: K1200. It has 2 bedrooms, a Kitchen, living room, self catering.
+
+B. Activities:
+- Restaurant: we have a restaurant that opens at 07:00 to 22:00.
+- Breakfast: between 07:00 to 09:00.
+- Lunch: between 12:30 to 15:30.
+- Dinner: between 18:30 to 22:00.
+- Room Service: K10.
+- Laundry: opens from 06:30 to 21:00.
+- Mini Bar: We have a mini bar that closes at 22:00. 
+- we do not offer swimming pool services.
+
+C. Contact Us:
+
+- call us on 0977 84 96 90.
+- Email us at whiteroselodge@yahoo.com
+
+
+D. Location:
+- Located: at Plot No. 4424/17, Highlands, Livingstone. PO Box 61062.
+- Nearby: Chimulute Private School or Uno Filling Station or The Weigh Bridge . 
+
+---------------------------------------------------------------------------------------------------------
+
+
+11. name of lodge: Kaazmein Lodge.
+
+ - Kaazmein Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Kaazmein Lodge:
+ 
+- The Kaazmein Lodge & Resort has 12 standard double twin chalets, \ 
+these units of which overlook a mini lake. There are also 10 Hotel \  
+rooms and a Family Hotel Chalet Room. The family units contain a \ 
+double room ideally for parents and the next inter-leading room \ 
+has two twin beds, both rooms are self contained.
+
+Available services for Kaazmein Lodge:
+
+
+A. Rooms or accommodaion:
+- Budgets Chalets: K300
+- Standards Chalets: K650
+- Executive Chalets: K1200
+
+
+B. Facilities:
+
+I. Conference Room:
+
+- Our conference rooms both have audio and video equipment. \ 
+The conference rooms can comfortably accommodate 80 and 20 delegates \  
+respectively. Ideal  venue for holding meetings, conferences and events. \  
+
+II. Swimming Pool
+III. Events Hire
+IV. Weddings
+V. Outdoor Bar
+VI. Restaurant 
+
+C. Contact Us:
+
+- For bookings and reservations or any other inquiries please be free to contact us:
+- Email: info@kaazmeinlodge.com
+- Land Phone: +260 213 32 22 44
+- Cell Phone: +260 95 5 32 22 44 or +260 97 7 32 22 44
+
+E. Location:
+- Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
+- Located: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
+- Nearby: Chandamali Market or Mosque.
+
+-----------------------------------------------------------------------------------------------------
+
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 
 is available, always include its contact details for easy reach.

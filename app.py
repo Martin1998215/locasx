@@ -20,7 +20,7 @@ sf_schema = st.secrets["sf_schema"]
 table_name = "USER_DATA.PUBLIC.USER_TABLE"
 feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
 
-os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
+openai.api_key = st.secrets["api1"]
 
 # myapp = st.secrets["api"]
 

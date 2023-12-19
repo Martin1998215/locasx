@@ -210,7 +210,8 @@ III. Drinks for Flavours Pubs and Grill Restaurant:
 - Disposable Coke (500mls): K15
 
 IV. Traditional for Food Flavours Pubs and Grill Restaurant:
-- Village Chicken stew: K100
+- Village Chicken stew: K125
+-Charcoal Grill Fish: K115
 - Goat stew: K95
 - Beef shew: K85
 - Game meat: K140
@@ -235,15 +236,15 @@ VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
 - Vegetable Burger: K90
 - Cheese Burger: K100
 - chicken wrap: K90
-- Beef wrap: K85
+- Beef wrap: K95
 
 IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
-- Dreamlight T-Bone steak 350g: K125
-- Beef Fillet steak 350g: K120
-- Rump steak 350g: K115
-- Lamb chops 3PCs: K130
-- Carribean Pork chops: K120
-- Buffalo wings: K100
+- Dreamlight T-Bone steak 350g: K140
+- Beef Fillet steak 350g: K135
+- Rump steak 350g: K130
+- Lamb chops 3PCs: K145
+- Carribean Pork chops: K135
+- Buffalo wings: K105
 
 X. Sausage for Flavours Pubs and Grill Restaurant:
 - Boerewars sausage and chips: K85
@@ -260,13 +261,13 @@ XII. Pasta/Noodles for Flavours Pubs and Grill Restaurant:
 - Beef Fried Noodles: K85
 
 XIII. Special Pizza for Flavours Pubs and Grill Restaurant:
-- Mini Pizza (all flavour): K80
-- Meat Feast: K120
-- Mexican Pizza: K140
-- Chicken Tikka: K140
-- Chicken Mushroom: K115
-- Vegetable Pizza: K105
-- Hawaiian Chicken Pizza: K105
+- Mini Pizza (all flavour): K90
+- Meat Feast: K130
+- Mexican Pizza: K150
+- Chicken Tikka: K150
+- Chicken Mushroom: K125
+- Vegetable Pizza: K115
+- Hawaiian Chicken Pizza: K115
 
 XIV. Salads for Flavours Pubs and Grill Restaurant:
 - Greek Salad: K55

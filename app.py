@@ -534,6 +534,11 @@ VIII. Cakes for Bravo Cafe:
 - Birthday cake (large): K350
 - Choco Cake (large): K350
 - Vanilla Cake Slice: K37
+VIX. Platters for Bravo Cafe:
+- Beef Platter: K175
+- Bravo Platter: K152
+- Universal Bravo Platter: 322
+- Bravo 4 Grilled wings & Chips: 123
 
 B. Promotions at Bravo Cafe:
 * Bravo Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:

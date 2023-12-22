@@ -235,8 +235,7 @@ VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
 - Chicken Burger: K90
 - Vegetable Burger: K90
 - Cheese Burger: K100
-- chicken wrap: K90
-- Beef wrap: K95
+
 
 IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
 - Dreamlight T-Bone steak 350g: K140
@@ -308,7 +307,11 @@ XX. Naan/Rotis for Flavours Pubs and Grill Restaurant:
 - Butter Naan: K35
 - Garlic Naan: K40
 - Chilli Naan: K35
-XXI. Bar Menu for Flavours Pubs and Grill Restaurant:
+XXI. Wraps menu for Flavours Pub and Grill Restaurant:
+- chicken wrap: K90
+- Beef wrap: K95
+
+XXII. Bar Menu for Flavours Pubs and Grill Restaurant:
 A. LAGERS:
 - Mosi: K20
 - Castle: K20

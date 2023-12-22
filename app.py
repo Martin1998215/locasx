@@ -91,6 +91,8 @@ a continental breakfast. it has a total of 11 Self contained rooms. \
 - Standard Twin: K370
 - Deluxe Suite: K1,000
 
+Note: Our Room Rates will increase effective, 2024. Thank you!
+
 B. Conference Room:
 
 - Conferences and meetings:  

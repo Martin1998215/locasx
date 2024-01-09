@@ -86,12 +86,10 @@ A. Rooms or Accommodation:
 All our rooms are self contained with Dstv, free Wi Fi and \ 
 a continental breakfast. it has a total of 11 Self contained rooms. \ 
 
-- Executive Double: K350
-- Executive Twin: K400
-- Standard Twin: K370
+- Executive Double: K400
+- Family Room: K450
+- Standard Twin: K430
 - Deluxe Suite: K1,000
-
-Note: Our Room Rates will increase effective, 2024. Thank you!
 
 B. Conference Room:
 

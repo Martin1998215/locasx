@@ -963,6 +963,108 @@ E. Location:
 
 -----------------------------------------------------------------------------------------------------
 
+
+12. Name of Hotel: Radisson Blu Mosi-Oa-Tunya Livingstone Resort
+
+About Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
+
+- Experience one of the Seven Natural Wonders of the World from our new Radisson Blu hotel in Zambia:
+Tune out from the rest of the world and connect to the natural beauty of Mosi-Oa-Tunya National Park. \ 
+This exceptional UNESCO site is home to one of the largest waterfalls in the world and a wildlife park. \ 
+Relax in this magical setting or find an adventure – in addition to 200 rooms and suites, our hotel offers \ 
+locally-inspired restaurants, a spa and fitness center, a river cruiser, and a sports pavilion. We also offer \ 
+a conference center with five rooms. Host a unique event for up to 250 people with the spectacular \ 
+Victoria Falls nearby.
+- Feed your soul with comfortable rooms, suites, and villas by the Zambezi River:
+An idyllic stay is waiting at Radisson Blu Mosi-Oa-Tunya, Livingstone Resort. Find your \ 
+perfect accommodation among the 200 rooms, including suites and villas. Gaze at the Zambezi \ 
+River as you enjoy your first cup of coffee with the room's facilities and plan each day in \ 
+this unique location.
+- How to arrive to Radisson Blu Mosi-Oa-Tunya, Livingstone Resort:
+(i) Confluence of the Maramba River and Mosi-Oa-Tunya Road, Livingstone 10101, Zambia:
+While off the beaten path within this superb natural ecosystem, the Radisson Blu Mosi-Oa-Tunya, \ 
+ Livingstone Resort, is still easy to reach. Fly into Harry Mwanga Nkumbula International Airport, \ 
+just 10 kilometers away, and drive or take a taxi the rest of the way. We are also just 8 \ 
+kilometers from downtown Livingstone. Parking is available on site for guests who plan on driving.
+- Nearby Attractions
+Discover one of the world's most magnificent landmarks. Our Radisson Blu hotel sits by the \ 
+Zambezi River and is near Victoria Falls. Explore the fauna and flora in the Mosi-Oa-Tunya \ 
+National Park, a UNESCO World Heritage Site, in addition to the spectacular cascades, or head \  
+into Livingstone and visit a museum. Read on for more suggestions of things to see and do.
+
+Available Services at Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
+
+A. Rooms or Accommodation prices or charges or rates:
+- Superior room with bush view at @ ZMW3,999.00 Single occupancy per night inclusive breakfast
+- Superior room with bush view at @ ZMW4,499.00 Double occupancy per night inclusive breakfast
+- Premium room with River view at @ ZMW4,299.00 Single occupancy per night inclusive breakfast
+- Premium room with River view at @ ZMW4,699.00 Double occupancy per night inclusive breakfast 
+
+B. Restaurant And Bar For Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
+I. Kuomboka restaurant:
+- Signature cuisine featuring local and international dishes, \ 
+plus an open show kitchen, make Kuomboka a treat for the entire family. \ 
+Choose between indoor or outdoor seating and enjoy our contemporary \  
+African grill. A children's menu is also available for the little ones.
+
+- Opening hours: Daily 6:30 am - 10:00 pm
+
+II. Shungu Bar:
+- Sophisticated and social, our bar and lounge offer an excellent spot \ 
+for a light meal or drink. Select a wine or cocktail from our full bar \  
+and pair it with a tapa from our menu. There is also a separate coffee \ 
+lounge where you can indulge your sweet tooth in aromatic coffee and \ 
+sweet treats.
+- Opening hours: Daily 6:30 am - 10:00 pm
+
+III. Viewing Deck:
+- Gaze out at the Zambezi River from the Viewing Deck. The spectacular Victoria \ 
+Falls can also be seen in the distance. This is a romantic spot for a drink and \ 
+a light meal while the sun sets.
+
+- Opening hours: Daily 9:00 am - 9:00 pm
+
+IV. Boma restaurant:
+- Experience traditional African cuisine in Mosi-Oa-Tunya while sitting around a \ 
+fire pit. Boma dining invites guests to sit al fresco at dinner. Visit with friends \ 
+or make new friends in this unique setting.
+
+- Opening hours: 6:00 pm - 9:00 pm
+
+V. Adventure of Mosi-Oa-Tunya River Cruiser:
+- Explore the Zambezi River on our River Cruiser boat. The Adventure of Mosi-Oa-Tunya River \  
+Cruiser has a lounge on the first deck and a full bar and lounge on the second deck, \  
+both letting you enjoy snacks and drinks on the water. Sail out in the afternoon and enjoy \ 
+a unique sunset - the boat docks after the sun sets. There is also a third deck with a viewing platform.
+
+- Opening hours: 4:00 pm - 9:00 pm
+
+VI. Pool Bar & Creamery Cart:
+- Order snacks, drinks, and ice cream while cooling off by the outdoor pool. The pool bar and decks \  
+include international dishes and a separate kid's menu.
+
+- Opening hours: Daily 9:00 am - 9:00 pm
+
+C. Services at Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
+- Below is the website link to the services: 
+- https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-mosi-oa-tunya/services?fbclid=IwAR3MhYemXZgBKpG6IWEara2g57hgkpTOg2uqO1oR8rhlh3VkQrfT_5fQEFQ
+
+D. Activities at Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
+- Below is the website link to the activities:
+- https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-mosi-oa-tunya/activities?fbclid=IwAR3MhYemXZgBKpG6IWEara2g57hgkpTOg2uqO1oR8rhlh3VkQrfT_5fQEFQ
+
+E. Photo Gallery for Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
+- Photos: https://web.facebook.com/Radissonblulivingstone/photos_by
+
+F. Contacts for Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
+- Tel: +260 630 373 250  
+- Mobile: +260 962 409 696
+- Email: henry.chandalala@radissonblu.com
+- website: https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-mosi-oa-tunya?fbclid=IwAR3MhYemXZgBKpG6IWEara2g57hgkpTOg2uqO1oR8rhlh3VkQrfT_5fQEFQ
+- Facebook Page: https://web.facebook.com/Radissonblulivingstone
+
+-------------------------------------------------------------------------------------------------------------------------
+
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 
 is available, always include its contact details for easy reach.

@@ -70,7 +70,133 @@ and locations to the list.
 
 All available lodges and restaurants and their services: 
 
-1. Name of the lodge: Livingstone lodge
+1. Name of Cafe: Bravo Restaurant and Cafe.
+
+-  Bravo Restaurant and Cafe is a Restaurant, It is not a lodge.
+
+About Bravo Restaurant and Cafe:
+- Bravo Restaurant and Cafe is a Restaurant located in the city of Livingstone, \ 
+Along Mosi O Tunya road, Town Area in livingstone, Zambia.
+- We serve the Best food ever, at affordable prices.
+- We also make the quickiest deliveries anywhere around Livingstone.
+- we are open 24hrs from sunday to monday.
+
+Available Services for Bravo Restaurant and Cafe: 
+
+A. Bravo Restaurant and Cafe Menu:
+- We serve the best food with the best ingredients at affordable prices.
+- check out our food prices or charges below:
+
+I. Cafe Menu for Bravo Restaurant and Cafe:
+- Beef Pies (large): K25
+- Chicken Pies (large): K25
+- Mini Sausage Roll: K21
+- Hot Chocolate: K35
+- Cuppucino: K35
+- Cream Doughnut: K15
+- Plain Scone: K12
+- Bran Muffin: K18
+- Melting Moments: K18
+- Cheese Strows: K23
+- Egg Roll: K35
+- Samoosa: K10
+- Chicken Combo Delux: K22
+- Bread: K17
+-  Milkshake: 35
+
+II. Drinks for Bravo Restaurant and Cafe:
+- Fruticana (500mls): K13
+- Fanta (500mls): K16
+- Sprite (500mls): K16
+- Coke (500mls): K16
+- Fruitree: K25
+- Embe: K17
+- Mineral Water (500mls): K5
+- Mineral Water (750mls): K7
+- Mineral water (1L): K10
+
+III. Pizza for Bravo Restaurant and Cafe:
+- Chicken Mushroom: K149.99
+- Macon Chicken BBQ: K135
+- Tikka Chicken: K99
+- Chicken Mushroom: K105
+- Pepperon Plus: K80
+- All round Meat: K95
+- Hawaian: K90
+- Veggie Natural: K78
+- Margerita: K75
+- Big Friday Pizza: K78
+- PeriPeri Chicken: K50
+
+IV. Ice Cream for Bravo Restaurant and Cafe:
+- Ice Cream Cone: K12
+- Ice cream Cup (large): K25
+- Ice Cream Cup (small): K18
+
+V. Burgers for Bravo Restaurant and Cafe:
+- Beef Burger: K39
+- Chicken Burger: K50
+
+VI. Grills for Bravo Restaurant and Cafe:
+- T Bone + chips: K95
+- Grilled Piece Chicken: K25
+- Grilled Piece + chips: K45
+- Sharwama special: K39.99
+- Sausage and chips: K60
+
+VII. Breakfast for Bravo Restaurant and Cafe:
+- English Breakfast: K50
+VIII. Cakes for Bravo Cafe:
+- Cake Slice: K37
+- Birthday cake (large): K350
+- Choco Cake (large): K350
+- Vanilla Cake Slice: K37
+
+VIX. Platters for Bravo Restaurant and Cafe:
+- Beef Platter: K175
+- Bravo Platter: K152
+- Universal Bravo Platter: 322
+- Bravo 4 Grilled wings & Chips: 123
+
+B. Promotions at Bravo Restaurant and Cafe:
+* Bravo Restaurant and Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:
+- Tikka/ regular chicken: K80
+* Bravo cafe the double trouble promotion on Tuesday and Thursday for the following:
+- milkshakes (mango, strawberry, chocolate,caramel): K54
+- Ice cream cones (chocolate, vanilla, strawberry): K20
+- 2 ouarter chicken (with chips and Greek salad): K130
+
+C. Our Deliveries:
+- We offer the best and quickest kind of deliveries using our delivery vans \ 
+around livingstone.
+- Make An order by calling us on 0771 023 899.
+
+D. Photo Gallery for Bravo Restaurant and Cafe:
+Below are some photos for Bravo Cafe's food:
+- Photo: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=252277424215064&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=251681690941304&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=251681597607980&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo/?fbid=250980197678120&set=pb.100082984238391.-2207520000.
+- Photo: https://web.facebook.com/photo.php?fbid=245265944916212&set=pb.100082984238391.-2207520000.&type=3
+- Photo: https://web.facebook.com/photo.php?fbid=234845942624879&set=pb.100082984238391.-2207520000.&type=3
+- Photo: https://web.facebook.com/photo.php?fbid=210258831750257&set=pb.100082984238391.-2207520000.&type=3
+
+For More photos, Check on our Facebook Page: https://web.facebook.com/BRAVOLSTONE/photos
+
+E. Contact for Bravo Restaurant and Cafe:
+- Cell: 0978 833 685.
+- Email: bravorestaurant@gmail.com.
+- Facebook Page: https://web.facebook.com/BRAVOLSTONE
+
+F. Location for Bravo Restaurant and Cafe:
+- Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
+- Nearby places: Absa Bank, Stanbic Bank, Bata shop.
+
+----------------------------------------------------------------------------------------------------------------------
+
+2. Name of the lodge: Livingstone lodge
 
 - Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -161,9 +287,134 @@ I. Location:
 - Nearby: Maramba market or Livingstone Central Police Station or Town.
 - google maps link: https://www.google.com/maps/place/Livingstone+Lodge/@-17.8454748,25.8632469,17z/data=!3m1!4b1!4m9!3m8!1s0x194ff1bc2453719f:0x58857bdcaf4746fb!5m2!4m1!1i2!8m2!3d-17.8454799!4d25.8658218!16s%2Fg%2F11f8fcc5xq?authuser=0&entry=ttu
 
-------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
-2. Name of Restaurant: Flavours Pubs and Grill Restaurant.
+3. Name of Lodge: Chappa Classic Lodge
+
+ - Chappa Classic Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Chappa Classic Lodge:
+
+- The Chapa Classic Lodge and the annex Chapa Vanguard offer a total of \ 
+67 rooms and conference facilities for up to 160 participants. The lodges \  
+are across the street from each other in a quiet area just next to the \  
+Livingstone city centre.
+- Located: 66 Nehru Way, town area, Livingstone.
+- Just 7 minutes to shops and restaurants.
+- Affordable rates: We offer affordable rooms and conferencing: value for \  
+money.
+
+Available services For Chappa Classic Lodge:
+
+A. Rooms or Accommodation:
+
+All rooms come with WiFi, air-conditioning, a fridge, en suite bathroom, \ 
+DStv and full English breakfast. Rates are based on double occupancy.
+
+I. Chapa Classic 1:
+- Standard Double (2 people): K430
+- Twin (2 people): K500
+- Deluxe (2 people): K550
+- Family Room (4 people): K750
+Contact for chapa Classic 1: 0974 65 68 72
+
+II. Chapa Classic 2:
+- Deluxe Single (2 people): K700
+- Twin (2 people): K750
+- Family Room: K1300
+- Deluxe Twin (4 people): K850
+- Twins (3 people): K800
+- Deluxe Classic: K750
+- Single Room Classic: K630
+- Double/Twin Room Classic: K600
+Contact for chapa Classic 2: 0975 79 50 30
+
+B. Conference Room:
+
+Conferencing, meetings and seminars for up to 160 participants:
+- We cater for conferences, seminars and workshops for up to 160 \ 
+people with a large conference halls and meeting rooms. Flipovers, \ 
+LCD projector are available.
+
+C. Other activities:
+- Swimming Pool.
+- Event hires such as weddings, Parties, meetings.
+
+D. Photo Gallery:
+Below are some photo links to our lodge, rooms and restaurant:
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo.php?fbid=711948847607319&set=pb.100063766290503.-2207520000.&type=3
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo?fbid=711948824273988&set=pb.100063766290503.-2207520000.
+- Chappa Classic Lodge Photo link: https://web.facebook.com/photo/?fbid=675348787933992&set=pb.100063766290503.-2207520000.
+
+for more photos for Chappa Classic Lodge, check out our facebook page: https://web.facebook.com/chapaclassiclodge/photos 
+or visit our website at: https://www.chapaclassiclodge.com
+
+
+E. CONTACT US:
+- Phone Number: +260 974656872 or +260 975795030
+- Email address: chapaclassiclodge@zamnet.zm
+- website: https://www.chapaclassiclodge.com
+- facebook page: https://web.facebook.com/chapaclassiclodge/photos 
+
+F. Location:
+- Located: 66 Nehru Way, Town area, Livingstone
+- Nearby places: Livingstone Central Hospital, Town, NIPA
+- google maps link: https://www.google.com/maps/place/Chapa+Classic+Lodge/@-17.8417421,25.8547134,17z/data=!4m20!1m10!3m9!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!2sChapa+Classic+Lodge!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj!3m8!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj?authuser=0&entry=ttu
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+4. name of lodge: Kaazmein Lodge.
+
+ - Kaazmein Lodge is a Lodge. It has a Restaurant that serves food.
+
+About Kaazmein Lodge:
+ 
+- The Kaazmein Lodge & Resort has 12 standard double twin chalets, \ 
+these units of which overlook a mini lake. There are also 10 Hotel \  
+rooms and a Family Hotel Chalet Room. The family units contain a \ 
+double room ideally for parents and the next inter-leading room \ 
+has two twin beds, both rooms are self contained.
+
+Available services for Kaazmein Lodge:
+
+
+A. Rooms or accommodaion:
+- Budgets Chalets: K300
+- Standards Chalets: K650
+- Executive Chalets: K1200
+
+
+B. Facilities:
+
+I. Conference Room:
+
+- Our conference rooms both have audio and video equipment. \ 
+The conference rooms can comfortably accommodate 80 and 20 delegates \  
+respectively. Ideal  venue for holding meetings, conferences and events. \  
+
+II. Swimming Pool
+III. Events Hire
+IV. Weddings
+V. Outdoor Bar
+VI. Restaurant 
+
+C. Contact Us:
+
+- For bookings and reservations or any other inquiries please be free to contact us:
+- Email: info@kaazmeinlodge.com
+- Land Phone: +260 213 32 22 44
+- Cell Phone: +260 95 5 32 22 44 or +260 97 7 32 22 44
+
+E. Location:
+- Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
+- Located: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
+- Nearby: Chandamali Market or Mosque.
+
+---------------------------------------------------------------------------------------------------------
+
+5. Name of Restaurant: Flavours Pubs and Grill Restaurant.
 
 - Flavours Pubs and Grill Restaurant is a Restaurant, It is not a lodge.
 
@@ -382,203 +633,7 @@ E. Location for Flavours Pubs and Grill Restaurant:
 ---------------------------------------------------------------------------------------------
 
 
-3. Name of Lodge: Chappa Classic Lodge
-
- - Chappa Classic Lodge is a Lodge. It has a Restaurant that serves food.
-
-About Chappa Classic Lodge:
-
-- The Chapa Classic Lodge and the annex Chapa Vanguard offer a total of \ 
-67 rooms and conference facilities for up to 160 participants. The lodges \  
-are across the street from each other in a quiet area just next to the \  
-Livingstone city centre.
-- Located: 66 Nehru Way, town area, Livingstone.
-- Just 7 minutes to shops and restaurants.
-- Affordable rates: We offer affordable rooms and conferencing: value for \  
-money.
-
-Available services For Chappa Classic Lodge:
-
-A. Rooms or Accommodation:
-
-All rooms come with WiFi, air-conditioning, a fridge, en suite bathroom, \ 
-DStv and full English breakfast. Rates are based on double occupancy.
-
-I. Chapa Classic 1:
-- Standard Double (2 people): K430
-- Twin (2 people): K500
-- Deluxe (2 people): K550
-- Family Room (4 people): K750
-Contact for chapa Classic 1: 0974 65 68 72
-
-II. Chapa Classic 2:
-- Deluxe Single (2 people): K700
-- Twin (2 people): K750
-- Family Room: K1300
-- Deluxe Twin (4 people): K850
-- Twins (3 people): K800
-- Deluxe Classic: K750
-- Single Room Classic: K630
-- Double/Twin Room Classic: K600
-Contact for chapa Classic 2: 0975 79 50 30
-
-B. Conference Room:
-
-Conferencing, meetings and seminars for up to 160 participants:
-- We cater for conferences, seminars and workshops for up to 160 \ 
-people with a large conference halls and meeting rooms. Flipovers, \ 
-LCD projector are available.
-
-C. Other activities:
-- Swimming Pool.
-- Event hires such as weddings, Parties, meetings.
-
-D. Photo Gallery:
-Below are some photo links to our lodge, rooms and restaurant:
-- Chappa Classic Lodge Photo link: https://web.facebook.com/photo.php?fbid=711948847607319&set=pb.100063766290503.-2207520000.&type=3
-- Chappa Classic Lodge Photo link: https://web.facebook.com/photo?fbid=711948824273988&set=pb.100063766290503.-2207520000.
-- Chappa Classic Lodge Photo link: https://web.facebook.com/photo/?fbid=675348787933992&set=pb.100063766290503.-2207520000.
-
-for more photos for Chappa Classic Lodge, check out our facebook page: https://web.facebook.com/chapaclassiclodge/photos 
-or visit our website at: https://www.chapaclassiclodge.com
-
-
-E. CONTACT US:
-- Phone Number: +260 974656872 or +260 975795030
-- Email address: chapaclassiclodge@zamnet.zm
-- website: https://www.chapaclassiclodge.com
-- facebook page: https://web.facebook.com/chapaclassiclodge/photos 
-
-F. Location:
-- Located: 66 Nehru Way, Town area, Livingstone
-- Nearby places: Livingstone Central Hospital, Town, NIPA
-- google maps link: https://www.google.com/maps/place/Chapa+Classic+Lodge/@-17.8417421,25.8547134,17z/data=!4m20!1m10!3m9!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!2sChapa+Classic+Lodge!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj!3m8!1s0x194ff0a57e872a03:0xbd78d956d15a0cd4!5m2!4m1!1i2!8m2!3d-17.8417472!4d25.8572883!16s%2Fg%2F11dxntskkj?authuser=0&entry=ttu
-
------------------------------------------------------------------------------------------------
-
-4. Name of Restaurant: Bravo Cafe and Restaurant.
-
--  Bravo Cafe and Restaurant is a Restaurant, It is not a lodge.
-
-About Bravo Cafe and Restaurant:
-- Bravo Cafe and Restaurant is a Restaurant located in the city of Livingstone, \ 
-Along Mosi O Tunya road, Town Area in livingstone, Zambia.
-- We serve the Best food ever, at affordable prices.
-- We also make the quickiest deliveries anywhere around Livingstone.
-- we are open 24hrs from sunday to monday.
-
-Available Services for Bravo Cafe and Restaurant: 
-
-A. Bravo Cafe and Restaurant Menu:
-- We serve the best food with the best ingredients at affordable prices.
-- check out our food prices or charges below:
-
-I. Cafe Menu for Bravo Cafe:
-- Beef Pies (large): K25
-- Chicken Pies (large): K25
-- Mini Sausage Roll: K21
-- Hot Chocolate: K35
-- Cuppucino: K35
-- Cream Doughnut: K15
-- Plain Scone: K12
-- Bran Muffin: K18
-- Melting Moments: K18
-- Cheese Strows: K23
-- Egg Roll: K35
-- Samoosa: K10
-- Chicken Combo Delux: K22
-- Bread: K17
--  Milkshake: 35
-II. Drinks for Bravo Cafe:
-- Fruticana (500mls): K13
-- Fanta (500mls): K16
-- Sprite (500mls): K16
-- Coke (500mls): K16
-- Fruitree: K25
-- Embe: K17
-- Mineral Water (500mls): K5
-- Mineral Water (750mls): K7
-- Mineral water (1L): K10
-III. Pizza for Bravo Cafe:
-- Chicken Mushroom: K149.99
-- Macon Chicken BBQ: K135
-- Tikka Chicken: K99
-- Chicken Mushroom: K105
-- Pepperon Plus: K80
-- All round Meat: K95
-- Hawaian: K90
-- Veggie Natural: K78
-- Margerita: K75
-- Big Friday Pizza: K78
-- PeriPeri Chicken: K50
-
-IV. Ice Cream for Bravo Cafe:
-- Ice Cream Cone: K12
-- Ice cream Cup (large): K25
-- Ice Cream Cup (small): K18
-
-V. Red Burgers for Bravo Cafe:
-- Beef Burger: K39
-- Chicken Burger: K50
-
-VI. Grills for Bravo Cafe:
-- T Bone + chips: K95
-- Grilled Piece Chicken: K25
-- Grilled Piece + chips: K45
-- Sharwama special: K39.99
-- Sausage and chips: K60
-VII. Breakfast for Bravo Cafe:
-- English Breakfast: K50
-VIII. Cakes for Bravo Cafe:
-- Cake Slice: K37
-- Birthday cake (large): K350
-- Choco Cake (large): K350
-- Vanilla Cake Slice: K37
-VIX. Platters for Bravo Cafe:
-- Beef Platter: K175
-- Bravo Platter: K152
-- Universal Bravo Platter: 322
-- Bravo 4 Grilled wings & Chips: 123
-
-B. Promotions at Bravo Cafe:
-* Bravo Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:
-- Tikka/ regular chicken: K80
-* Bravo cafe the double trouble promotion on Tuesday and Thursday for the following:
-- milkshakes (mango, strawberry, chocolate,caramel): K54
-- Ice cream cones (chocolate, vanilla, strawberry): K20
-- 2 ouarter chicken (with chips and Greek salad): K130
-
-C. Our Deliveries:
-- We offer the best and quickest kind of deliveries using our delivery vans \ 
-around livingstone.
-- Make An order by calling us on 0771 023 899.
-
-D. Photo Gallery for Bravo Cafe:
-Below are some photos for Bravo Cafe's food:
-- Photo: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=252277424215064&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=251681690941304&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=251681597607980&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo/?fbid=250980197678120&set=pb.100082984238391.-2207520000.
-- Photo: https://web.facebook.com/photo.php?fbid=245265944916212&set=pb.100082984238391.-2207520000.&type=3
-- Photo: https://web.facebook.com/photo.php?fbid=234845942624879&set=pb.100082984238391.-2207520000.&type=3
-- Photo: https://web.facebook.com/photo.php?fbid=210258831750257&set=pb.100082984238391.-2207520000.&type=3
-
-For More photos, Check on our Facebook Page: https://web.facebook.com/BRAVOLSTONE/photos
-
-E. Contact Us:
-- Cell: 0978 833 685.
-- Email: bravorestaurant@gmail.com.
-- Facebook Page: https://web.facebook.com/BRAVOLSTONE
-
-F. Location:
-- Located: Along Mosi O Tunya Road, In Town, livingstone, Zambia.
-- Nearby places: Absa Bank, Stanbic Bank, Bata shop.
-
------------------------------------------------------------------------------------------------
-
-5. Name of Lodge: KM Executive Lodge
+6. Name of Lodge: KM Executive Lodge
 
  - KM Executive Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -638,7 +693,7 @@ G. Location:
 
 ----------------------------------------------------------------------------------------------------
 
-6. Name of Lodge: Aunt Josephine's Executive Lodge.
+7. Name of Lodge: Aunt Josephine's Executive Lodge.
 
 About Aunt Josephine's Executive Lodge:
 
@@ -672,7 +727,7 @@ D. Location:
 --------------------------------------------------------------------------------------------
 
 
-7. Name of Lodge: Pumulani Lodge.
+8. Name of Lodge: Pumulani Lodge.
 
 About Pumulani Lodge:
 
@@ -717,108 +772,6 @@ D. Location:
 - Google maps link: https://www.google.com/maps/place/Pumulani+Lodge+Livingstone/@-17.8423113,25.8617373,17z/data=!4m21!1m11!3m10!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!2sPumulani+Lodge+Livingstone!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!10e5!16s%2Fg%2F11ddxyw7qv!3m8!1s0x194ff0a37b428c21:0xb972cebac5bf11e6!5m2!4m1!1i2!8m2!3d-17.8423113!4d25.8617373!16s%2Fg%2F11ddxyw7qv?authuser=0&entry=ttu
 
 -----------------------------------------------------------------------------------------------------------------------
-
-8. name of restaurant: Sweet & Salty Cafe
-
-About Sweet & Salty Cafe:
-
-- Sweet & Salty Cafe is a cafe located along Mosi-o-tunya Livingstone Way, \ 
-T1 (Next to Puma Filling Station), Livingstone, Zambia.
-- We are open everyday from 07:30 to 22:00.
-- Contact them at 0967983308
-
-Available Services Sweet & Salty Cafe: 
-
-A. Food Menu:
-- Below is the food menu for Sweet & Salty Cafe:
-
-I. Breakfast:
-- Big Bwana (waffle): K150
-- Big Bwana (Magwinya): K150
-- Madala (waffle): K130
-- Madala (Magwinya): K130
-- Ham (waffle): K120
-- Ham (Magwinya): K120
-- Bacon Brekkie (waffle): K110
-- Bacon Brekkie (Magwinya): K110
-- Veggie Brekkie (Waffle): K110
-- Veggie Brekkie (Magwinya): K110
-- French toast (waffle): K110
-- French toast (Magwinya): K110
-
-II. Pizza:
-- Nyama: K170
-- Veggie: K160
-- Chicken and Mushroom: K150
-- Hawaiian: K150
-- Mexicana: K150
-- Regina: K130
-
-III. Sweets:
-- Lemon Meringue: K105
-- Chocolate: K105
-- Banoffe: K105
-- Peppermint Crisps: K105
-- Plain: K90
-
-IV. Ice Creams:
-- Sugar cone plain: K25
-- Cone plain: K15
-- Add Flakes: K10
-- Add Syrups: K5
-
-V. Milkshakes:
-- Vanilla: K85
-- Bubblegum: K85
-- Caramel: K85
-- Chocolate: K85
-- Strawberry: K85
-- Peanut Butter: K85
-
-VI. Donuts:
-- Vanilla: K50
-- Caramel: K50
-- Chocolate: K50
-- DIY Dounut box: K110
-
-VII. Mains:
-- Sweet n Sour Pork/Chicken (waffle): K150
-- Sweet n Sour Pork/Chicken (Magwinya): K150
-- Fillet Steak & Pepper Sauce (waffle): K150
-- Fillet Steak & Pepper Sauce (Magwinya): K150
-- Crumbed Chicken (waffle): K150
-- Crumbed Chicken (Magwinya): K150
-- Mutton Curry (waffle): K150
-- Mutton Curry (Magwinya): K150
-- Beef Burger (waffle): K130
-- Beef Burger (Magwinya): K130
-- Beef Stew (waffle): K130
-- Beef Stew (Magwinya): K130
-- Peri Peri Chicken livers (waffle): K120
-- Peri Peri Chicken livers (Magwinya): K120
-- Sloppy Joe (waffle): K110
-- Sloppy Joe (Magwinya): K110
-- Chicken Mayo (waffle): K110
-- Chicken Mayo (Magwinya): K110
-
-B. Photo Gallery:
-Below are some photos for Sweet & Salty Cafe's food:
-- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=814769610653993&set=pb.100063628853340.-2207520000&type=3
-- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=809164927881128&set=pb.100063628853340.-2207520000&type=3
-- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=802679638529657&set=pb.100063628853340.-2207520000&type=3
-
-
-For More photos, Check on our Facebook Page: https://web.facebook.com/SweetnSaltyLivingstone/photos
-
-C. Contacts:
-- Call: 0967 98 33 08.
-- Facebook Page: https://web.facebook.com/SweetnSaltyLivingstone
-
-D. Location:
-- located: Mosi-o-tunya Livingstone Way, T1 (Next to Puma Filling Station), Livingstone, Zambia.
-- Nearby: Town Area or Next to Puma Filling Station
-- Google maps link: https://www.google.com/maps/place/Sweet+%26+Salty+cafe/@-17.852535,25.8522176,17z/data=!4m14!1m7!3m6!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!2sSweet+%26+Salty+cafe!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp!3m5!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp?authuser=0&entry=ttu
--------------------------------------------------------------------------------------------------------
 
 
 9. Name of Lodge: Asenga Executive Lodge Livingstone
@@ -866,10 +819,112 @@ E. Location:
 - PO Box 60464 Livingstone.
 - nearby places: Highlands Market or Zambezi Sports Complex.
 
----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+10. name of cafe: Sweet & Salty Cafe
+
+About Sweet & Salty Cafe:
+
+- Sweet & Salty Cafe is a cafe located along Mosi-o-tunya Livingstone Way, \ 
+T1 (Next to Puma Filling Station), Livingstone, Zambia.
+- We are open everyday from 07:30 to 22:00.
+- Contact them at 0967983308
+
+Available Services Sweet & Salty Cafe: 
+
+A. Food Menu for Sweet & Salty Cafe:
+- Below is the food menu for Sweet & Salty Cafe:
+
+I. Breakfast for Sweet & Salty Cafe:
+- Big Bwana (waffle): K150
+- Big Bwana (Magwinya): K150
+- Madala (waffle): K130
+- Madala (Magwinya): K130
+- Ham (waffle): K120
+- Ham (Magwinya): K120
+- Bacon Brekkie (waffle): K110
+- Bacon Brekkie (Magwinya): K110
+- Veggie Brekkie (Waffle): K110
+- Veggie Brekkie (Magwinya): K110
+- French toast (waffle): K110
+- French toast (Magwinya): K110
+
+II. Pizza for Sweet & Salty Cafe:
+- Nyama: K170
+- Veggie: K160
+- Chicken and Mushroom: K150
+- Hawaiian: K150
+- Mexicana: K150
+- Regina: K130
+
+III. Sweets for Sweet & Salty Cafe:
+- Lemon Meringue: K105
+- Chocolate: K105
+- Banoffe: K105
+- Peppermint Crisps: K105
+- Plain: K90
+
+IV. Ice Creams for Sweet & Salty Cafe:
+- Sugar cone plain: K25
+- Cone plain: K15
+- Add Flakes: K10
+- Add Syrups: K5
+
+V. Milkshakes for Sweet & Salty Cafe:
+- Vanilla: K85
+- Bubblegum: K85
+- Caramel: K85
+- Chocolate: K85
+- Strawberry: K85
+- Peanut Butter: K85
+
+VI. Donuts for Sweet & Salty Cafe:
+- Vanilla: K50
+- Caramel: K50
+- Chocolate: K50
+- DIY Dounut box: K110
+
+VII. Mains for Sweet & Salty Cafe:
+- Sweet n Sour Pork/Chicken (waffle): K150
+- Sweet n Sour Pork/Chicken (Magwinya): K150
+- Fillet Steak & Pepper Sauce (waffle): K150
+- Fillet Steak & Pepper Sauce (Magwinya): K150
+- Crumbed Chicken (waffle): K150
+- Crumbed Chicken (Magwinya): K150
+- Mutton Curry (waffle): K150
+- Mutton Curry (Magwinya): K150
+- Beef Burger (waffle): K130
+- Beef Burger (Magwinya): K130
+- Beef Stew (waffle): K130
+- Beef Stew (Magwinya): K130
+- Peri Peri Chicken livers (waffle): K120
+- Peri Peri Chicken livers (Magwinya): K120
+- Sloppy Joe (waffle): K110
+- Sloppy Joe (Magwinya): K110
+- Chicken Mayo (waffle): K110
+- Chicken Mayo (Magwinya): K110
+
+B. Photo Gallery for Sweet & Salty Cafe:
+Below are some photos for Sweet & Salty Cafe's food:
+- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=814769610653993&set=pb.100063628853340.-2207520000&type=3
+- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=809164927881128&set=pb.100063628853340.-2207520000&type=3
+- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=802679638529657&set=pb.100063628853340.-2207520000&type=3
 
 
-10. Name of Lodge: White Rose Lodge.
+For More photos, Check on our Facebook Page: https://web.facebook.com/SweetnSaltyLivingstone/photos
+
+C. Contacts for Sweet & Salty Cafe:
+- Call: 0967 98 33 08.
+- Facebook Page: https://web.facebook.com/SweetnSaltyLivingstone
+
+D. Location for Sweet & Salty Cafe:
+- located: Mosi-o-tunya Livingstone Way, T1 (Next to Puma Filling Station), Livingstone, Zambia.
+- Nearby: Town Area or Next to Puma Filling Station
+- Google maps link: https://www.google.com/maps/place/Sweet+%26+Salty+cafe/@-17.852535,25.8522176,17z/data=!4m14!1m7!3m6!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!2sSweet+%26+Salty+cafe!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp!3m5!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp?authuser=0&entry=ttu
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+11. Name of Lodge: White Rose Lodge.
 
  - White Rose Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -911,55 +966,6 @@ D. Location:
 
 ---------------------------------------------------------------------------------------------------------
 
-
-11. name of lodge: Kaazmein Lodge.
-
- - Kaazmein Lodge is a Lodge. It has a Restaurant that serves food.
-
-About Kaazmein Lodge:
- 
-- The Kaazmein Lodge & Resort has 12 standard double twin chalets, \ 
-these units of which overlook a mini lake. There are also 10 Hotel \  
-rooms and a Family Hotel Chalet Room. The family units contain a \ 
-double room ideally for parents and the next inter-leading room \ 
-has two twin beds, both rooms are self contained.
-
-Available services for Kaazmein Lodge:
-
-
-A. Rooms or accommodaion:
-- Budgets Chalets: K300
-- Standards Chalets: K650
-- Executive Chalets: K1200
-
-
-B. Facilities:
-
-I. Conference Room:
-
-- Our conference rooms both have audio and video equipment. \ 
-The conference rooms can comfortably accommodate 80 and 20 delegates \  
-respectively. Ideal  venue for holding meetings, conferences and events. \  
-
-II. Swimming Pool
-III. Events Hire
-IV. Weddings
-V. Outdoor Bar
-VI. Restaurant 
-
-C. Contact Us:
-
-- For bookings and reservations or any other inquiries please be free to contact us:
-- Email: info@kaazmeinlodge.com
-- Land Phone: +260 213 32 22 44
-- Cell Phone: +260 95 5 32 22 44 or +260 97 7 32 22 44
-
-E. Location:
-- Postal Address: Kaazmein Lodge, PO Box 60791, Livingstone Zambia
-- Located: 2764 Maina soko Road, Nottie Broadie area, Livingstone Zambia.
-- Nearby: Chandamali Market or Mosque.
-
------------------------------------------------------------------------------------------------------
 
 
 12. Name of Hotel: Radisson Blu Mosi-Oa-Tunya Livingstone Resort
@@ -1066,6 +1072,14 @@ F. Contacts for Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
 step 3: {delimiter}: only mention or reference services in the list of available services, \ 
 As these are the only services offered. ANd if a particular service for a lodge or restaurant \ 
 is available, always include its contact details for easy reach.
+Please note: each service is seperated by dashed lines. 
+
+step 4: {delimiter}: Only retrive information about a question from the specific available service. \ 
+Do not pick information from another service all in the name of prodiving an answer. \ 
+If a particular for a certain service asked is not available, do not try to pick information \ 
+from another service. example: if a user is asking about anything from the Bravo Cafe service, \ 
+Do not try to fetch any information other services such as Flavours Pub and Grill or Livingstone \ 
+Lodge... strickly answer from the Bravo Cafe services.
 
 Answer the customer in a calm and friendly tone.
 
@@ -1075,6 +1089,7 @@ Use the following format:
 step 1 {delimiter} < step 1 reasoning >
 step 2 {delimiter} < step 2 reasoning >
 step 3 {delimiter} < step 3 reasoning >
+step 4 {delimiter} < step 4 reasoning >
 
 Respond to user: {delimiter} < response to customer >
 

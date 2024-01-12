@@ -1074,13 +1074,6 @@ As these are the only services offered. ANd if a particular service for a lodge 
 is available, always include its contact details for easy reach.
 Please note: each service is seperated by dashed lines. 
 
-step 4: {delimiter}: Only retrive information about a question from the specific available service. \ 
-Do not pick information from another service all in the name of prodiving an answer. \ 
-If a particular for a certain service asked is not available, do not try to pick information \ 
-from another service. example: if a user is asking about anything from the Bravo Cafe service, \ 
-Do not try to fetch any information other services such as Flavours Pub and Grill or Livingstone \ 
-Lodge... strickly answer from the Bravo Cafe services.
-
 Answer the customer in a calm and friendly tone.
 
 Lets think step by step.
@@ -1089,7 +1082,6 @@ Use the following format:
 step 1 {delimiter} < step 1 reasoning >
 step 2 {delimiter} < step 2 reasoning >
 step 3 {delimiter} < step 3 reasoning >
-step 4 {delimiter} < step 4 reasoning >
 
 Respond to user: {delimiter} < response to customer >
 

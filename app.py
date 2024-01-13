@@ -821,110 +821,8 @@ E. Location:
 
 ------------------------------------------------------------------------------------------------------------
 
-10. name of cafe: Sweet & Salty Cafe
 
-About Sweet & Salty Cafe:
-
-- Sweet & Salty Cafe is a cafe located along Mosi-o-tunya Livingstone Way, \ 
-T1 (Next to Puma Filling Station), Livingstone, Zambia.
-- We are open everyday from 07:30 to 22:00.
-- Contact them at 0967983308
-
-Available Services Sweet & Salty Cafe: 
-
-A. Food Menu for Sweet & Salty Cafe:
-- Below is the food menu for Sweet & Salty Cafe:
-
-I. Breakfast for Sweet & Salty Cafe:
-- Big Bwana (waffle): K150
-- Big Bwana (Magwinya): K150
-- Madala (waffle): K130
-- Madala (Magwinya): K130
-- Ham (waffle): K120
-- Ham (Magwinya): K120
-- Bacon Brekkie (waffle): K110
-- Bacon Brekkie (Magwinya): K110
-- Veggie Brekkie (Waffle): K110
-- Veggie Brekkie (Magwinya): K110
-- French toast (waffle): K110
-- French toast (Magwinya): K110
-
-II. Pizza for Sweet & Salty Cafe:
-- Nyama: K170
-- Veggie: K160
-- Chicken and Mushroom: K150
-- Hawaiian: K150
-- Mexicana: K150
-- Regina: K130
-
-III. Sweets for Sweet & Salty Cafe:
-- Lemon Meringue: K105
-- Chocolate: K105
-- Banoffe: K105
-- Peppermint Crisps: K105
-- Plain: K90
-
-IV. Ice Creams for Sweet & Salty Cafe:
-- Sugar cone plain: K25
-- Cone plain: K15
-- Add Flakes: K10
-- Add Syrups: K5
-
-V. Milkshakes for Sweet & Salty Cafe:
-- Vanilla: K85
-- Bubblegum: K85
-- Caramel: K85
-- Chocolate: K85
-- Strawberry: K85
-- Peanut Butter: K85
-
-VI. Donuts for Sweet & Salty Cafe:
-- Vanilla: K50
-- Caramel: K50
-- Chocolate: K50
-- DIY Dounut box: K110
-
-VII. Mains for Sweet & Salty Cafe:
-- Sweet n Sour Pork/Chicken (waffle): K150
-- Sweet n Sour Pork/Chicken (Magwinya): K150
-- Fillet Steak & Pepper Sauce (waffle): K150
-- Fillet Steak & Pepper Sauce (Magwinya): K150
-- Crumbed Chicken (waffle): K150
-- Crumbed Chicken (Magwinya): K150
-- Mutton Curry (waffle): K150
-- Mutton Curry (Magwinya): K150
-- Beef Burger (waffle): K130
-- Beef Burger (Magwinya): K130
-- Beef Stew (waffle): K130
-- Beef Stew (Magwinya): K130
-- Peri Peri Chicken livers (waffle): K120
-- Peri Peri Chicken livers (Magwinya): K120
-- Sloppy Joe (waffle): K110
-- Sloppy Joe (Magwinya): K110
-- Chicken Mayo (waffle): K110
-- Chicken Mayo (Magwinya): K110
-
-B. Photo Gallery for Sweet & Salty Cafe:
-Below are some photos for Sweet & Salty Cafe's food:
-- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=814769610653993&set=pb.100063628853340.-2207520000&type=3
-- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=809164927881128&set=pb.100063628853340.-2207520000&type=3
-- Sweet & Salty Cafe Photo: https://web.facebook.com/photo.php?fbid=802679638529657&set=pb.100063628853340.-2207520000&type=3
-
-
-For More photos, Check on our Facebook Page: https://web.facebook.com/SweetnSaltyLivingstone/photos
-
-C. Contacts for Sweet & Salty Cafe:
-- Call: 0967 98 33 08.
-- Facebook Page: https://web.facebook.com/SweetnSaltyLivingstone
-
-D. Location for Sweet & Salty Cafe:
-- located: Mosi-o-tunya Livingstone Way, T1 (Next to Puma Filling Station), Livingstone, Zambia.
-- Nearby: Town Area or Next to Puma Filling Station
-- Google maps link: https://www.google.com/maps/place/Sweet+%26+Salty+cafe/@-17.852535,25.8522176,17z/data=!4m14!1m7!3m6!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!2sSweet+%26+Salty+cafe!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp!3m5!1s0x194ff1a514b136d1:0xaa79c95d1c5b321e!8m2!3d-17.8525401!4d25.8547925!16s%2Fg%2F11ssd3vbsp?authuser=0&entry=ttu
-
------------------------------------------------------------------------------------------------------------------------------------
-
-11. Name of Lodge: White Rose Lodge.
+10. Name of Lodge: White Rose Lodge.
 
  - White Rose Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -968,7 +866,7 @@ D. Location:
 
 
 
-12. Name of Hotel: Radisson Blu Mosi-Oa-Tunya Livingstone Resort
+11. Name of Hotel: Radisson Blu Mosi-Oa-Tunya Livingstone Resort
 
 About Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
 

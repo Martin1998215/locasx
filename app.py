@@ -213,7 +213,7 @@ All our rooms are self contained with Dstv, free Wi Fi and \
 a continental breakfast. it has a total of 11 Self contained rooms. \ 
 
 - Executive Double: K400
-- Family Room: K450
+- Executive Twin: K450
 - Standard Twin: K430
 - Deluxe Suite: K1,000
 
@@ -225,22 +225,22 @@ We cater for conferences, seminars and workshops for up to 80 \
 people  with a large conference halls and meeting rooms. \ 
 - Note: our conference facilities have WIFI included.
 - Below are the prices or charges of our conference room:
-i. Full conference package per person (with stationary) per person: K340
-ii. Full conference package per person (without stationary): K286
-iii. Half day conference package: K250
+i. Full conference package per person (with stationary) per person: K390
+ii. Full conference package per person (without stationary): K340
+iii. Half day conference package: K750
 iv. Conference venue only (50 pax max): K2500
 v. Outside Venue: K2000
 vi. Venue for worshops: K1500
 
 C. Restaurant:
 we have food and beverages. below is a list of our menu:
-- Tea and snack person: K65
-- Lunch or Dinner (Buffet) with choice of starter or desert: K130
-- Lunch or Dinner (Buffet) Complete: K180
-- Cocktail snacks: K90
-- Full English Breakfast: K60
+- Tea and snack person: K80
+- Lunch or Dinner (Buffet) with choice of starter or desert: K150
+- Lunch or Dinner (Buffet) Complete: K200
+- Cocktail snacks: K100
+- Full English Breakfast: K80
 - Soft Drinks (300mls): K10
-- Mineral water (500mls): K8
+- Mineral water (500mls): K10
 
 D. Bar: 
 - our cocktail Bar offers some drinks and different kinds of beers.
@@ -259,14 +259,14 @@ I. Happy Hour Promo
 F. Other activities:
 - Event hires such as weddings, Parties, meetings.
 - we do not offer swimming pool services.
-- Game Drive + Rhino walk: K400
-- Bungee Jumping: K1600
-- Boat Cruise: K800
-- Tour to Livingstone Musuem: K100
-- While water Rafting: K1200
-- Helicopter flight: K1900
-- Gorge Siving: K1550
-- Airport Transfer: K140.
+- Game Drive + Rhino walk
+- Bungee Jumping
+- Boat Cruise
+- Tour to Livingstone Musuem
+- While water Rafting
+- Helicopter flight
+- Gorge Siving
+
 
 G. Photo Gallery:
 Below are some photo links to our lodge, rooms and restaurant:

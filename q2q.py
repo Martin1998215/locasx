@@ -15,32 +15,9 @@ from langchain.chains import ConversationChain, LLMChain
 from langchain.schema import BaseOutputParser
 from langchain.memory import ConversationBufferMemory
 
+os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
-# sf_account = st.secrets["sf_account"]
-# sf_user = st.secrets["sf_user"]
-# sf_password = st.secrets["sf_password"]
-# sf_database = st.secrets["sf_database"]
-# sf_schema = st.secrets["sf_schema"]
-
-sf_account = "UIXVFIY-EI67779"
-sf_user = "LOCAS2021"
-sf_password = "Lulu5858"
-sf_database = "USER_DATA"
-sf_schema = "PUBLIC"
-
-os.environ["OPENAI_API_KEY"] = "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"
-
-# openai.api_key = "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"
-
-
-table_name = "USER_DATA.PUBLIC.USER_TABLE"
-feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
-
-# openai.api_key = st.secrets["api1"]
-
-# myapp = st.secrets["api"]
-
-
+# openai.api_key = 
 
 # model = "gpt-3.5-turbo"
 model = "gpt-3.5-turbo-16k"

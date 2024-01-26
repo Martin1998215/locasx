@@ -1010,11 +1010,11 @@ st.sidebar.write("""
 """)
 st.sidebar.markdown("<h3 style='text-align: center; color: blue;'>Contact</h3>", unsafe_allow_html=True)
 st.sidebar.write("""
-- +260 976 718 998/0976035766
+- +26 097 603 576 6
 - locastechnology@gmail.com.
 """)
 st.sidebar.write("---")
-st.sidebar.markdown("<h5 style='text-align: center; color: black;'>Copyrights © Quest2Query 2023</h5>", unsafe_allow_html=True)
+st.sidebar.markdown("<h5 style='text-align: center; color: black;'>Copyrights © Quest2Query 2024</h5>", unsafe_allow_html=True)
 st.sidebar.markdown("<h5 style='text-align: center; color: blue;'>Powered By LocasAI</h5>", unsafe_allow_html=True)   
 
 st.markdown("<h3 style='text-align: center; color: gray;'>Quest2Query</h3>", unsafe_allow_html=True)

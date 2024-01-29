@@ -2093,8 +2093,8 @@ with about_us:
     <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding: 20px; margin: 20px 0px;'>
     <h5 style='color: #0056b3;'>Welcome to a new era of travel - where adventure knows no bounds, and unforgettable experiences await you. Welcome to Quest2Query</h5>    
     </div>
-    <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding: 20px; margin: 20px 0px;'>
-        <ul style='padding-top: 20px;'>
+    <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding: 20px; margin: 20px 0px; color:black;'>
+        <ul style='padding-top: 20px; color:black;'>
             <h4 style='text-align:center;'>Contact Us</h4>
             <li><i class="fa-solid fa-phone", style="padding-right: 10px"></i>0976035766/0976718998</li>
             <li><i class="fa-solid fa-envelope" style="padding-right: 10px"></i>locastechnology@gmail.com.</li>
@@ -2108,7 +2108,7 @@ with about_us:
 with for_you:
 
     
-    st.markdown("<h5 style='text-align: center; color: blue;'>Explore the services for a specific Lodge/Restaurant.</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='text-align: center; color: gray;'>Explore the services for a specific Lodge/Restaurant.</h5>", unsafe_allow_html=True)
 
     menu = st.selectbox("Choose Service", ("Select A Service here",
     "Aunt Josephine Lodge","Bravo Cafe","Chapa Classic Lodge","Flavours Pub & Gill",

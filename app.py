@@ -2028,9 +2028,9 @@ for_you, my_explore, about_us, feedback = st.tabs(["For You", "Explorer AI","Abo
 with feedback:
 
     st.markdown("""
-    <h3>Feedback</h3>
-    <h5>Give us your thoughts on the performance of our AI Assistant, Quest2Query.</h5>
-    <h5>Your feedback helps us improve it</h5>
+    <h5>Feedback</h5>
+    <div>Give us your thoughts on the performance of our AI Assistant, Quest2Query.</div>
+    <div>Your feedback helps us improve it</div>
     
     """, unsafe_allow_html=True)
 
@@ -2052,7 +2052,7 @@ with feedback:
 with about_us:
 
     st.markdown("""
-    <h3>About Quest2Query</h3>
+    <h5>About Quest2Query</h5>
     <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding: 20px; margin: 20px 0px;
     color:black;'>
     At Quest2Query, we are fueled by a passion for travel, culinary delights,
@@ -2095,7 +2095,7 @@ with about_us:
     </div>
     <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding: 20px; margin: 20px 0px; color:black;'>
         <ul style='padding-top: 20px; color:black;'>
-            <h4 style='text-align:center;'>Contact Us</h4>
+            <h5 style='text-align:center; color: #0056b3;'>Contact Us</h5>
             <li><i class="fa-solid fa-phone", style="padding-right: 10px"></i>0976035766/0976718998</li>
             <li><i class="fa-solid fa-envelope" style="padding-right: 10px"></i>locastechnology@gmail.com.</li>
             <li style='padding-top: 20px;'>Copyrights &copy; Quest2Query 2024</li> 
@@ -2108,7 +2108,7 @@ with about_us:
 with for_you:
 
     
-    st.markdown("<h5 style='text-align: center; color: gray;'>Explore the services for a specific Lodge/Restaurant.</h5>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center; color: gray;'>Explore the services for a specific Lodge/Restaurant.</p>", unsafe_allow_html=True)
 
     menu = st.selectbox("Choose Service", ("Select A Service here",
     "Aunt Josephine Lodge","Bravo Cafe","Chapa Classic Lodge","Flavours Pub & Gill",

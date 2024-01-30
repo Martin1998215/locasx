@@ -17,6 +17,8 @@ from langchain.memory import ConversationBufferMemory
 
 os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
+
+
 sf_account = st.secrets["sf_account"]
 sf_user = st.secrets["sf_user"]
 sf_password = st.secrets["sf_password"]
@@ -26,7 +28,7 @@ sf_schema = st.secrets["sf_schema"]
 
 table_name = "USER_DATA.PUBLIC.USER_TABLE"
 service_table_name = "USER_DATA.PUBLIC.SERVICE_TABLE"
-feedback_name = "USER_DATA.PUBLIC.USER_FEEDBACK"
+feedback_name = "USER_DATA.PUBLIC.MYFEEDBACK_TABLE"
 
 
 # openai.api_key = 
@@ -1994,7 +1996,7 @@ from PIL import Image
 
 img = Image.open('logo.jpg')
 
-st.set_page_config(page_title="Assistant, Quest2Query", page_icon=img)
+st.set_page_config(page_title="Quest2Query", page_icon=img)
 
 hide_menu_style = """
 <style>
@@ -2004,31 +2006,31 @@ footer {visibility: hidden;}
 """
 st.markdown(hide_menu_style, unsafe_allow_html=True)
 
-st.sidebar.markdown("<h2 style='text-align: center; color: blue;'>Your Digital Assistant</h2>", unsafe_allow_html=True)
+st.sidebar.markdown("<h3 style='text-align: center; color: black;'>Your Digital Assistant</h3>", unsafe_allow_html=True)
 st.sidebar.write("""
-- "For All Things Dining and Lodging..."
+- For All Things Dining and Lodging.
 """)
 st.sidebar.write("---")
 st.sidebar.write("""
 **Embark on Limitless Adventures - Your AI-Powered Travel, Dining, and Stay Companion Awaits!**
 """)
-st.sidebar.markdown("<h3 style='text-align: center; color: blue;'>Contact</h3>", unsafe_allow_html=True)
+st.sidebar.markdown("<h3 style='text-align: center; color: black;'>Contact Us</h3>", unsafe_allow_html=True)
 st.sidebar.write("""
-- 0976 03 57 66
+- +26 097 603 576 6
 - locastechnology@gmail.com.
 """)
 st.sidebar.write("---")
-st.sidebar.markdown("<h5 style='text-align: center; color: black;'>Copyrights © Quest2Query 2023</h5>", unsafe_allow_html=True)
-st.sidebar.markdown("<h5 style='text-align: center; color: blue;'>Powered By LocasAI</h5>", unsafe_allow_html=True) 
+st.sidebar.markdown("<div style='text-align: center; color: blue;'>Copyrights © Quest2Query 2024</div>", unsafe_allow_html=True)
+st.sidebar.markdown("<div style='text-align: center; color: blue;'>Powered By Locas Technology Limited</div>", unsafe_allow_html=True) 
 
 st.markdown("<h2 style='text-align: center; color: gray;'>Quest2Query</h2>", unsafe_allow_html=True)
 
-for_you, my_explore, about_us, feedback = st.tabs(["For You", "Explorer AI","About Us","Feedback"])
+for_you, my_explore, feedback, about_us  = st.tabs(["For You", "Explore Assistant","Feedback","About Us"])
 
 with feedback:
 
     st.markdown("""
-    <h5>Feedback</h5>
+    <h5 style="color:gray; text-align: center; padding-top: 20px;">Feedback</h5>
     <div>Give us your thoughts on the performance of our AI Assistant, Quest2Query.</div>
     <div>Your feedback helps us improve it</div>
     
@@ -2037,22 +2039,51 @@ with feedback:
     st.write("---")
 
     name = st.text_input("Enter Your Name")
-    comment = st.text_area("Give your comment...", max_chars=100)
+    contact = st.text_input("Enter Your Contact Number")
+    feedback = st.text_area("Give your comment...", max_chars=100)
 
     if st.button("Send Comment"):
 
-        if name and comment:
+        if name and contact and feedback:
 
-            st.write("### Comment Has been sent successfully! Thank you.")
+            conn = snowflake.connector.connect(
+                user=sf_user,
+                password=sf_password,
+                account=sf_account,
+                database=sf_database,
+                schema=sf_schema
+            )
+
+            cursor = conn.cursor()
+                    
+            current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+            query = f"INSERT INTO {feedback_name} (NAME,CONTACT,FEEDBACK,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+            try:
+                cursor.execute(query, (name,contact,feedback,current_time,))
+                conn.commit()
+                st.success("""
+                Comment Sent Successfully!
+                Thank You!
+                """)
+            except Exception as e:
+                st.error(f"Error sending data to Database: {e}")
+            finally:
+                cursor.close()
+                conn.close()
+
 
         else:
 
-            st.write("### Kindly Input both the name and comment field!!!")
+            mytxt = st.chat_message("assistant")
+            mytxt.write("Kindly Fill All the Input fields!!!")
+
 
 with about_us:
 
     st.markdown("""
-    <h5>About Quest2Query</h5>
+    <h5 style="color:gray;padding-top: 20px;text-align: center;">About Quest2Query</h5>
     <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding: 20px; margin: 20px 0px;
     color:black;'>
     At Quest2Query, we are fueled by a passion for travel, culinary delights,
@@ -2091,15 +2122,15 @@ with about_us:
     true essence of exploration.
     </div>
     <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding: 20px; margin: 20px 0px;'>
-    <h5 style='color: #0056b3;'>Welcome to a new era of travel - where adventure knows no bounds, and unforgettable experiences await you. Welcome to Quest2Query</h5>    
+    <p style='color: #0056b3;'>Welcome to a new era of travel - where adventure knows no bounds, and unforgettable experiences await you.</p>    
     </div>
-    <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding: 20px; margin: 20px 0px; color:black;'>
-        <ul style='padding-top: 20px; color:black;'>
-            <h5 style='text-align:center; color: #0056b3;'>Contact Us</h5>
-            <li><i class="fa-solid fa-phone", style="padding-right: 10px"></i>0976035766/0976718998</li>
-            <li><i class="fa-solid fa-envelope" style="padding-right: 10px"></i>locastechnology@gmail.com.</li>
-            <li style='padding-top: 20px;'>Copyrights &copy; Quest2Query 2024</li> 
-            <h5 style='color: #0056b3; text-align:center;'>Powered By Locas AI</h5>
+    <div style='background-color: #ffffff; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); border-radius: 4px; padding-top: 20px; margin: 20px 0px;'>
+        <ul style='padding-top: 0px;'>
+            <h5 style='text-align:center;color: gray;'>Contact Us</h5>
+            <li style="text-align:center; list-style-type: none;"><i class="fa-solid fa-phone", style="padding-right: 10px;"></i>+26 097 603 576 6</li>
+            <li style="text-align:center; list-style-type: none;"><i class="fa-solid fa-envelope" style="padding-right: 10px;text-align:center;"></i>locastechnology@gmail.com.</li>
+            <li style='padding-top: 50px;text-align:center; list-style-type: none; color: #0056b3;'>Copyrights &copy; Quest2Query 2024</li> 
+            <div style='color: #0056b3; text-align:center;'>Powered By Locas Technology Limited</div>
             </ul>
     </div>
     
@@ -2108,7 +2139,7 @@ with about_us:
 with for_you:
 
     
-    st.markdown("<p style='text-align: center; color: gray;'>Explore the services for a specific Lodge/Restaurant.</p>", unsafe_allow_html=True)
+    st.markdown("<h5 style='text-align: center; padding: 10px 0px; color: gray;'>Explore the services for a specific Lodge/Restaurant.</h5>", unsafe_allow_html=True)
 
     menu = st.selectbox("Choose Service", ("Select A Service here",
     "Aunt Josephine Lodge","Bravo Cafe","Chapa Classic Lodge","Flavours Pub & Gill",
@@ -3182,12 +3213,7 @@ with for_you:
                 mytxt.write("Please Enter Your Question....")
 
 
-
-# memory = ConversationBufferMemory(memory_key="chat_history")
-
 with my_explore:
-
-    # st.markdown("<h5 style='text-align: center; color: blue;'>NOTE: Always specify the name of the restaurant or lodge you are asking about.</h5>", unsafe_allow_html=True)
 
     st.markdown('''
     <div>

@@ -18,7 +18,6 @@ from langchain.memory import ConversationBufferMemory
 os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
 
-
 sf_account = st.secrets["sf_account"]
 sf_user = st.secrets["sf_user"]
 sf_password = st.secrets["sf_password"]
@@ -597,7 +596,9 @@ E. We also have Shisha available, all flavours:
 B. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery van \ 
 around livingstone.
-- Make An order by calling us on 0970288859 or 0978 812 068.
+- Delivery line: 0972 90 36 16
+- Delivery fees: starts from K25.
+- Make An order by calling our delivery line.
 
 C. Photo Gallery for Flavours Pubs and Grill Restaurant:
 Below are some photo links to our restaurant and food menu:
@@ -1088,7 +1089,6 @@ def bravo_cafe():
 
         
     items = f"""
-    -  Bravo Restaurant and Cafe is a Restaurant, It is not a lodge.
 
     About Bravo Restaurant and Cafe:
     - Bravo Restaurant and Cafe is a Restaurant located in the city of Livingstone, \ 
@@ -1099,11 +1099,11 @@ def bravo_cafe():
 
     Available Services for Bravo Restaurant and Cafe: 
 
-    A. Bravo Restaurant and Cafe Menu:
-    - We serve the best food with the best ingredients at affordable prices.
-    - check out our food prices or charges below:
+    A. Menu:
 
-    I. Main Course for Bravo Restaurant and Cafe:
+    - Below is our food or restaurant menu:
+
+    I. Main Course:
     - Beef Pies (large): K25
     - Chicken Pies (large): K25
     - Mini Sausage Roll: K21
@@ -1120,7 +1120,7 @@ def bravo_cafe():
     - Bread: K17
     -  Milkshake: 35
 
-    II. Drinks for Bravo Restaurant and Cafe:
+    II. Drinks:
     - Fruticana (500mls): K13
     - Fanta (500mls): K16
     - Sprite (500mls): K16
@@ -1131,7 +1131,7 @@ def bravo_cafe():
     - Mineral Water (750mls): K7
     - Mineral water (1L): K10
 
-    III. Pizza for Bravo Restaurant and Cafe:
+    III. Pizza:
     - Chicken Mushroom: K149.99
     - Macon Chicken BBQ: K135
     - Tikka Chicken: K99
@@ -1144,38 +1144,38 @@ def bravo_cafe():
     - Big Friday Pizza: K78
     - PeriPeri Chicken: K50
 
-    IV. Ice Cream for Bravo Restaurant and Cafe:
+    IV. Ice Cream:
     - Ice Cream Cone: K12
     - Ice cream Cup (large): K25
     - Ice Cream Cup (small): K18
 
-    V. Burgers for Bravo Restaurant and Cafe:
+    V. Burgers:
     - Beef Burger: K39
     - Chicken Burger: K50
 
-    VI. Grills for Bravo Restaurant and Cafe:
+    VI. Grills:
     - T Bone + chips: K95
     - Grilled Piece Chicken: K25
     - Grilled Piece + chips: K45
     - Sharwama special: K39.99
     - Sausage and chips: K60
 
-    VII. Breakfast for Bravo Restaurant and Cafe:
+    VII. Breakfast:
     - English Breakfast: K50
 
-    VIII. Cakes for Bravo Restaurant and Cafe:
+    VIII. Cakes:
     - Cake Slice: K37
     - Birthday cake (large): K350
     - Choco Cake (large): K350
     - Vanilla Cake Slice: K37
 
-    VIX. Platters for Bravo Restaurant and Cafe:
+    VIX. Platters:
     - Beef Platter: K175
     - Bravo Platter: K152
     - Universal Bravo Platter: 322
     - Bravo 4 Grilled wings & Chips: 123
 
-    B. Promotions at Bravo Restaurant and Cafe:
+    B. Promotions:
     * Bravo Restaurant and Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:
     - Tikka/ regular chicken: K80
     * Bravo cafe the double trouble promotion on Tuesday and Thursday for the following:
@@ -1186,9 +1186,9 @@ def bravo_cafe():
     C. Our Deliveries:
     - We offer the best and quickest kind of deliveries using our delivery vans \ 
     around livingstone.
-    - Make An order by calling us on 0771 023 899.
+    - Delivery line: 0771 023 899. 
 
-    D. Photo Gallery for Bravo Restaurant and Cafe:
+    D. Photo Gallery:
     Below are some photos for Bravo Cafe's food:
     - Photo: https://web.facebook.com/photo/?fbid=253920440717429&set=pb.100082984238391.-2207520000.
     - Photo: https://web.facebook.com/photo/?fbid=252277544215052&set=pb.100082984238391.-2207520000.
@@ -1218,8 +1218,6 @@ def bravo_cafe():
 def livingstone_lodge():
 
     items = f"""
-        
-    - Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
 
     About Livingstone Lodge:
 
@@ -1491,7 +1489,7 @@ def chapa_lodge():
     - Phone Number: +260 974656872 or +260 975795030
     - Email address: chapaclassiclodge@zamnet.zm
     - website: https://www.chapaclassiclodge.com
-    - facebook page: https://web.facebook.com/chapaclassiclodge/photos 
+    - facebook page: https://web.facebook.com/chapaclassiclodge 
 
     F. Location:
     - Located: 66 Nehru Way, Town area, Livingstone
@@ -1615,8 +1613,6 @@ def flavours_pub():
 
     items = f"""
 
-    - Flavours Pubs and Grill Restaurant is a Restaurant, It is not a lodge.
-
     About Flavours Pubs and Grill Restaurant:
 
     -Flavours is one of the top Pubs and Grill in Livingstone.
@@ -1631,10 +1627,11 @@ def flavours_pub():
 
     Available Services for Flavours Pubs and Grill Restaurant: 
 
-    A. Flavours Pubs and Grill Restaurant Menu:
-    - We serve the best food with the best ingredients at affordable prices.
+    A. Our Menu:
 
-    I. Hot Beverages for Flavours Pubs and Grill Restaurant:
+    -Below is our food or restaurant menu:
+
+    I. Hot Beverages:
     - Masala Tea: K40
     - Regular Coffee: K30
     - Milo/Hot Chocolate: K40
@@ -1643,14 +1640,14 @@ def flavours_pub():
     - Creamocino: K40
     - Roibos, Five Roses: K30
 
-    II. Breakfast for Flavours Pubs and Grill Restaurant:
+    II. Breakfast:
     - Cafe Breakfast: K105
     - Mega Breakfast: K105
     - Executive Breakfast: K105
     - Farmers Breakfast: K105
     - Sunrise Breakfast: K70
 
-    III. Drinks for Flavours Pubs and Grill Restaurant:
+    III. Drinks:
     - Mineral Water (500mls): K10
     - Fruticana (500mls): K15
     - Bottled Fanta: K10
@@ -1660,7 +1657,7 @@ def flavours_pub():
     - Disposable Fanta (500mls): K15
     - Disposable Coke (500mls): K15
 
-    IV. Traditional for Food Flavours Pubs and Grill Restaurant:
+    IV. Traditional Food:
     - Village Chicken stew: K125
     -Charcoal Grill Fish: K115
     - Goat stew: K95
@@ -1669,26 +1666,26 @@ def flavours_pub():
     - Oxtail: K100
     - Kapenta: K70
 
-    V. Samoosa for Flavours Pubs and Grill Restaurant:
+    V. Samoosa:
     - Chicken samoosa: K60
     - Vegetable samoosa: K55
 
-    VI. Sandwiches for Flavours Pubs and Grill Restaurant:
+    VI. Sandwiches:
     - Chicken and Mayonnaise: K80
     - Tuna Sandwich: K90
 
-    VII. Desserts for Flavours Pubs and Grill Restaurant:
+    VII. Desserts:
     - Milkshake: K55
     - Ice Cream: K40
 
-    VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
+    VIII. Main Course Burgers:
     - Beef Burger: K95
     - Chicken Burger: K90
     - Vegetable Burger: K90
     - Cheese Burger: K100
 
 
-    IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
+    IX. Main Course Meals:
     - Dreamlight T-Bone steak 350g: K140
     - Beef Fillet steak 350g: K135
     - Rump steak 350g: K130
@@ -1696,22 +1693,22 @@ def flavours_pub():
     - Carribean Pork chops: K135
     - Buffalo wings: K105
 
-    X. Sausage for Flavours Pubs and Grill Restaurant:
+    X. Sausage:
     - Boerewars sausage and chips: K85
     - Hungarian sausage and chips: K70
 
-    XI. Platter for Flavours Pubs and Grill Restaurant:
+    XI. Platter:
     - platter for 2: K270
     - Platter for 3: K320
     - Platter for 4: K400
     - Platter for 6: K600
     - Family Platter: K900
 
-    XII. Pasta/Noodles for Flavours Pubs and Grill Restaurant:
+    XII. Pasta/Noodles:
     - Chicken Fried Noodles: K80
     - Beef Fried Noodles: K85
 
-    XIII. Special Pizza for Flavours Pubs and Grill Restaurant:
+    XIII. Special Pizza:
     - Mini Pizza (all flavour): K90
     - Meat Feast: K130
     - Mexican Pizza: K150
@@ -1720,31 +1717,31 @@ def flavours_pub():
     - Vegetable Pizza: K115
     - Hawaiian Chicken Pizza: K115
 
-    XIV. Salads for Flavours Pubs and Grill Restaurant:
+    XIV. Salads:
     - Greek Salad: K55
     - chicken ceaser salad: K80
     - Crocodile strip salad: K105
 
-    XV. Snacks for Flavours Pubs and Grill Restaurant:
+    XV. Snacks:
     - Chicken wing: K70
     - Beef Kebabs: K100
 
-    XVI. Side Orders for Flavours Pubs and Grill Restaurant:
+    XVI. Side Orders:
     - Paper Sauce: K35
     - Potato widges, rice or Nshima: K35
     - Chips or mashed potato: K35
     - Garlic Sauce: K40
     - Butter Sauce: K45
 
-    XVII. Fish for Flavours Pubs and Grill Restaurant:
+    XVII. Fish:
     - Zambezi whole Bream: K110
     - Bream Fillet: K130
 
-    XVIII. Soups and starters for Flavours Pubs and Grill Restaurant:
+    XVIII. Soups and starters:
     - Vegetable/tomato soup: K50
     - Home made mushroom soup: K60
 
-    XIX. Non Vegetable Main Course for Flavours Pubs and Grill Restaurant: 
+    XIX. Non Vegetable Main Course: 
     - Plain Rice: K30
     - Jeera Rice: K60
     - Vegetable Pilau: K40
@@ -1755,15 +1752,15 @@ def flavours_pub():
     - Kadhai Chicken: K150
     - Chicken Tikka Masala: K150
 
-    XX. Naan/Rotis for Flavours Pubs and Grill Restaurant:
+    XX. Naan/Rotis:
     - Butter Naan: K35
     - Garlic Naan: K40
     - Chilli Naan: K35
-    XXI. Wraps menu for Flavours Pub and Grill Restaurant:
+    XXI. Wraps menu:
     - chicken wrap: K90
     - Beef wrap: K95
 
-    XXII. Bar Menu for Flavours Pubs and Grill Restaurant:
+    XXII. Bar Menu:
     A. LAGERS:
     - Mosi: K20
     - Castle: K20
@@ -1809,9 +1806,11 @@ def flavours_pub():
     B. Our Deliveries:
     - We offer the best and quickest kind of deliveries using our delivery van \ 
     around livingstone.
-    - Make An order by calling us on 0970288859 or 0978 812 068.
+    - Delivery line: 0972 90 36 16
+    - Delivery fees: starts from K25.
+    - Make An order by calling our delivery line.
 
-    C. Photo Gallery for Flavours Pubs and Grill Restaurant:
+    C. Photo Gallery:
     Below are some photo links to our restaurant and food menu:
     - Photo link: https://web.facebook.com/photo.php?fbid=759094352896973&set=pb.100063892449844.-2207520000&type=3
     - Photo link: https://web.facebook.com/photo.php?fbid=753602776779464&set=pb.100063892449844.-2207520000&type=3
@@ -1824,9 +1823,9 @@ def flavours_pub():
     - Cell: 0978 812 068.
     - Tel: +260 213 322 356.
     - Email: FlavoursPub&Grill@gmail.com.
-    - Facebook Page: https://web.facebook.com/flavourspubandgrill/photos
+    - Facebook Page: https://web.facebook.com/flavourspubandgrill
 
-    E. Location for Flavours Pubs and Grill Restaurant:
+    E. Location:
     - Located: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
     - Nearby places: Town or Mukuni Park
     - google maps link: https://www.google.com/maps/place/Flavours+Pub+%26+Grill/@-17.8418073,25.8589363,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff0a37d88ae5f:0x1ea901cc2522e27d!8m2!3d-17.8418124!4d25.8615112!16s%2Fg%2F11c4kppd0j?authuser=0&entry=ttu
@@ -2147,8 +2146,10 @@ with for_you:
     "Sweet & Salty Cafe"))
 
 
-    text = st.text_input("Ask about the service you have selected...", max_chars=300)
+    text = st.text_input("Ask about the services- Menus, Plan dates or food recommendations within certain budgets, Photo galleries, contact info, Google maps links etc ",
+    max_chars=300)
 
+    # examples: Services offered? Show me a menu? Room rates? Contact info? recommend food within certain budgets? Plan date meals within certain budgets? or Photo links? Google maps link?
     user_message = f""" {text} """
 
     chat_model = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
@@ -2246,33 +2247,72 @@ with for_you:
 
                 final_response = res.split(delimiter)[-1].strip()
 
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
+                res_word = len(re.findall(r'\w+', final_response))
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
 
-                service = "Chapa Classic Lodge"
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    cursor = conn.cursor()
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()
+                    service = "Sweet & Salty Cafe"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "Chapa Classic Lodge"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
 
             else:
                 mytxt = st.chat_message("assistant")
@@ -2362,33 +2402,72 @@ with for_you:
 
                 final_response = res.split(delimiter)[-1].strip()
 
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
+                res_word = len(re.findall(r'\w+', final_response))
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
 
-                service = "KM Executive Lodge"
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    cursor = conn.cursor()
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()
+                    service = "KM Executive Lodge"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "KM Executive Lodge"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
 
             else:
 
@@ -2478,33 +2557,72 @@ with for_you:
 
                 final_response = res.split(delimiter)[-1].strip()
 
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
+                res_word = len(re.findall(r'\w+', final_response))
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
 
-                service = "Aunt Josephine Lodge"
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    cursor = conn.cursor()
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()
+                    service = "Aunt Josephine Lodge"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "Aunt Josephine Lodge"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
 
             else:
 
@@ -2595,33 +2713,72 @@ with for_you:
 
                 final_response = res.split(delimiter)[-1].strip()
 
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
+                res_word = len(re.findall(r'\w+', final_response))
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
 
-                service = "Pumulani Lodge"
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    cursor = conn.cursor()
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()                
+                    service = "Pumulani Lodge"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "Pumulani Lodge"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()                
 
             else:
 
@@ -2637,10 +2794,10 @@ with for_you:
     {delimiter} characters.
 
     step 1: {delimiter}: First decide whether a user is asking \ 
-    a question about anything related to restaurants or cafes, menus, \ 
-    dinners, party planning, travel, restaurant or accommodation suggestions \ 
-    recommendations on cafes, eating places, restaurants, travel guide, \ 
-    or just any of the above.
+    a question about anything related to food menus, restaurant menus, food prices, \ 
+    food planning or party planning, breakfast or lunch or dinner meals, food recommendations,\ 
+    or suggestions, deliveries, contact info, location  etc 
+
 
     step 2: {delimiter}: If the user is asking a question related to step 1, \ 
     check the services below and answer only based on the available services:
@@ -2712,33 +2869,72 @@ with for_you:
 
                 final_response = res.split(delimiter)[-1].strip()
 
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
+                res_word = len(re.findall(r'\w+', final_response))
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
 
-                service = "Sweet & Salty Cafe"
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    cursor = conn.cursor()
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()
+                    service = "Sweet & Salty Cafe"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "Sweet & Salty Cafe"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
 
             else:
 
@@ -2830,33 +3026,73 @@ with for_you:
 
                 final_response = res.split(delimiter)[-1].strip()
 
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
+                res_word = len(re.findall(r'\w+', final_response))
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
 
-                service = "Radisson Blu Hotel"
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    cursor = conn.cursor()
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()
+                    service = "Radisson Blu Hotel"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "Radisson Blu Hotel"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
 
             else:
 
@@ -2871,10 +3107,9 @@ with for_you:
     {delimiter} characters.
 
     step 1: {delimiter}: First decide whether a user is asking \ 
-    a question about anything related to restaurants or cafes, menus, \ 
-    dinners, party planning, travel, restaurant or accommodation suggestions \ 
-    recommendations on cafes, eating places, restaurants, travel guide, \ 
-    or just any of the above.
+    a question about anything related to food menus, restaurant menus, food prices, \ 
+    food planning or party planning, breakfast or lunch or dinner meals, food recommendations,\ 
+    or suggestions, deliveries, contact info, location  etc 
 
     step 2: {delimiter}: If the user is asking a question related to step 1, \ 
     check the services below and answer only based on the available services:
@@ -2946,33 +3181,72 @@ with for_you:
 
                 final_response = res.split(delimiter)[-1].strip()
 
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
+                res_word = len(re.findall(r'\w+', final_response))
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
 
-                service = "Bravo Cafe"
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    cursor = conn.cursor()
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()
+                    service = "Bravo Cafe"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "Bravo Cafe"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
 
             else:
 
@@ -2987,10 +3261,10 @@ with for_you:
     {delimiter} characters.
 
     step 1: {delimiter}: First decide whether a user is asking \ 
-    a question about anything related to restaurants or cafes, menus, \ 
-    dinners, party planning, travel, restaurant or accommodation suggestions \ 
-    recommendations on cafes, eating places, restaurants, travel guide, \ 
-    or just any of the above.
+    a question about anything related to food menus, restaurant menus, food prices, \ 
+    food planning or party planning, breakfast or lunch or dinner meals, food recommendations,\ 
+    or suggestions, deliveries, contact info, location  etc  
+
 
     step 2: {delimiter}: If the user is asking a question related to step 1, \ 
     check the services below and answer only based on the available services:
@@ -3061,33 +3335,73 @@ with for_you:
                 res = flavours_response.content
 
                 final_response = res.split(delimiter)[-1].strip()
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                res_word = len(re.findall(r'\w+', final_response))
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
 
-                service = "Flavours Pub & Gill"
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()
+                    cursor = conn.cursor()
+
+                    service = "Flavours Pub & Grill"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "Flavours Pub & Gill"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
 
             else:
 
@@ -3178,34 +3492,73 @@ with for_you:
 
                 final_response = res.split(delimiter)[-1].strip()
 
-                mytxt = st.chat_message("assistant")
-                mytxt.write(final_response)
+                res_word = len(re.findall(r'\w+', final_response))
+
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
+
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
+
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
+
+                    cursor = conn.cursor()
+
+                    service = "Livingstone Lodge"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
 
 
-                conn = snowflake.connector.connect(
-                user=sf_user,
-                password=sf_password,
-                account=sf_account,
-                database=sf_database,
-                schema=sf_schema
-                )
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
 
-                cursor = conn.cursor()
-                    
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
 
-                service = "Livingstone Lodge"
+                    service = "Livingstone Lodge"
 
-                query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
 
-                try:
-                    cursor.execute(query, (service,text,final_response,current_time,))
-                    conn.commit()
-                except Exception as e:
-                    st.error(f"Error sending data to Database: {e}")
-                finally:
-                    cursor.close()
-                    conn.close()
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
 
             else:
 

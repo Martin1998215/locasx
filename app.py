@@ -423,20 +423,20 @@ A. Flavours Pubs and Grill Restaurant Menu:
 - We serve the best food with the best ingredients at affordable prices.
 
 I. Hot Beverages for Flavours Pubs and Grill Restaurant:
-- Masala Tea: K40
-- Regular Coffee: K30
-- Milo/Hot Chocolate: K40
-- Cappucino: K40
-- Cafe Latte: K40
-- Creamocino: K40
-- Roibos, Five Roses: K30
+- Masala Tea: K55
+- Regular Coffee: K35
+- Milo/Hot Chocolate: K45
+- Cappucino: K50
+- Cafe Latte: K50
+- Creamocino: K50
+- Roibos, Five Roses: K35
 
 II. Breakfast for Flavours Pubs and Grill Restaurant:
-- Cafe Breakfast: K105
-- Mega Breakfast: K105
-- Executive Breakfast: K105
-- Farmers Breakfast: K105
-- Sunrise Breakfast: K70
+- Cafe Breakfast: K120
+- Mega Breakfast: K120
+- Executive Breakfast: K120
+- Farmers Breakfast: K120
+- Sunrise Breakfast: K90
 
 III. Drinks for Flavours Pubs and Grill Restaurant:
 - Mineral Water (500mls): K10
@@ -449,72 +449,81 @@ III. Drinks for Flavours Pubs and Grill Restaurant:
 - Disposable Coke (500mls): K15
 
 IV. Traditional for Food Flavours Pubs and Grill Restaurant:
-- Village Chicken stew: K125
--Charcoal Grill Fish: K115
-- Goat stew: K95
-- Beef shew: K85
-- Game meat: K140
-- Oxtail: K100
-- Kapenta: K70
+- Village Chicken stew: K135
+-Charcoal Grill Fish: K125
+- Goat stew: K105
+- Beef shew: K95
+- Game meat: K150
+- Oxtail: K110
+- Kapenta: K80
 
 V. Samoosa for Flavours Pubs and Grill Restaurant:
-- Chicken samoosa: K60
-- Vegetable samoosa: K55
+- Chicken samoosa: K65
+- Vegetable samoosa: K60
 
 VI. Sandwiches for Flavours Pubs and Grill Restaurant:
-- Chicken and Mayonnaise: K80
-- Tuna Sandwich: K90
+- Chicken and Mayonnaise: K95
+- Tuna Sandwich: K100
 
 VII. Desserts for Flavours Pubs and Grill Restaurant:
-- Milkshake: K55
-- Ice Cream: K40
+- Milkshake: K75
+- Ice Cream: K45
 
 VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
-- Beef Burger: K95
-- Chicken Burger: K90
-- Vegetable Burger: K90
-- Cheese Burger: K100
+- Beef Burger: K105
+- Chicken Burger: K105
+- Vegetable Burger: K100
+- Cheese Burger: K110
 
 
 IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
-- Dreamlight T-Bone steak 350g: K140
-- Beef Fillet steak 350g: K135
-- Rump steak 350g: K130
+- Dreamlight T-Bone steak 350g: K150
+- Beef Fillet steak 350g: K145
+- Rump steak 350g: K140
 - Lamb chops 3PCs: K145
-- Carribean Pork chops: K135
-- Buffalo wings: K105
+- Carribean Pork chops: K145
+- Buffalo wings: K115
 
 X. Sausage for Flavours Pubs and Grill Restaurant:
-- Boerewars sausage and chips: K85
-- Hungarian sausage and chips: K70
+- Boerewars sausage and chips: K95
+- Hungarian sausage and chips: K80
 
 XI. Platter for Flavours Pubs and Grill Restaurant:
-- Platter for 3: K320
-- Platter for 4: K400
-- Platter for 6: K600
-- Family Platter: K900
+i) Platter for 2: K280.
+ii) Platter for 3: K330
+- Platter for 3 has the following: 4 slices pizza, 4 samoosas, 4 cocktail sausages, 8 onion rings, 
+4 drumsticks or wings, green salads, 4 pieces Hungarian sausages, chips
+iii) Platter for 4: K410
+- Platter for 4 has the following: 5 slices pizza, 5 samoosas, 5 cocktail sausages, 12 onion rings, 
+5 drumsticks or wings, green salads, 5 pieces Hungarian sausages, chips
+iv) Platter for 6: K610
+- Platter for 6 has the following: 7 slices pizza, 7 samoosas, 7 cocktail sausages, 15 onion rings, 
+7 drumsticks or wings, green salads, 7 pieces Hungarian sausages, chips
+v) Family Platter: K910
+- Family Platter has the following: Potato wedges, 1 large pizza, 12 samoosas, small chicken, beef kababes,
+18 onion rings, green salads, 12 pieces Hungarian sausages
 
 XII. Pasta/Noodles for Flavours Pubs and Grill Restaurant:
-- Chicken Fried Noodles: K80
-- Beef Fried Noodles: K85
+- Chicken Fried Noodles: K95
+- Beef Fried Noodles: K100
 
 XIII. Special Pizza for Flavours Pubs and Grill Restaurant:
-- Mini Pizza (all flavour): K90
-- Meat Feast: K130
-- Mexican Pizza: K150
-- Chicken Tikka: K150
-- Chicken Mushroom: K125
-- Vegetable Pizza: K115
-- Hawaiian Chicken Pizza: K115
+- Mini Pizza (all flavour): K95
+- Meat Feast: K140
+- Mexican Pizza: K160
+- Chicken Tikka: K160
+- Chicken Mushroom: K135
+- Vegetable Pizza: K125
+- Hawaiian Chicken Pizza: K125
 
 XIV. Salads for Flavours Pubs and Grill Restaurant:
-- Greek Salad: K55
-- chicken ceaser salad: K80
-- Crocodile strip salad: K105
+- Greek Salad: K60
+- chicken ceaser salad: K95
+- Crocodile strip salad: K115
 
 XV. Snacks for Flavours Pubs and Grill Restaurant:
-- Chicken wing: K70
-- Beef Kebabs: K100
+- Chicken wing: K80
+- Beef Kebabs: K110
 
 XVI. Side Orders for Flavours Pubs and Grill Restaurant:
 - Paper Sauce: K35
@@ -524,31 +533,30 @@ XVI. Side Orders for Flavours Pubs and Grill Restaurant:
 - Butter Sauce: K45
 
 XVII. Fish for Flavours Pubs and Grill Restaurant:
-- Zambezi whole Bream: K110
-- Bream Fillet: K130
+- Zambezi whole Bream: K140
+- Bream Fillet: K150
 
 XVIII. Soups and starters for Flavours Pubs and Grill Restaurant:
-- Vegetable/tomato soup: K50
+- Vegetable/tomato soup: K55
 - Home made mushroom soup: K60
 
 XIX. Non Vegetable Main Course for Flavours Pubs and Grill Restaurant: 
-- Plain Rice: K30
-- Jeera Rice: K60
-- Vegetable Pilau: K40
-- Egg Fried Rice: K60
-- Vegetable Biry Ani: K100
-- Chicken Biry Ani: K115
-- Butter Chicken: K150
-- Kadhai Chicken: K150
-- Chicken Tikka Masala: K150
+- Plain Rice: K75
+- Jeera Rice: K80
+- Vegetable Pilau: K85
+- Egg Fried Rice: K120
+- Vegetable Biry Ani: K35
+- Chicken Biry Ani: -
+- Butter Chicken: K160
+- Kadhai Chicken: K160
+- Chicken Tikka Masala: K160
 
-XX. Naan/Rotis for Flavours Pubs and Grill Restaurant:
-- Butter Naan: K35
-- Garlic Naan: K40
-- Chilli Naan: K35
+XX. Chef's Special for Flavours Pubs and Grill Restaurant:
+- Mixed Grill: K220
+
 XXI. Wraps menu for Flavours Pub and Grill Restaurant:
-- chicken wrap: K90
-- Beef wrap: K95
+- chicken wrap: K95
+- Beef wrap: K100
 
 XXII. Bar Menu for Flavours Pubs and Grill Restaurant:
 A. LAGERS:
@@ -1225,43 +1233,43 @@ def livingstone_lodge():
     a VIP deluxe suite and conferencing facility accommodating about 80 people. \ 
     - Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
 
-    Available services for Livingstone Lodge:
-
+    Available services for Livingstone Lodge:    
     A. Rooms or Accommodation:
     All our rooms are self contained with Dstv, free Wi Fi and \ 
     a continental breakfast. it has a total of 11 Self contained rooms. \ 
-
-    - Executive Double: K350
-    - Executive Twin: K400
-    - Standard Twin: K370
+    
+    - Executive Double: K400
+    - Executive Twin: K450
+    - Standard Twin: K430
     - Deluxe Suite: K1,000
 
-
+    Noted: Please note that we dont have family rooms, only Deluxe suits.
+    
     B. Conference Room:
-
+    
     - Conferences and meetings:  
     - Conferencing, meetings and seminars for up to 80 participants. \ 
     We cater for conferences, seminars and workshops for up to 80 \ 
     people  with a large conference halls and meeting rooms. \ 
     - Note: our conference facilities have WIFI included.
     - Below are the prices or charges of our conference room:
-    i. Full conference package per person (with stationary) per person: K340
-    ii. Full conference package per person (without stationary): K286
-    iii. Half day conference package: K250
+    i. Full conference package per person (with stationary) per person: K390
+    ii. Full conference package per person (without stationary): K340
+    iii. Half day conference package: K750
     iv. Conference venue only (50 pax max): K2500
     v. Outside Venue: K2000
     vi. Venue for worshops: K1500
-
+    
     C. Restaurant:
     we have food and beverages. below is a list of our menu:
-    - Tea and snack person: K65
-    - Lunch or Dinner (Buffet) with choice of starter or desert: K130
-    - Lunch or Dinner (Buffet) Complete: K180
-    - Cocktail snacks: K90
-    - Full English Breakfast: K60
+    - Tea and snack person: K80
+    - Lunch or Dinner (Buffet) with choice of starter or desert: K150
+    - Lunch or Dinner (Buffet) Complete: K200
+    - Cocktail snacks: K100
+    - Full English Breakfast: K80
     - Soft Drinks (300mls): K10
-    - Mineral water (500mls): K8
-
+    - Mineral water (500mls): K10
+    
     D. Bar: 
     - our cocktail Bar offers some drinks and different kinds of beers.
     I. Beer prices:
@@ -1612,9 +1620,8 @@ def sweet_salt_cafe():
 def flavours_pub():
 
     items = f"""
-
+    
     About Flavours Pubs and Grill Restaurant:
-
     -Flavours is one of the top Pubs and Grill in Livingstone.
     - It is located right in the heart of the tourist capital \ 
     of Zambia along Mosi O Tunya road. It is not a lodge.
@@ -1623,31 +1630,31 @@ def flavours_pub():
     - We also make the quickiest deliveries anywhere around Livingstone.
     - We have enough space to accomodate many people at our restaurant for both \ 
     open space and shelter space. 
-    - We also have a large car parking space to ensure the safety of your car. 
-
+    - We also have a large car parking space to ensure the safety of your car.
+    - We are opening from 07:00hrs to 22:00hrs.
+     
     Available Services for Flavours Pubs and Grill Restaurant: 
-
-    A. Our Menu:
-
-    -Below is our food or restaurant menu:
-
-    I. Hot Beverages:
-    - Masala Tea: K40
-    - Regular Coffee: K30
-    - Milo/Hot Chocolate: K40
-    - Cappucino: K40
-    - Cafe Latte: K40
-    - Creamocino: K40
-    - Roibos, Five Roses: K30
-
-    II. Breakfast:
-    - Cafe Breakfast: K105
-    - Mega Breakfast: K105
-    - Executive Breakfast: K105
-    - Farmers Breakfast: K105
-    - Sunrise Breakfast: K70
-
-    III. Drinks:
+     
+    A. Flavours Pubs and Grill Restaurant Menu:
+    - We serve the best food with the best ingredients at affordable prices.
+     
+    I. Hot Beverages for Flavours Pubs and Grill Restaurant:
+    - Masala Tea: K55
+    - Regular Coffee: K35
+    - Milo/Hot Chocolate: K45
+    - Cappucino: K50
+    - Cafe Latte: K50
+    - Creamocino: K50
+    - Roibos, Five Roses: K35
+     
+    II. Breakfast for Flavours Pubs and Grill Restaurant:
+    - Cafe Breakfast: K120
+    - Mega Breakfast: K120
+    - Executive Breakfast: K120
+    - Farmers Breakfast: K120
+    - Sunrise Breakfast: K90
+     
+    III. Drinks for Flavours Pubs and Grill Restaurant:
     - Mineral Water (500mls): K10
     - Fruticana (500mls): K15
     - Bottled Fanta: K10
@@ -1656,111 +1663,118 @@ def flavours_pub():
     - Bottled Merinda: K10
     - Disposable Fanta (500mls): K15
     - Disposable Coke (500mls): K15
-
-    IV. Traditional Food:
-    - Village Chicken stew: K125
-    -Charcoal Grill Fish: K115
-    - Goat stew: K95
-    - Beef shew: K85
-    - Game meat: K140
-    - Oxtail: K100
-    - Kapenta: K70
-
-    V. Samoosa:
-    - Chicken samoosa: K60
-    - Vegetable samoosa: K55
-
-    VI. Sandwiches:
-    - Chicken and Mayonnaise: K80
-    - Tuna Sandwich: K90
-
-    VII. Desserts:
-    - Milkshake: K55
-    - Ice Cream: K40
-
-    VIII. Main Course Burgers:
-    - Beef Burger: K95
-    - Chicken Burger: K90
-    - Vegetable Burger: K90
-    - Cheese Burger: K100
-
-
-    IX. Main Course Meals:
-    - Dreamlight T-Bone steak 350g: K140
-    - Beef Fillet steak 350g: K135
-    - Rump steak 350g: K130
+     
+    IV. Traditional for Food Flavours Pubs and Grill Restaurant:
+    - Village Chicken stew: K135
+    -Charcoal Grill Fish: K125
+    - Goat stew: K105
+    - Beef shew: K95
+    - Game meat: K150
+    - Oxtail: K110
+    - Kapenta: K80
+     
+    V. Samoosa for Flavours Pubs and Grill Restaurant:
+    - Chicken samoosa: K65
+    - Vegetable samoosa: K60
+     
+    VI. Sandwiches for Flavours Pubs and Grill Restaurant:
+    - Chicken and Mayonnaise: K95
+    - Tuna Sandwich: K100
+     
+    VII. Desserts for Flavours Pubs and Grill Restaurant:
+    - Milkshake: K75
+    - Ice Cream: K45
+     
+    VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
+    - Beef Burger: K105
+    - Chicken Burger: K105
+    - Vegetable Burger: K100
+    - Cheese Burger: K110
+     
+     
+    IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
+    - Dreamlight T-Bone steak 350g: K150
+    - Beef Fillet steak 350g: K145
+    - Rump steak 350g: K140
     - Lamb chops 3PCs: K145
-    - Carribean Pork chops: K135
-    - Buffalo wings: K105
-
-    X. Sausage:
-    - Boerewars sausage and chips: K85
-    - Hungarian sausage and chips: K70
-
-    XI. Platter:
-    - platter for 2: K270
-    - Platter for 3: K320
-    - Platter for 4: K400
-    - Platter for 6: K600
-    - Family Platter: K900
-
-    XII. Pasta/Noodles:
-    - Chicken Fried Noodles: K80
-    - Beef Fried Noodles: K85
-
-    XIII. Special Pizza:
-    - Mini Pizza (all flavour): K90
-    - Meat Feast: K130
-    - Mexican Pizza: K150
-    - Chicken Tikka: K150
-    - Chicken Mushroom: K125
-    - Vegetable Pizza: K115
-    - Hawaiian Chicken Pizza: K115
-
-    XIV. Salads:
-    - Greek Salad: K55
-    - chicken ceaser salad: K80
-    - Crocodile strip salad: K105
-
-    XV. Snacks:
-    - Chicken wing: K70
-    - Beef Kebabs: K100
-
-    XVI. Side Orders:
+    - Carribean Pork chops: K145
+    - Buffalo wings: K115
+     
+    X. Sausage for Flavours Pubs and Grill Restaurant:
+    - Boerewars sausage and chips: K95
+    - Hungarian sausage and chips: K80
+     
+    XI. Platter for Flavours Pubs and Grill Restaurant:
+    i) Platter for 2: K280.
+    ii) Platter for 3: K330
+    - Platter for 3 has the following: 4 slices pizza, 4 samoosas, 4 cocktail sausages, 8 onion rings, 
+    4 drumsticks or wings, green salads, 4 pieces Hungarian sausages, chips
+    iii) Platter for 4: K410
+    - Platter for 4 has the following: 5 slices pizza, 5 samoosas, 5 cocktail sausages, 12 onion rings, 
+    5 drumsticks or wings, green salads, 5 pieces Hungarian sausages, chips
+    iv) Platter for 6: K610
+    - Platter for 6 has the following: 7 slices pizza, 7 samoosas, 7 cocktail sausages, 15 onion rings, 
+    7 drumsticks or wings, green salads, 7 pieces Hungarian sausages, chips
+    v) Family Platter: K910
+    - Family Platter has the following: Potato wedges, 1 large pizza, 12 samoosas, small chicken, beef kababes,
+    18 onion rings, green salads, 12 pieces Hungarian sausages
+     
+    XII. Pasta/Noodles for Flavours Pubs and Grill Restaurant:
+    - Chicken Fried Noodles: K95
+    - Beef Fried Noodles: K100
+     
+    XIII. Special Pizza for Flavours Pubs and Grill Restaurant:
+    - Mini Pizza (all flavour): K95
+    - Meat Feast: K140
+    - Mexican Pizza: K160
+    - Chicken Tikka: K160
+    - Chicken Mushroom: K135
+    - Vegetable Pizza: K125
+    - Hawaiian Chicken Pizza: K125
+     
+    XIV. Salads for Flavours Pubs and Grill Restaurant:
+    - Greek Salad: K60
+    - chicken ceaser salad: K95
+    - Crocodile strip salad: K115
+     
+    XV. Snacks for Flavours Pubs and Grill Restaurant:
+    - Chicken wing: K80
+    - Beef Kebabs: K110
+     
+    XVI. Side Orders for Flavours Pubs and Grill Restaurant:
     - Paper Sauce: K35
     - Potato widges, rice or Nshima: K35
     - Chips or mashed potato: K35
     - Garlic Sauce: K40
     - Butter Sauce: K45
-
-    XVII. Fish:
-    - Zambezi whole Bream: K110
-    - Bream Fillet: K130
-
-    XVIII. Soups and starters:
-    - Vegetable/tomato soup: K50
+     
+    XVII. Fish for Flavours Pubs and Grill Restaurant:
+    - Zambezi whole Bream: K140
+    - Bream Fillet: K150
+     
+    XVIII. Soups and starters for Flavours Pubs and Grill Restaurant:
+    - Vegetable/tomato soup: K55
     - Home made mushroom soup: K60
-
-    XIX. Non Vegetable Main Course: 
-    - Plain Rice: K30
-    - Jeera Rice: K60
-    - Vegetable Pilau: K40
-    - Egg Fried Rice: K60
-    - Vegetable Biry Ani: K100
-    - Chicken Biry Ani: K115
-    - Butter Chicken: K150
-    - Kadhai Chicken: K150
-    - Chicken Tikka Masala: K150
-
-    XX. Naan/Rotis:
-    - Butter Naan: K35
-    - Garlic Naan: K40
-    - Chilli Naan: K35
-    XXI. Wraps menu:
-    - chicken wrap: K90
-    - Beef wrap: K95
-
-    XXII. Bar Menu:
+     
+    XIX. Non Vegetable Main Course for Flavours Pubs and Grill Restaurant: 
+    - Plain Rice: K75
+    - Jeera Rice: K80
+    - Vegetable Pilau: K85
+    - Egg Fried Rice: K120
+    - Vegetable Biry Ani: K35
+    - Chicken Biry Ani: -
+    - Butter Chicken: K160
+    - Kadhai Chicken: K160
+    - Chicken Tikka Masala: K160
+     
+    XX. Chef's Special for Flavours Pubs and Grill Restaurant:
+    - Mixed Grill: K220
+     
+    XXI. Wraps menu for Flavours Pub and Grill Restaurant:
+    - chicken wrap: K95
+    - Beef wrap: K100
+     
+    XXII. Bar Menu for Flavours Pubs and Grill Restaurant:
     A. LAGERS:
     - Mosi: K20
     - Castle: K20
@@ -1802,34 +1816,33 @@ def flavours_pub():
     - Wellingtone: K40
     E. We also have Shisha available, all flavours:
     - K100
-
+     
     B. Our Deliveries:
     - We offer the best and quickest kind of deliveries using our delivery van \ 
     around livingstone.
     - Delivery line: 0972 90 36 16
     - Delivery fees: starts from K25.
     - Make An order by calling our delivery line.
-
-    C. Photo Gallery:
+     
+   C. Photo Gallery for Flavours Pubs and Grill Restaurant:
     Below are some photo links to our restaurant and food menu:
     - Photo link: https://web.facebook.com/photo.php?fbid=759094352896973&set=pb.100063892449844.-2207520000&type=3
     - Photo link: https://web.facebook.com/photo.php?fbid=753602776779464&set=pb.100063892449844.-2207520000&type=3
     - Photo link: https://web.facebook.com/photo.php?fbid=752840906855651&set=pb.100063892449844.-2207520000&type=3
     - Photo link: https://web.facebook.com/photo.php?fbid=752841046855637&set=pb.100063892449844.-2207520000&type=3
-
+     
     For More photos, check our Facebook Page: https://web.facebook.com/flavourspubandgrill/photos
-
+     
     D. Contact Us:
     - Cell: 0978 812 068.
     - Tel: +260 213 322 356.
     - Email: FlavoursPub&Grill@gmail.com.
-    - Facebook Page: https://web.facebook.com/flavourspubandgrill
-
-    E. Location:
+    - Facebook Page: https://web.facebook.com/flavourspubandgrill/photos
+     
+    E. Location for Flavours Pubs and Grill Restaurant:
     - Located: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
     - Nearby places: Town or Mukuni Park
     - google maps link: https://www.google.com/maps/place/Flavours+Pub+%26+Grill/@-17.8418073,25.8589363,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff0a37d88ae5f:0x1ea901cc2522e27d!8m2!3d-17.8418124!4d25.8615112!16s%2Fg%2F11c4kppd0j?authuser=0&entry=ttu
-
     """
 
     return items

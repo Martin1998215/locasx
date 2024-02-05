@@ -2159,7 +2159,7 @@ with for_you:
     "Sweet & Salty Cafe"))
 
 
-    text = st.text_input("Ask about the services- Menus [menu for platter or pizza or beverages...], Plan dates or food recommendations within certain budgets, room rates, Photo galleries, contact info etc ",
+    text = st.text_input("Search for specific menu items for the service [Prices for Pizza, Platters, Burgers, Beverages and more] Plan dates or food recommendations within certain budgets, room rates, Photo galleries, contact info etc ",
     max_chars=300)
 
     # examples: Services offered? Show me a menu? Room rates? Contact info? recommend food within certain budgets? Plan date meals within certain budgets? or Photo links? Google maps link?

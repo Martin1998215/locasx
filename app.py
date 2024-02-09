@@ -15,8 +15,8 @@ from langchain.chains import ConversationChain, LLMChain
 from langchain.schema import BaseOutputParser
 from langchain.memory import ConversationBufferMemory
 
-os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
+os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
 sf_account = st.secrets["sf_account"]
 sf_user = st.secrets["sf_user"]
@@ -423,20 +423,20 @@ A. Flavours Pubs and Grill Restaurant Menu:
 - We serve the best food with the best ingredients at affordable prices.
 
 I. Hot Beverages for Flavours Pubs and Grill Restaurant:
-- Masala Tea: K55
-- Regular Coffee: K35
-- Milo/Hot Chocolate: K45
-- Cappucino: K50
-- Cafe Latte: K50
-- Creamocino: K50
-- Roibos, Five Roses: K35
+- Masala Tea: K40
+- Regular Coffee: K30
+- Milo/Hot Chocolate: K40
+- Cappucino: K40
+- Cafe Latte: K40
+- Creamocino: K40
+- Roibos, Five Roses: K30
 
 II. Breakfast for Flavours Pubs and Grill Restaurant:
-- Cafe Breakfast: K120
-- Mega Breakfast: K120
-- Executive Breakfast: K120
-- Farmers Breakfast: K120
-- Sunrise Breakfast: K90
+- Cafe Breakfast: K105
+- Mega Breakfast: K105
+- Executive Breakfast: K105
+- Farmers Breakfast: K105
+- Sunrise Breakfast: K70
 
 III. Drinks for Flavours Pubs and Grill Restaurant:
 - Mineral Water (500mls): K10
@@ -449,81 +449,72 @@ III. Drinks for Flavours Pubs and Grill Restaurant:
 - Disposable Coke (500mls): K15
 
 IV. Traditional for Food Flavours Pubs and Grill Restaurant:
-- Village Chicken stew: K135
--Charcoal Grill Fish: K125
-- Goat stew: K105
-- Beef shew: K95
-- Game meat: K150
-- Oxtail: K110
-- Kapenta: K80
+- Village Chicken stew: K125
+-Charcoal Grill Fish: K115
+- Goat stew: K95
+- Beef shew: K85
+- Game meat: K140
+- Oxtail: K100
+- Kapenta: K70
 
 V. Samoosa for Flavours Pubs and Grill Restaurant:
-- Chicken samoosa: K65
-- Vegetable samoosa: K60
+- Chicken samoosa: K60
+- Vegetable samoosa: K55
 
 VI. Sandwiches for Flavours Pubs and Grill Restaurant:
-- Chicken and Mayonnaise: K95
-- Tuna Sandwich: K100
+- Chicken and Mayonnaise: K80
+- Tuna Sandwich: K90
 
 VII. Desserts for Flavours Pubs and Grill Restaurant:
-- Milkshake: K75
-- Ice Cream: K45
+- Milkshake: K55
+- Ice Cream: K40
 
 VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
-- Beef Burger: K105
-- Chicken Burger: K105
-- Vegetable Burger: K100
-- Cheese Burger: K110
+- Beef Burger: K95
+- Chicken Burger: K90
+- Vegetable Burger: K90
+- Cheese Burger: K100
 
 
 IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
-- Dreamlight T-Bone steak 350g: K150
-- Beef Fillet steak 350g: K145
-- Rump steak 350g: K140
+- Dreamlight T-Bone steak 350g: K140
+- Beef Fillet steak 350g: K135
+- Rump steak 350g: K130
 - Lamb chops 3PCs: K145
-- Carribean Pork chops: K145
-- Buffalo wings: K115
+- Carribean Pork chops: K135
+- Buffalo wings: K105
 
 X. Sausage for Flavours Pubs and Grill Restaurant:
-- Boerewars sausage and chips: K95
-- Hungarian sausage and chips: K80
+- Boerewars sausage and chips: K85
+- Hungarian sausage and chips: K70
 
 XI. Platter for Flavours Pubs and Grill Restaurant:
-i) Platter for 2: K280.
-ii) Platter for 3: K330
-- Platter for 3 has the following: 4 slices pizza, 4 samoosas, 4 cocktail sausages, 8 onion rings, 
-4 drumsticks or wings, green salads, 4 pieces Hungarian sausages, chips
-iii) Platter for 4: K410
-- Platter for 4 has the following: 5 slices pizza, 5 samoosas, 5 cocktail sausages, 12 onion rings, 
-5 drumsticks or wings, green salads, 5 pieces Hungarian sausages, chips
-iv) Platter for 6: K610
-- Platter for 6 has the following: 7 slices pizza, 7 samoosas, 7 cocktail sausages, 15 onion rings, 
-7 drumsticks or wings, green salads, 7 pieces Hungarian sausages, chips
-v) Family Platter: K910
-- Family Platter has the following: Potato wedges, 1 large pizza, 12 samoosas, small chicken, beef kababes,
-18 onion rings, green salads, 12 pieces Hungarian sausages
+- Platter for 3: K320
+- Platter for 4: K400
+- Platter for 6: K600
+- Family Platter: K900
 
 XII. Pasta/Noodles for Flavours Pubs and Grill Restaurant:
-- Chicken Fried Noodles: K95
-- Beef Fried Noodles: K100
+- Chicken Fried Noodles: K80
+- Beef Fried Noodles: K85
 
 XIII. Special Pizza for Flavours Pubs and Grill Restaurant:
-- Mini Pizza (all flavour): K95
-- Meat Feast: K140
-- Mexican Pizza: K160
-- Chicken Tikka: K160
-- Chicken Mushroom: K135
-- Vegetable Pizza: K125
-- Hawaiian Chicken Pizza: K125
+- Mini Pizza (all flavour): K90
+- Meat Feast: K130
+- Mexican Pizza: K150
+- Chicken Tikka: K150
+- Chicken Mushroom: K125
+- Vegetable Pizza: K115
+- Hawaiian Chicken Pizza: K115
 
 XIV. Salads for Flavours Pubs and Grill Restaurant:
-- Greek Salad: K60
-- chicken ceaser salad: K95
-- Crocodile strip salad: K115
+- Greek Salad: K55
+- chicken ceaser salad: K80
+- Crocodile strip salad: K105
 
 XV. Snacks for Flavours Pubs and Grill Restaurant:
-- Chicken wing: K80
-- Beef Kebabs: K110
+- Chicken wing: K70
+- Beef Kebabs: K100
 
 XVI. Side Orders for Flavours Pubs and Grill Restaurant:
 - Paper Sauce: K35
@@ -533,30 +524,31 @@ XVI. Side Orders for Flavours Pubs and Grill Restaurant:
 - Butter Sauce: K45
 
 XVII. Fish for Flavours Pubs and Grill Restaurant:
-- Zambezi whole Bream: K140
-- Bream Fillet: K150
+- Zambezi whole Bream: K110
+- Bream Fillet: K130
 
 XVIII. Soups and starters for Flavours Pubs and Grill Restaurant:
-- Vegetable/tomato soup: K55
+- Vegetable/tomato soup: K50
 - Home made mushroom soup: K60
 
 XIX. Non Vegetable Main Course for Flavours Pubs and Grill Restaurant: 
-- Plain Rice: K75
-- Jeera Rice: K80
-- Vegetable Pilau: K85
-- Egg Fried Rice: K120
-- Vegetable Biry Ani: K35
-- Chicken Biry Ani: -
-- Butter Chicken: K160
-- Kadhai Chicken: K160
-- Chicken Tikka Masala: K160
+- Plain Rice: K30
+- Jeera Rice: K60
+- Vegetable Pilau: K40
+- Egg Fried Rice: K60
+- Vegetable Biry Ani: K100
+- Chicken Biry Ani: K115
+- Butter Chicken: K150
+- Kadhai Chicken: K150
+- Chicken Tikka Masala: K150
 
-XX. Chef's Special for Flavours Pubs and Grill Restaurant:
-- Mixed Grill: K220
-
+XX. Naan/Rotis for Flavours Pubs and Grill Restaurant:
+- Butter Naan: K35
+- Garlic Naan: K40
+- Chilli Naan: K35
 XXI. Wraps menu for Flavours Pub and Grill Restaurant:
-- chicken wrap: K95
-- Beef wrap: K100
+- chicken wrap: K90
+- Beef wrap: K95
 
 XXII. Bar Menu for Flavours Pubs and Grill Restaurant:
 A. LAGERS:
@@ -819,8 +811,157 @@ E. Location:
 
 ------------------------------------------------------------------------------------------------------------
 
+10. Name of Restaurant: Zest Bar & Restaurant.
 
-10. Name of Lodge: White Rose Lodge.
+- Zest Bar & Restaurant is a restaurant with a bar. It is not a lodge.
+
+About Zest Bar and Restaurant:
+
+- Zest Bar and Restaurant has operations in both Lusaka and Livingstone. \ 
+it is a fully stocked bar and delicious menu including our signature espetadas \ 
+plus, steaks, game meat, pizza, burgers and traditional food..
+- In Lusaka, it is located at 5514 Lusiwasi rd.
+- In Livingstone, it is located near 217, town area.
+
+- Available Services for Zest Bar & Restaurant: 
+
+A. Our Menu:
+
+I.) Starters:
+- sticks wings: K120
+- mini croc skewers: K95
+- Haloumi and mushroom skewers: K115
+- Haloumi and Chorizo Skewers: K130
+- Fried Haloumi: K125
+- Chicken Gizzards: K65
+- Stuffed Chillies: K90
+- Bacon Wrapped Chillies: K110
+
+II.) Platters:
+- Sasula Platter: K450
+- Bar snack platter: K360
+- Platter for 2: K275
+- Double trouble platter (2): K490
+- Mixed grill (3 to 4): K455
+- Mega nyama (6 to 7): K895
+- Family platter (10 to 12): K1800
+
+III.) Combos:
+- surf n turf: K295
+- Zest combo: K160
+- prawns and chicken: K24
+- ribs and chicken: K235
+- pork and sausage: K210
+- treat yourself: K335
+
+IV.) Pizza:
+- Margarita: K110
+- Meat Lovers: K160
+- Supreme: K155
+- Chicken Paradise: K145
+- Bacon Paradise: K145
+- Chicken & Mushroom: K145
+- Zest special: K145
+- Vegeterian: K140
+
+V.) Burgers:
+- Chicken burger: K160
+- Beef Burger: K160
+- Bacon Burger: K170
+- Jalapono burger: K150
+- Veggie burger: K145
+- Veggie Haloumi Burger: K165
+    
+VI.) Traditional:
+- Fried fish: K100/K155
+- Foiled/Grilled fish: K125/K180
+- Vinkubala: K85
+- Mbuzi (Goat): K125
+- Beef Stew: K110
+- Gizzards: K85
+- Village Chicken: K110/K155
+- Vimbombo: K90
+- Kapenta: K90
+- Thin Cut Tbone 300g: K150
+
+VII.) Extras:
+- Chips: K40
+- Salads: K25
+- Rices: K25
+- Mashed Potato: K40
+- Mushroom or Pepper sauce: K35
+- Nshima: K25
+- Traditional veggies: K25
+- Green Beans: K30
+
+VIII.) Sandwishes:
+- Chicken Mayo: K95
+- Chicken and Bacon: K110
+- Cheese and Tomato: K55
+- Bacon, cheese and tomato: K75
+- Bacon, Egg and cheese: K85
+- Grilled Veggie: K100 
+
+IX.) Breakfast:
+- Truck drivers breakfast: K140
+- Big breakfast: K140
+- Big vegeterian breakfast: K165
+- Bacon and Egg roll: K65
+- Bacon Egg and cheese roll: K85
+- Eggs on toast: K40
+- Eggs, Bacon and Toast: K65
+- Omolet with toast: K40
+
+X.) Kids:
+- Kids ribs: K150
+- Chicken strips: K90
+- Fish fingers: K110
+- Sausage and chips: K70
+- Quarter Chicken and Chips: K90
+
+XI.) Chef's Special:
+- Pork Spare Ribs: K285/K440
+- Pork Chops: K150
+- Oxtail: K205
+- Portuguese Chicken: K200
+- Prawns: K285
+- Grilled Half chicken: K145
+- Fish fillet: K180
+- Veggie, feta & Basil Parcels: K160
+
+XII.) Steaks:
+- Rump steak 300g/500g: K160/K260
+- Fillet Steak 300g/500g: K175/K280
+- T bone 500g: K140
+
+XIII.) Salads:
+- Chicken salad: K90
+- Greek salad: K55
+
+B. Photo Gallery:
+- Zest Photo: https://web.facebook.com/photo.php?fbid=316619667575225&set=pb.100076815817296.-2207520000&type=3
+- Zest Photo: https://web.facebook.com/photo.php?fbid=310546074849251&set=pb.100076815817296.-2207520000&type=3
+- Zest Photo: https://web.facebook.com/photo.php?fbid=310546071515918&set=pb.100076815817296.-2207520000&type=3
+- Zest Photo: https://web.facebook.com/photo.php?fbid=277528131484379&set=pb.100076815817296.-2207520000&type=3
+
+
+For More photos, Check on our Facebook Page: https://web.facebook.com/zestbarandrestaurant/photos
+
+C. Contacts:
+- Call: 0978109392 for Livingstone enquiries. And 0777753033 for Lusaka enquires.
+- Email: zest.zambia@gmail.com
+- Facebook Page: https://web.facebook.com/zestbarandrestaurant
+- WhatsApp line: 0978109392
+
+D. Location:
+- located: 217, Livingstone and 5514 Lusiwasi rd, Lusaka, Zambia.
+- Google maps location, Livingstone: https://www.google.com/maps/place/Zest+Bar+And+Restaurant+Livingstone/@-17.8597512,25.8549502,17z/data=!4m6!3m5!1s0x194ff082531a2721:0x72149ae597694548!8m2!3d-17.8597513!4d25.854975!16s%2Fg%2F11c714z8sw?authuser=0&entry=ttu
+- Google maps location, Lusaka: https://www.google.com/maps/place/Zest+Bar+and+Restaurant,+Lusaka/@-15.384055,28.3189703,17z/data=!4m14!1m7!3m6!1s0x19408b0b1eb176a3:0x273315e95af024cf!2sZest+Bar+and+Restaurant,+Lusaka!8m2!3d-15.3840602!4d28.3215452!16s%2Fg%2F11plyskffk!3m5!1s0x19408b0b1eb176a3:0x273315e95af024cf!8m2!3d-15.3840602!4d28.3215452!16s%2Fg%2F11plyskffk?authuser=0&entry=ttu
+
+
+-------------------------------------------------------------------------------------------------------------
+
+11. Name of Lodge: White Rose Lodge.
 
  - White Rose Lodge is a Lodge. It has a Restaurant that serves food.
 
@@ -864,7 +1005,7 @@ D. Location:
 
 
 
-11. Name of Hotel: Radisson Blu Mosi-Oa-Tunya Livingstone Resort
+12. Name of Hotel: Radisson Blu Mosi-Oa-Tunya Livingstone Resort
 
 About Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
 
@@ -965,7 +1106,7 @@ F. Contacts for Radisson Blu Mosi-Oa-Tunya Livingstone Resort:
 
 -------------------------------------------------------------------------------------------------------------------------
 
-12. Name: Sweet & Salty Cafe.
+13. Name: Sweet & Salty Cafe.
 
  - About Sweet & Salty Cafe:
 
@@ -1233,43 +1374,43 @@ def livingstone_lodge():
     a VIP deluxe suite and conferencing facility accommodating about 80 people. \ 
     - Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
 
-    Available services for Livingstone Lodge:    
+    Available services for Livingstone Lodge:
+
     A. Rooms or Accommodation:
     All our rooms are self contained with Dstv, free Wi Fi and \ 
     a continental breakfast. it has a total of 11 Self contained rooms. \ 
-    
-    - Executive Double: K400
-    - Executive Twin: K450
-    - Standard Twin: K430
+
+    - Executive Double: K350
+    - Executive Twin: K400
+    - Standard Twin: K370
     - Deluxe Suite: K1,000
 
-    Noted: Please note that we dont have family rooms, only Deluxe suits.
-    
+
     B. Conference Room:
-    
+
     - Conferences and meetings:  
     - Conferencing, meetings and seminars for up to 80 participants. \ 
     We cater for conferences, seminars and workshops for up to 80 \ 
     people  with a large conference halls and meeting rooms. \ 
     - Note: our conference facilities have WIFI included.
     - Below are the prices or charges of our conference room:
-    i. Full conference package per person (with stationary) per person: K390
-    ii. Full conference package per person (without stationary): K340
-    iii. Half day conference package: K750
+    i. Full conference package per person (with stationary) per person: K340
+    ii. Full conference package per person (without stationary): K286
+    iii. Half day conference package: K250
     iv. Conference venue only (50 pax max): K2500
     v. Outside Venue: K2000
     vi. Venue for worshops: K1500
-    
+
     C. Restaurant:
     we have food and beverages. below is a list of our menu:
-    - Tea and snack person: K80
-    - Lunch or Dinner (Buffet) with choice of starter or desert: K150
-    - Lunch or Dinner (Buffet) Complete: K200
-    - Cocktail snacks: K100
-    - Full English Breakfast: K80
+    - Tea and snack person: K65
+    - Lunch or Dinner (Buffet) with choice of starter or desert: K130
+    - Lunch or Dinner (Buffet) Complete: K180
+    - Cocktail snacks: K90
+    - Full English Breakfast: K60
     - Soft Drinks (300mls): K10
-    - Mineral water (500mls): K10
-    
+    - Mineral water (500mls): K8
+
     D. Bar: 
     - our cocktail Bar offers some drinks and different kinds of beers.
     I. Beer prices:
@@ -1620,8 +1761,9 @@ def sweet_salt_cafe():
 def flavours_pub():
 
     items = f"""
-    
+
     About Flavours Pubs and Grill Restaurant:
+
     -Flavours is one of the top Pubs and Grill in Livingstone.
     - It is located right in the heart of the tourist capital \ 
     of Zambia along Mosi O Tunya road. It is not a lodge.
@@ -1630,31 +1772,31 @@ def flavours_pub():
     - We also make the quickiest deliveries anywhere around Livingstone.
     - We have enough space to accomodate many people at our restaurant for both \ 
     open space and shelter space. 
-    - We also have a large car parking space to ensure the safety of your car.
-    - We are opening from 07:00hrs to 22:00hrs.
-     
+    - We also have a large car parking space to ensure the safety of your car. 
+
     Available Services for Flavours Pubs and Grill Restaurant: 
-     
-    A. Flavours Pubs and Grill Restaurant Menu:
-    - We serve the best food with the best ingredients at affordable prices.
-     
-    I. Hot Beverages for Flavours Pubs and Grill Restaurant:
-    - Masala Tea: K55
-    - Regular Coffee: K35
-    - Milo/Hot Chocolate: K45
-    - Cappucino: K50
-    - Cafe Latte: K50
-    - Creamocino: K50
-    - Roibos, Five Roses: K35
-     
-    II. Breakfast for Flavours Pubs and Grill Restaurant:
-    - Cafe Breakfast: K120
-    - Mega Breakfast: K120
-    - Executive Breakfast: K120
-    - Farmers Breakfast: K120
-    - Sunrise Breakfast: K90
-     
-    III. Drinks for Flavours Pubs and Grill Restaurant:
+
+    A. Our Menu:
+
+    -Below is our food or restaurant menu:
+
+    I. Hot Beverages:
+    - Masala Tea: K40
+    - Regular Coffee: K30
+    - Milo/Hot Chocolate: K40
+    - Cappucino: K40
+    - Cafe Latte: K40
+    - Creamocino: K40
+    - Roibos, Five Roses: K30
+
+    II. Breakfast:
+    - Cafe Breakfast: K105
+    - Mega Breakfast: K105
+    - Executive Breakfast: K105
+    - Farmers Breakfast: K105
+    - Sunrise Breakfast: K70
+
+    III. Drinks:
     - Mineral Water (500mls): K10
     - Fruticana (500mls): K15
     - Bottled Fanta: K10
@@ -1663,118 +1805,111 @@ def flavours_pub():
     - Bottled Merinda: K10
     - Disposable Fanta (500mls): K15
     - Disposable Coke (500mls): K15
-     
-    IV. Traditional for Food Flavours Pubs and Grill Restaurant:
-    - Village Chicken stew: K135
-    -Charcoal Grill Fish: K125
-    - Goat stew: K105
-    - Beef shew: K95
-    - Game meat: K150
-    - Oxtail: K110
-    - Kapenta: K80
-     
-    V. Samoosa for Flavours Pubs and Grill Restaurant:
-    - Chicken samoosa: K65
-    - Vegetable samoosa: K60
-     
-    VI. Sandwiches for Flavours Pubs and Grill Restaurant:
-    - Chicken and Mayonnaise: K95
-    - Tuna Sandwich: K100
-     
-    VII. Desserts for Flavours Pubs and Grill Restaurant:
-    - Milkshake: K75
-    - Ice Cream: K45
-     
-    VIII. Main Course Burgers for Flavours Pubs and Grill Restaurant:
-    - Beef Burger: K105
-    - Chicken Burger: K105
-    - Vegetable Burger: K100
-    - Cheese Burger: K110
-     
-     
-    IX. Main Course Meals for Flavours Pubs and Grill Restaurant:
-    - Dreamlight T-Bone steak 350g: K150
-    - Beef Fillet steak 350g: K145
-    - Rump steak 350g: K140
+
+    IV. Traditional Food:
+    - Village Chicken stew: K125
+    -Charcoal Grill Fish: K115
+    - Goat stew: K95
+    - Beef shew: K85
+    - Game meat: K140
+    - Oxtail: K100
+    - Kapenta: K70
+
+    V. Samoosa:
+    - Chicken samoosa: K60
+    - Vegetable samoosa: K55
+
+    VI. Sandwiches:
+    - Chicken and Mayonnaise: K80
+    - Tuna Sandwich: K90
+
+    VII. Desserts:
+    - Milkshake: K55
+    - Ice Cream: K40
+
+    VIII. Main Course Burgers:
+    - Beef Burger: K95
+    - Chicken Burger: K90
+    - Vegetable Burger: K90
+    - Cheese Burger: K100
+
+
+    IX. Main Course Meals:
+    - Dreamlight T-Bone steak 350g: K140
+    - Beef Fillet steak 350g: K135
+    - Rump steak 350g: K130
     - Lamb chops 3PCs: K145
-    - Carribean Pork chops: K145
-    - Buffalo wings: K115
-     
-    X. Sausage for Flavours Pubs and Grill Restaurant:
-    - Boerewars sausage and chips: K95
-    - Hungarian sausage and chips: K80
-     
-    XI. Platter for Flavours Pubs and Grill Restaurant:
-    i) Platter for 2: K280.
-    ii) Platter for 3: K330
-    - Platter for 3 has the following: 4 slices pizza, 4 samoosas, 4 cocktail sausages, 8 onion rings, 
-    4 drumsticks or wings, green salads, 4 pieces Hungarian sausages, chips
-    iii) Platter for 4: K410
-    - Platter for 4 has the following: 5 slices pizza, 5 samoosas, 5 cocktail sausages, 12 onion rings, 
-    5 drumsticks or wings, green salads, 5 pieces Hungarian sausages, chips
-    iv) Platter for 6: K610
-    - Platter for 6 has the following: 7 slices pizza, 7 samoosas, 7 cocktail sausages, 15 onion rings, 
-    7 drumsticks or wings, green salads, 7 pieces Hungarian sausages, chips
-    v) Family Platter: K910
-    - Family Platter has the following: Potato wedges, 1 large pizza, 12 samoosas, small chicken, beef kababes,
-    18 onion rings, green salads, 12 pieces Hungarian sausages
-     
-    XII. Pasta/Noodles for Flavours Pubs and Grill Restaurant:
-    - Chicken Fried Noodles: K95
-    - Beef Fried Noodles: K100
-     
-    XIII. Special Pizza for Flavours Pubs and Grill Restaurant:
-    - Mini Pizza (all flavour): K95
-    - Meat Feast: K140
-    - Mexican Pizza: K160
-    - Chicken Tikka: K160
-    - Chicken Mushroom: K135
-    - Vegetable Pizza: K125
-    - Hawaiian Chicken Pizza: K125
-     
-    XIV. Salads for Flavours Pubs and Grill Restaurant:
-    - Greek Salad: K60
-    - chicken ceaser salad: K95
-    - Crocodile strip salad: K115
-     
-    XV. Snacks for Flavours Pubs and Grill Restaurant:
-    - Chicken wing: K80
-    - Beef Kebabs: K110
-     
-    XVI. Side Orders for Flavours Pubs and Grill Restaurant:
+    - Carribean Pork chops: K135
+    - Buffalo wings: K105
+
+    X. Sausage:
+    - Boerewars sausage and chips: K85
+    - Hungarian sausage and chips: K70
+
+    XI. Platter:
+    - platter for 2: K270
+    - Platter for 3: K320
+    - Platter for 4: K400
+    - Platter for 6: K600
+    - Family Platter: K900
+
+    XII. Pasta/Noodles:
+    - Chicken Fried Noodles: K80
+    - Beef Fried Noodles: K85
+
+    XIII. Special Pizza:
+    - Mini Pizza (all flavour): K90
+    - Meat Feast: K130
+    - Mexican Pizza: K150
+    - Chicken Tikka: K150
+    - Chicken Mushroom: K125
+    - Vegetable Pizza: K115
+    - Hawaiian Chicken Pizza: K115
+
+    XIV. Salads:
+    - Greek Salad: K55
+    - chicken ceaser salad: K80
+    - Crocodile strip salad: K105
+
+    XV. Snacks:
+    - Chicken wing: K70
+    - Beef Kebabs: K100
+
+    XVI. Side Orders:
     - Paper Sauce: K35
     - Potato widges, rice or Nshima: K35
     - Chips or mashed potato: K35
     - Garlic Sauce: K40
     - Butter Sauce: K45
-     
-    XVII. Fish for Flavours Pubs and Grill Restaurant:
-    - Zambezi whole Bream: K140
-    - Bream Fillet: K150
-     
-    XVIII. Soups and starters for Flavours Pubs and Grill Restaurant:
-    - Vegetable/tomato soup: K55
+
+    XVII. Fish:
+    - Zambezi whole Bream: K110
+    - Bream Fillet: K130
+
+    XVIII. Soups and starters:
+    - Vegetable/tomato soup: K50
     - Home made mushroom soup: K60
-     
-    XIX. Non Vegetable Main Course for Flavours Pubs and Grill Restaurant: 
-    - Plain Rice: K75
-    - Jeera Rice: K80
-    - Vegetable Pilau: K85
-    - Egg Fried Rice: K120
-    - Vegetable Biry Ani: K35
-    - Chicken Biry Ani: -
-    - Butter Chicken: K160
-    - Kadhai Chicken: K160
-    - Chicken Tikka Masala: K160
-     
-    XX. Chef's Special for Flavours Pubs and Grill Restaurant:
-    - Mixed Grill: K220
-     
-    XXI. Wraps menu for Flavours Pub and Grill Restaurant:
-    - chicken wrap: K95
-    - Beef wrap: K100
-     
-    XXII. Bar Menu for Flavours Pubs and Grill Restaurant:
+
+    XIX. Non Vegetable Main Course: 
+    - Plain Rice: K30
+    - Jeera Rice: K60
+    - Vegetable Pilau: K40
+    - Egg Fried Rice: K60
+    - Vegetable Biry Ani: K100
+    - Chicken Biry Ani: K115
+    - Butter Chicken: K150
+    - Kadhai Chicken: K150
+    - Chicken Tikka Masala: K150
+
+    XX. Naan/Rotis:
+    - Butter Naan: K35
+    - Garlic Naan: K40
+    - Chilli Naan: K35
+    XXI. Wraps menu:
+    - chicken wrap: K90
+    - Beef wrap: K95
+
+    XXII. Bar Menu:
     A. LAGERS:
     - Mosi: K20
     - Castle: K20
@@ -1816,33 +1951,34 @@ def flavours_pub():
     - Wellingtone: K40
     E. We also have Shisha available, all flavours:
     - K100
-     
+
     B. Our Deliveries:
     - We offer the best and quickest kind of deliveries using our delivery van \ 
     around livingstone.
     - Delivery line: 0972 90 36 16
     - Delivery fees: starts from K25.
     - Make An order by calling our delivery line.
-     
-   C. Photo Gallery for Flavours Pubs and Grill Restaurant:
+
+    C. Photo Gallery:
     Below are some photo links to our restaurant and food menu:
     - Photo link: https://web.facebook.com/photo.php?fbid=759094352896973&set=pb.100063892449844.-2207520000&type=3
     - Photo link: https://web.facebook.com/photo.php?fbid=753602776779464&set=pb.100063892449844.-2207520000&type=3
     - Photo link: https://web.facebook.com/photo.php?fbid=752840906855651&set=pb.100063892449844.-2207520000&type=3
     - Photo link: https://web.facebook.com/photo.php?fbid=752841046855637&set=pb.100063892449844.-2207520000&type=3
-     
+
     For More photos, check our Facebook Page: https://web.facebook.com/flavourspubandgrill/photos
-     
+
     D. Contact Us:
     - Cell: 0978 812 068.
     - Tel: +260 213 322 356.
     - Email: FlavoursPub&Grill@gmail.com.
-    - Facebook Page: https://web.facebook.com/flavourspubandgrill/photos
-     
-    E. Location for Flavours Pubs and Grill Restaurant:
+    - Facebook Page: https://web.facebook.com/flavourspubandgrill
+
+    E. Location:
     - Located: Along Mosi O Tunya Road, Town area, in livingstone, Zambia.
     - Nearby places: Town or Mukuni Park
     - google maps link: https://www.google.com/maps/place/Flavours+Pub+%26+Grill/@-17.8418073,25.8589363,17z/data=!3m1!4b1!4m6!3m5!1s0x194ff0a37d88ae5f:0x1ea901cc2522e27d!8m2!3d-17.8418124!4d25.8615112!16s%2Fg%2F11c4kppd0j?authuser=0&entry=ttu
+
     """
 
     return items
@@ -1861,9 +1997,9 @@ def pumulani_lodge():
     - Email us at pumulanizambia@yahoo.com
     - NOTE: Pumulani lodge doesnt offer restaurant services.
 
-    Available Services for Aunt Josephine's Executive Lodge:
+    Available Services for Pumulani Lodge Lodge:
 
-    A. Rooms or Accommodation prices or charges or rates:
+    A. Room rates:
 
     All our rooms are en suite and have air-con, plasma screens, \ 
     DSTV, fridges, coffee/tea making facilities, free WiFi internet \ 
@@ -1877,7 +2013,6 @@ def pumulani_lodge():
     Note: We do not have a restaurant or offer any food services.
 
     B. Photo Gallery:
-    Below are some photos for Kubu Cafe's food:
     - Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=681477130658576&set=pb.100063888850293.-2207520000&type=3
     - Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=681477003991922&set=pb.100063888850293.-2207520000&type=3
     - Pumulani lodge Photo: https://web.facebook.com/photo.php?fbid=649665143839775&set=pb.100063888850293.-2207520000&type=3
@@ -1931,6 +2066,158 @@ def auntjose_lodge():
     D. Location:
     - Located: Plot NO 2072/178, Maramba, Livingstone.
     - Nearby: Maramba Market or Messenger area.
+
+
+    """
+
+    return items
+
+def zest():
+
+    items = f"""
+
+    About Zest Bar and Restaurant:
+
+    - Zest Bar and Restaurant has operations in both Lusaka and Livingstone. \ 
+    it is a fully stocked bar and delicious menu including our signature espetadas \ 
+    plus, steaks, game meat, pizza, burgers and traditional food..
+    - In Lusaka, it is located at 5514 Lusiwasi rd.
+    - In Livingstone, it is located near 217, town area.
+
+    - Available Services: 
+
+    A. Our Menu:
+
+    I.) Starters:
+    - sticks wings: K120
+    - mini croc skewers: K95
+    - Haloumi and mushroom skewers: K115
+    - Haloumi and Chorizo Skewers: K130
+    - Fried Haloumi: K125
+    - Chicken Gizzards: K65
+    - Stuffed Chillies: K90
+    - Bacon Wrapped Chillies: K110
+
+    II.) Platters:
+    - Sasula Platter: K450
+    - Bar snack platter: K360
+    - Platter for 2: K275
+    - Double trouble platter (2): K490
+    - Mixed grill (3 to 4): K455
+    - Mega nyama (6 to 7): K895
+    - Family platter (10 to 12): K1800
+
+    III.) Combos:
+    - surf n turf: K295
+    - Zest combo: K160
+    - prawns and chicken: K240
+    - ribs and chicken: K235
+    - pork and sausage: K210
+    - treat yourself: K335
+
+    IV.) Pizza:
+    - Margarita: K110
+    - Meat Lovers: K160
+    - Supreme: K155
+    - Chicken Paradise: K145
+    - Bacon Paradise: K145
+    - Chicken & Mushroom: K145
+    - Zest special: K145
+    - Vegeterian: K140
+
+    V.) Burgers:
+    - Chicken burger: K160
+    - Beef Burger: K160
+    - Bacon Burger: K170
+    - Jalapono burger: K150
+    - Veggie burger: K145
+    - Veggie Haloumi Burger: K165
+    
+    VI.) Traditional:
+    - Fried fish: K100/K155
+    - Foiled/Grilled fish: K125/K180
+    - Vinkubala: K85
+    - Mbuzi (Goat): K125
+    - Beef Stew: K110
+    - Gizzards: K85
+    - Village Chicken: K110/K155
+    - Vimbombo: K90
+    - Kapenta: K90
+    - Thin Cut Tbone 300g: K150
+
+    VII.) Extras:
+    - Chips: K40
+    - Salads: K25
+    - Rices: K25
+    - Mashed Potato: K40
+    - Mushroom or Pepper sauce: K35
+    - Nshima: K25
+    - Traditional veggies: K25
+    - Green Beans: K30
+
+    VIII.) Sandwishes:
+    - Chicken Mayo: K95
+    - Chicken and Bacon: K110
+    - Cheese and Tomato: K55
+    - Bacon, cheese and tomato: K75
+    - Bacon, Egg and cheese: K85
+    - Grilled Veggie: K100 
+
+    IX.) Breakfast:
+    - Truck drivers breakfast: K140
+    - Big breakfast: K140
+    - Big vegeterian breakfast: K165
+    - Bacon and Egg roll: K65
+    - Bacon Egg and cheese roll: K85
+    - Eggs on toast: K40
+    - Eggs, Bacon and Toast: K65
+    - Omolet with toast: K40
+
+    X.) Kids:
+    - Kids ribs: K150
+    - Chicken strips: K90
+    - Fish fingers: K110
+    - Sausage and chips: K70
+    - Quarter Chicken and Chips: K90
+
+    XI.) Chef's Special:
+    - Pork Spare Ribs: K285/K440
+    - Pork Chops: K150
+    - Oxtail: K205
+    - Portuguese Chicken: K200
+    - Prawns: K285
+    - Grilled Half chicken: K145
+    - Fish fillet: K180
+    - Veggie, feta & Basil Parcels: K160
+
+    XII.) Steaks:
+    - Rump steak 300g/500g: K160/K260
+    - Fillet Steak 300g/500g: K175/K280
+    - T bone 500g: K140
+
+    XIII.) Salads:
+    - Chicken salad: K90
+    - Greek salad: K55
+
+    B. Photo Gallery:
+    - Zest Photo: https://web.facebook.com/photo.php?fbid=316619667575225&set=pb.100076815817296.-2207520000&type=3
+    - Zest Photo: https://web.facebook.com/photo.php?fbid=310546074849251&set=pb.100076815817296.-2207520000&type=3
+    - Zest Photo: https://web.facebook.com/photo.php?fbid=310546071515918&set=pb.100076815817296.-2207520000&type=3
+    - Zest Photo: https://web.facebook.com/photo.php?fbid=277528131484379&set=pb.100076815817296.-2207520000&type=3
+
+
+    For More photos, Check on our Facebook Page: https://web.facebook.com/zestbarandrestaurant/photos
+
+    C. Contacts:
+    - Call: 0978109392 for Livingstone enquiries. And 0777753033 for Lusaka enquires.
+    - Email: zest.zambia@gmail.com
+    - Facebook Page: https://web.facebook.com/zestbarandrestaurant
+    - WhatsApp line: 0978109392
+
+    D. Location:
+    - located: 217, Livingstone and 5514 Lusiwasi rd, Lusaka, Zambia.
+    - Google maps location, Livingstone: https://www.google.com/maps/place/Zest+Bar+And+Restaurant+Livingstone/@-17.8597512,25.8549502,17z/data=!4m6!3m5!1s0x194ff082531a2721:0x72149ae597694548!8m2!3d-17.8597513!4d25.854975!16s%2Fg%2F11c714z8sw?authuser=0&entry=ttu
+    - Google maps location, Lusaka: https://www.google.com/maps/place/Zest+Bar+and+Restaurant,+Lusaka/@-15.384055,28.3189703,17z/data=!4m14!1m7!3m6!1s0x19408b0b1eb176a3:0x273315e95af024cf!2sZest+Bar+and+Restaurant,+Lusaka!8m2!3d-15.3840602!4d28.3215452!16s%2Fg%2F11plyskffk!3m5!1s0x19408b0b1eb176a3:0x273315e95af024cf!8m2!3d-15.3840602!4d28.3215452!16s%2Fg%2F11plyskffk?authuser=0&entry=ttu
 
 
     """
@@ -2156,10 +2443,10 @@ with for_you:
     menu = st.selectbox("Choose Service", ("Select A Service here",
     "Aunt Josephine Lodge","Bravo Cafe","Chapa Classic Lodge","Flavours Pub & Gill",
     "KM Executive Lodge","Livingstone Lodge","Pumulani Lodge","Radisson Blu Hotel",
-    "Sweet & Salty Cafe"))
+    "Sweet & Salty Cafe","Zest Bar & Restaurant"))
 
 
-    text = st.text_input("Search for specific menu items for the service [Prices for Pizza, Platters, Burgers, Beverages and more] Plan dates or food recommendations within certain budgets, room rates, Photo galleries, contact info etc ",
+    text = st.text_input("Ask about the services- Menus [menu for platter or pizza or beverages...], Plan dates or food recommendations within certain budgets, room rates, Photo galleries, contact info etc ",
     max_chars=300)
 
     # examples: Services offered? Show me a menu? Room rates? Contact info? recommend food within certain budgets? Plan date meals within certain budgets? or Photo links? Google maps link?
@@ -2282,7 +2569,7 @@ with for_you:
 
                     cursor = conn.cursor()
 
-                    service = "Sweet & Salty Cafe"
+                    service = "Chapa Classic Lodge"
                         
                     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
 
@@ -2331,7 +2618,161 @@ with for_you:
                 mytxt = st.chat_message("assistant")
                 mytxt.write("Please Enter Your Question....")
 
+
+    # About Zest Bar and Restaurant
+    zest_system_message = f"""
+    You will be provided with customer service queries. \
+    The customer service query will be delimited with \
+    {delimiter} characters.
+
+    step 1: {delimiter}: First decide whether a user is asking \ 
+    a question about anything related to restaurants or cafes, menus, \ 
+    dinners, party planning, travel, restaurant or accommodation suggestions \ 
+    recommendations on cafes, eating places, restaurants, travel guide, \ 
+    or just any of the above.
+
+    step 2: {delimiter}: If the user is asking a question related to step 1, \ 
+    check the services below and answer only based on the available services:
+
+
+    All available services for {menu} are:
+    { zest() }
+
+
+    step 3: {delimiter}: only mention or reference services in the list of all available services in step 2, \ 
+    As these are the only services offered. And always include its contact details for easy reach.
+
     
+
+    Answer the customer in a calm and friendly tone.
+
+    Lets think step by step.
+
+    Use the following format:
+    step 1 {delimiter} < step 1 reasoning >
+    step 2 {delimiter} < step 2 reasoning >
+    step 3 {delimiter} < step 3 reasoning >
+
+
+    Respond to user: {delimiter} < response to customer >
+
+    Make sure to include {delimiter} to seperate every step.
+    Note: only display the answer. DO NOT SHOW THE STEPS.
+
+    """
+
+
+    zest_prompt_template = f"""
+
+        Answer the question based on the contexts below. 
+
+        {delimiter}
+
+        Contexts: {{zest_system_message}}
+
+        {delimiter}
+
+        Question:{{user_message}}
+
+        Answer:"""    
+
+
+    zest_prompt = ChatPromptTemplate.from_template(zest_prompt_template)
+
+
+    zest_customer_messages = zest_prompt.format_messages(
+        zest_system_message = zest_system_message,
+        user_message= user_message
+    )
+
+
+
+    if menu == "Zest Bar & Restaurant":
+
+        if st.button("Enter"):
+
+            if text:
+
+                loading_message = st.empty()
+                loading_message.text("Loading... Please wait!")
+
+                zest_response = chat_model(zest_customer_messages)
+
+                res = zest_response.content
+
+                final_response = res.split(delimiter)[-1].strip()
+
+                res_word = len(re.findall(r'\w+', final_response))
+
+                if res_word < 3:
+        	    
+                    message = st.chat_message("assistant")
+                    error_text = "Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!..." 
+
+                    message.write("""
+                    Sorry! Am having troubles, try to rephrase your question to help me have more insight, please!...
+                    Otherwise I really want to assist you.
+                    """ )
+
+                    conn = snowflake.connector.connect(
+                        user=sf_user,
+                        password=sf_password,
+                        account=sf_account,
+                        database=sf_database,
+                        schema=sf_schema
+                        )
+
+                    cursor = conn.cursor()
+
+                    service = "Zest Bar & Restaurant"
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,error_text,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+                else:
+
+                    mytxt = st.chat_message("assistant")
+                    mytxt.write(final_response)
+
+                    conn = snowflake.connector.connect(
+                    user=sf_user,
+                    password=sf_password,
+                    account=sf_account,
+                    database=sf_database,
+                    schema=sf_schema
+                    )
+
+                    cursor = conn.cursor()
+                        
+                    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+                    service = "Zest Bar & Restaurant"
+
+                    query = f"INSERT INTO {service_table_name} (MY_SERVICE,PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+
+                    try:
+                        cursor.execute(query, (service,text,final_response,current_time,))
+                        conn.commit()
+                    except Exception as e:
+                        st.error(f"Error sending data to Database: {e}")
+                    finally:
+                        cursor.close()
+                        conn.close()
+
+            else:
+                mytxt = st.chat_message("assistant")
+                mytxt.write("Please Enter Your Question....")
+
     
     # About Chapa Classic Lodge
     km_system_message = f"""

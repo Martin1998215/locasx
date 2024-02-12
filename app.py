@@ -75,10 +75,127 @@ A. Bravo Restaurant and Cafe Menu:
 - We serve the best food with the best ingredients at affordable prices.
 - check out our food prices or charges below:
 
-I. Cafe Menu for Bravo Restaurant and Cafe:
+1. Bravo Restaurant Menu:
+
+I. Pizza for Bravo Restaurant:
+A. Large Pizza:
+- Tikka Chicken large: K145
+- Chicken Mushroom large: K149.99
+- Macon Chicken BBQ Large: K159
+
+B. Medium Pizza:
+- Tikka Chicken medium: K99
+- Chicken Mushroom Medium: K105
+- All Round Meat Medium: K115
+- Pepperoni plus Medium: K95
+- Veggie Natural Medium: K78
+
+C. Regular Pizza:
+- Peri Peri Chicken Regular: K65
+- Chicken Mushroom Regular: K89
+- Pepperoni Plus Regular: K80
+- Tikka Chicken BB regular: K50
+
+II. Chicken Combo for Bravo Restaurant:
+- Chicken Wraps: K38
+- Chicken Strips: K50
 - Beef Pies (large): K25
 - Chicken Pies (large): K25
 - Mini Sausage Roll: K21
+
+III. Nshima for Bravo Restaurant:
+- Xtra Chicken Curry: K20
+- Nshima With Fresh Fish: K110
+- Nshima With T-Bone: K125
+- Bravo Rice & Veg: K20
+- Nshima + quarter Chicken: K105
+- Plain Nshima: K10
+
+IV. Sides for Bravo Restaurant:
+- Green Salads: K19
+- Medium Chips: K23
+- Large Chips: K33
+- Coleslaw Salad: K13
+
+V. Burgers for Bravo Restaurant:
+- Beef Burger: K39
+- Chicken Burger: K34
+- Chicken Burger: K50
+
+VI. Grills for Bravo Restaurant:
+- 1 Piece + Chips: K45
+- Grilled Wings with Chips: K45
+- Quarter Chicken + Chips: K95
+- Shawarma Special: K39.99
+- Shawarma Ordinary: K35
+- Fish and Chips: K95
+- T Bone + chips: K109
+- Grilled Piece Chicken: K25
+- Grilled Piece + chips: K45
+- Sausage and chips: K60
+- Plain Quarter Chicken: K75
+
+
+VII. Ice Cream for Bravo Restaurant:
+- Regular Cone Plain: K7.99
+- Large Cone Plain: K11.99
+- Large cup plain: K25
+- Ice Cream Cone: K12
+- Ice cream Cup (large): K25
+- Ice Cream Cup (small): K18
+
+VIII. Milkshakes for Bravo Restaurant:
+A. Regular Milkshakes:
+- Straw Reg Milkshake: K40
+
+B. Large Milkshakes:
+- Strawberry Large Milkshake: K45
+- Vanilla Large Milkshake: K45
+
+IX. Fruit Drinks for Bravo Restaurant:
+- Appy Appel 500Ml Pet: K15
+- Frooty 350mls: K10
+- Fruitree orange 350mls: K24.99
+- Fresh-Up 500 ml: K12
+
+X. Mineral water for Bravo Restaurant:
+- Vatra Still 500 mls: K5
+- Vatra Still 750 Mls: K7
+- Aqua Clear 1Ltr: K10
+- Aqua Clear 500ml: K5
+
+
+XI. Cold Beverages for Bravo Restaurant:
+- Coke Bottle 300mls: K9.99
+- Coke 500ml: K16.99
+- Fanta Orange 500ml: K16.99
+- Mirinda Orange 600mls: K14
+- Brothers 330Mls: K11
+- Fruiticana 430 mls: K15
+- Mirinda orange Bottle: K7
+
+XII. Energy Drinks for Bravo Restaurant:
+- Kombat 500 ml: K15
+- Wild Cat 330 ml: K10
+- Wild Cat 500 ml: K12
+- Sting Energy Drink 330ml: K10
+- Kunfu Energy 330 mls: K12
+
+
+XIII. Platters for Bravo Restaurant:
+- Beef Platter: K175
+- Bravo Platter: K152
+- Universal Bravo Platter: K322
+- Bravo 4 Grilled wings & Chips: K123
+
+
+XIV. Packaging at Bravo Restaurant:
+- Bravo Carrier Bag - Rest: K3
+- Unbranded Carrier Bags: K1
+
+
+
+2. Bravo Cafe Menu:
 - Hot Chocolate: K35
 - Cuppucino: K35
 - Cream Doughnut: K15
@@ -88,63 +205,14 @@ I. Cafe Menu for Bravo Restaurant and Cafe:
 - Cheese Strows: K23
 - Egg Roll: K35
 - Samoosa: K10
-- Chicken Combo Delux: K22
-- Bread: K17
--  Milkshake: 35
-
-II. Drinks for Bravo Restaurant and Cafe:
-- Fruticana (500mls): K13
-- Fanta (500mls): K16
-- Sprite (500mls): K16
-- Coke (500mls): K16
-- Fruitree: K25
-- Embe: K17
-- Mineral Water (500mls): K5
-- Mineral Water (750mls): K7
-- Mineral water (1L): K10
-
-III. Pizza for Bravo Restaurant and Cafe:
-- Chicken Mushroom: K149.99
-- Macon Chicken BBQ: K135
-- Tikka Chicken: K99
-- Chicken Mushroom: K105
-- Pepperon Plus: K80
-- All round Meat: K95
-- Hawaian: K90
-- Veggie Natural: K78
-- Margerita: K75
-- Big Friday Pizza: K78
-- PeriPeri Chicken: K50
-
-IV. Ice Cream for Bravo Restaurant and Cafe:
-- Ice Cream Cone: K12
-- Ice cream Cup (large): K25
-- Ice Cream Cup (small): K18
-
-V. Burgers for Bravo Restaurant and Cafe:
-- Beef Burger: K39
-- Chicken Burger: K50
-
-VI. Grills for Bravo Restaurant and Cafe:
-- T Bone + chips: K95
-- Grilled Piece Chicken: K25
-- Grilled Piece + chips: K45
-- Sharwama special: K39.99
-- Sausage and chips: K60
-
-VII. Breakfast for Bravo Restaurant and Cafe:
+- Bread: K18
 - English Breakfast: K50
-VIII. Cakes for Bravo Cafe:
 - Cake Slice: K37
 - Birthday cake (large): K350
 - Choco Cake (large): K350
 - Vanilla Cake Slice: K37
 
-VIX. Platters for Bravo Restaurant and Cafe:
-- Beef Platter: K175
-- Bravo Platter: K152
-- Universal Bravo Platter: 322
-- Bravo 4 Grilled wings & Chips: 123
+
 
 B. Promotions at Bravo Restaurant and Cafe:
 * Bravo Restaurant and Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:
@@ -157,7 +225,7 @@ B. Promotions at Bravo Restaurant and Cafe:
 C. Our Deliveries:
 - We offer the best and quickest kind of deliveries using our delivery vans \ 
 around livingstone.
-- Make An order by calling us on 0771 023 899.
+- Make An order by calling us on 0771 023 899 or 0978 833 685.
 
 D. Photo Gallery for Bravo Restaurant and Cafe:
 Below are some photos for Bravo Cafe's food:
@@ -1234,8 +1302,6 @@ Make sure to include {delimiter} to seperate every step.
 
 # about bravo cafe info
 def bravo_cafe():
-
-
         
     items = f"""
 
@@ -1248,14 +1314,127 @@ def bravo_cafe():
 
     Available Services for Bravo Restaurant and Cafe: 
 
-    A. Menu:
+    1. Bravo Restaurant Menu:
 
-    - Below is our food or restaurant menu:
+    I. Pizza for Bravo Restaurant:
+    A. Large Pizza:
+    - Tikka Chicken large: K145
+    - Chicken Mushroom large: K149.99
+    - Macon Chicken BBQ Large: K159
 
-    I. Main Course:
+    B. Medium Pizza:
+    - Tikka Chicken medium: K99
+    - Chicken Mushroom Medium: K105
+    - All Round Meat Medium: K115
+    - Pepperoni plus Medium: K95
+    - Veggie Natural Medium: K78
+
+    C. Regular Pizza:
+    - Peri Peri Chicken Regular: K65
+    - Chicken Mushroom Regular: K89
+    - Pepperoni Plus Regular: K80
+    - Tikka Chicken BB regular: K50
+
+    II. Chicken Combo for Bravo Restaurant:
+    - Chicken Wraps: K38
+    - Chicken Strips: K50
     - Beef Pies (large): K25
     - Chicken Pies (large): K25
     - Mini Sausage Roll: K21
+
+    III. Nshima for Bravo Restaurant:
+    - Xtra Chicken Curry: K20
+    - Nshima With Fresh Fish: K110
+    - Nshima With T-Bone: K125
+    - Bravo Rice & Veg: K20
+    - Nshima + quarter Chicken: K105
+    - Plain Nshima: K10
+
+    IV. Sides for Bravo Restaurant:
+    - Green Salads: K19
+    - Medium Chips: K23
+    - Large Chips: K33
+    - Coleslaw Salad: K13
+
+    V. Burgers for Bravo Restaurant:
+    - Beef Burger: K39
+    - Chicken Burger: K34
+    - Chicken Burger: K50
+
+    VI. Grills for Bravo Restaurant:
+    - 1 Piece + Chips: K45
+    - Grilled Wings with Chips: K45
+    - Quarter Chicken + Chips: K95
+    - Shawarma Special: K39.99
+    - Shawarma Ordinary: K35
+    - Fish and Chips: K95
+    - T Bone + chips: K109
+    - Grilled Piece Chicken: K25
+    - Grilled Piece + chips: K45
+    - Sausage and chips: K60
+    - Plain Quarter Chicken: K75
+
+
+    VII. Ice Cream for Bravo Restaurant:
+    - Regular Cone Plain: K7.99
+    - Large Cone Plain: K11.99
+    - Large cup plain: K25
+    - Ice Cream Cone: K12
+    - Ice cream Cup (large): K25
+    - Ice Cream Cup (small): K18
+
+    VIII. Milkshakes for Bravo Restaurant:
+    A. Regular Milkshakes:
+    - Straw Reg Milkshake: K40
+
+    B. Large Milkshakes:
+    - Strawberry Large Milkshake: K45
+    - Vanilla Large Milkshake: K45
+
+    IX. Fruit Drinks for Bravo Restaurant:
+    - Appy Appel 500Ml Pet: K15
+    - Frooty 350mls: K10
+    - Fruitree orange 350mls: K24.99
+    - Fresh-Up 500 ml: K12
+
+    X. Mineral water for Bravo Restaurant:
+    - Vatra Still 500 mls: K5
+    - Vatra Still 750 Mls: K7
+    - Aqua Clear 1Ltr: K10
+    - Aqua Clear 500ml: K5
+
+
+    XI. Cold Beverages for Bravo Restaurant:
+    - Coke Bottle 300mls: K9.99
+    - Coke 500ml: K16.99
+    - Fanta Orange 500ml: K16.99
+    - Mirinda Orange 600mls: K14
+    - Brothers 330Mls: K11
+    - Fruiticana 430 mls: K15
+    - Mirinda orange Bottle: K7
+
+    XII. Energy Drinks for Bravo Restaurant:
+    - Kombat 500 ml: K15
+    - Wild Cat 330 ml: K10
+    - Wild Cat 500 ml: K12
+    - Sting Energy Drink 330ml: K10
+    - Kunfu Energy 330 mls: K12
+
+
+    XIII. Platters for Bravo Restaurant:
+    - Beef Platter: K175
+    - Bravo Platter: K152
+    - Universal Bravo Platter: K322
+    - Bravo 4 Grilled wings & Chips: K123
+
+
+    XIV. Packaging at Bravo Restaurant:
+    - Bravo Carrier Bag - Rest: K3
+    - Unbranded Carrier Bags: K1
+
+
+
+    2. Bravo Cafe Menu:
     - Hot Chocolate: K35
     - Cuppucino: K35
     - Cream Doughnut: K15
@@ -1265,64 +1444,13 @@ def bravo_cafe():
     - Cheese Strows: K23
     - Egg Roll: K35
     - Samoosa: K10
-    - Chicken Combo Delux: K22
-    - Bread: K17
-    -  Milkshake: 35
-
-    II. Drinks:
-    - Fruticana (500mls): K13
-    - Fanta (500mls): K16
-    - Sprite (500mls): K16
-    - Coke (500mls): K16
-    - Fruitree: K25
-    - Embe: K17
-    - Mineral Water (500mls): K5
-    - Mineral Water (750mls): K7
-    - Mineral water (1L): K10
-
-    III. Pizza:
-    - Chicken Mushroom: K149.99
-    - Macon Chicken BBQ: K135
-    - Tikka Chicken: K99
-    - Chicken Mushroom: K105
-    - Pepperon Plus: K80
-    - All round Meat: K95
-    - Hawaian: K90
-    - Veggie Natural: K78
-    - Margerita: K75
-    - Big Friday Pizza: K78
-    - PeriPeri Chicken: K50
-
-    IV. Ice Cream:
-    - Ice Cream Cone: K12
-    - Ice cream Cup (large): K25
-    - Ice Cream Cup (small): K18
-
-    V. Burgers:
-    - Beef Burger: K39
-    - Chicken Burger: K50
-
-    VI. Grills:
-    - T Bone + chips: K95
-    - Grilled Piece Chicken: K25
-    - Grilled Piece + chips: K45
-    - Sharwama special: K39.99
-    - Sausage and chips: K60
-
-    VII. Breakfast:
+    - Bread: K18
     - English Breakfast: K50
-
-    VIII. Cakes:
     - Cake Slice: K37
     - Birthday cake (large): K350
     - Choco Cake (large): K350
     - Vanilla Cake Slice: K37
 
-    VIX. Platters:
-    - Beef Platter: K175
-    - Bravo Platter: K152
-    - Universal Bravo Platter: 322
-    - Bravo 4 Grilled wings & Chips: 123
 
     B. Promotions:
     * Bravo Restaurant and Cafe offers pizza promotions on Monday, Wednesday and Friday for the following:
@@ -1335,7 +1463,7 @@ def bravo_cafe():
     C. Our Deliveries:
     - We offer the best and quickest kind of deliveries using our delivery vans \ 
     around livingstone.
-    - Delivery line: 0771 023 899. 
+    - Delivery line: 0771 023 899 or 0978 833 685. 
 
     D. Photo Gallery:
     Below are some photos for Bravo Cafe's food:
@@ -1781,20 +1909,19 @@ def flavours_pub():
     -Below is our food or restaurant menu:
 
     I. Hot Beverages:
-    - Masala Tea: K40
-    - Regular Coffee: K30
-    - Milo/Hot Chocolate: K40
-    - Cappucino: K40
-    - Cafe Latte: K40
-    - Creamocino: K40
-    - Roibos, Five Roses: K30
+    - Masala Tea: K45
+    - Regular Coffee: K35
+    - Milo/Hot Chocolate: K45
+    - Cappucino: K45
+    - Cafe Latte: K45
+    - Creamocino: K45
+    - Roibos, Five Roses: K35
 
     II. Breakfast:
-    - Cafe Breakfast: K105
-    - Mega Breakfast: K105
-    - Executive Breakfast: K105
-    - Farmers Breakfast: K105
-    - Sunrise Breakfast: K70
+    - Cafe Breakfast: K120
+    - Mega Breakfast: K120
+    - Executive Breakfast: K120
+    - Farmers Breakfast: K120
 
     III. Drinks:
     - Mineral Water (500mls): K10
@@ -1807,69 +1934,74 @@ def flavours_pub():
     - Disposable Coke (500mls): K15
 
     IV. Traditional Food:
-    - Village Chicken stew: K125
+    - Village Chicken stew: K135
     -Charcoal Grill Fish: K115
-    - Goat stew: K95
-    - Beef shew: K85
-    - Game meat: K140
-    - Oxtail: K100
-    - Kapenta: K70
+    - Goat stew: K105
+    - Beef shew: K95
+    - Game meat: K150
+    - Oxtail: K110
+    - Kapenta: K80
 
     V. Samoosa:
-    - Chicken samoosa: K60
-    - Vegetable samoosa: K55
+    - Chicken samoosa: K65
+    - Beef Samoosa: K70
+    - Vegetable samoosa: K60
 
     VI. Sandwiches:
-    - Chicken and Mayonnaise: K80
-    - Tuna Sandwich: K90
+    - Chicken and Mayonnaise: K95
+    - Tuna Sandwich: K100
 
     VII. Desserts:
-    - Milkshake: K55
-    - Ice Cream: K40
+    - Milkshake: K75
+    - Ice Cream: K45
+    - waffles: K50
 
     VIII. Main Course Burgers:
-    - Beef Burger: K95
-    - Chicken Burger: K90
-    - Vegetable Burger: K90
-    - Cheese Burger: K100
+    - Beef Burger: K105
+    - Chicken Burger: K105
+    - Vegetable Burger: K100
+    - Cheese Burger: K110
 
 
     IX. Main Course Meals:
-    - Dreamlight T-Bone steak 350g: K140
-    - Beef Fillet steak 350g: K135
-    - Rump steak 350g: K130
-    - Lamb chops 3PCs: K145
-    - Carribean Pork chops: K135
-    - Buffalo wings: K105
+    - Dreamlight T-Bone steak 350g: K150
+    - Beef Fillet steak 350g: K145
+    - Rump steak 350g: K140
+    - Lamb chops 3PCs: K155
+    - Carribean Pork chops: K145
+    - Buffalo wings: K115
+    - quarter chicken: K95
+    - half chicken: K145
 
     X. Sausage:
     - Boerewars sausage and chips: K85
-    - Hungarian sausage and chips: K70
+    - Hungarian sausage and chips: K80
+    - Beef sausage and chips: K95
 
     XI. Platter:
-    - platter for 2: K270
-    - Platter for 3: K320
-    - Platter for 4: K400
-    - Platter for 6: K600
-    - Family Platter: K900
+    - platter for 2: K280
+    - Platter for 3: K330
+    - Platter for 4: K410
+    - Platter for 6: K610
+    - Family Platter: K910
 
     XII. Pasta/Noodles:
     - Chicken Fried Noodles: K80
     - Beef Fried Noodles: K85
 
     XIII. Special Pizza:
-    - Mini Pizza (all flavour): K90
-    - Meat Feast: K130
-    - Mexican Pizza: K150
-    - Chicken Tikka: K150
-    - Chicken Mushroom: K125
-    - Vegetable Pizza: K115
-    - Hawaiian Chicken Pizza: K115
+    - Mini Pizza (all flavour): K95
+    - Meat Feast: K140
+    - Mexican Pizza: K160
+    - Chicken Tikka: K160
+    - Chicken Mushroom: K135
+    - Vegetable Pizza: K125
+    - Hawaiian Chicken Pizza: K125
 
     XIV. Salads:
-    - Greek Salad: K55
-    - chicken ceaser salad: K80
-    - Crocodile strip salad: K105
+    - Greek Salad: K60
+    - chicken ceaser salad: K95
+    - Crocodile strip salad: K115
 
     XV. Snacks:
     - Chicken wing: K70
@@ -1902,12 +2034,13 @@ def flavours_pub():
     - Chicken Tikka Masala: K150
 
     XX. Naan/Rotis:
-    - Butter Naan: K35
-    - Garlic Naan: K40
-    - Chilli Naan: K35
+    - Butter Naan: K40
+    - Garlic Naan: K45
+    - Chilli Naan: K40
+
     XXI. Wraps menu:
-    - chicken wrap: K90
-    - Beef wrap: K95
+    - chicken wrap: K95
+    - Beef wrap: K100
 
     XXII. Bar Menu:
     A. LAGERS:

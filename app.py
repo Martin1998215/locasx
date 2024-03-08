@@ -18,6 +18,8 @@ from langchain.memory import ConversationBufferMemory
 
 os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
+
+
 sf_account = st.secrets["sf_account"]
 sf_user = st.secrets["sf_user"]
 sf_password = st.secrets["sf_password"]
@@ -1918,9 +1920,9 @@ def flavours_pub():
     - Roibos, Five Roses: K35
 
     II. Breakfast:
-    - Cafe Breakfast: K120
-    - Mega Breakfast: K120
-    - Executive Breakfast: K120
+    - Full English Breakfast: K145
+    - Mega Breakfast: K165
+    - Executive Breakfast: K185
     - Farmers Breakfast: K120
 
     III. Drinks:
@@ -1935,12 +1937,12 @@ def flavours_pub():
 
     IV. Traditional Food:
     - Village Chicken stew: K135
-    -Charcoal Grill Fish: K115
-    - Goat stew: K105
-    - Beef shew: K95
-    - Game meat: K150
-    - Oxtail: K110
-    - Kapenta: K80
+    -Charcoal Grill Fish: K140
+    - Goat stew: K130
+    - Beef shew: K120
+    - Game meat: K180
+    - Oxtail: K150
+    - Kapenta: K95
 
     V. Samoosa:
     - Chicken samoosa: K65
@@ -1949,7 +1951,7 @@ def flavours_pub():
 
     VI. Sandwiches:
     - Chicken and Mayonnaise: K95
-    - Tuna Sandwich: K100
+    - Tuna Sandwich: K115
 
     VII. Desserts:
     - Milkshake: K75
@@ -1957,21 +1959,22 @@ def flavours_pub():
     - waffles: K50
 
     VIII. Main Course Burgers:
-    - Beef Burger: K105
-    - Chicken Burger: K105
-    - Vegetable Burger: K100
-    - Cheese Burger: K110
+    - Beef Burger: K135
+    - Chicken Burger: K185
+    - Vegetable Burger: K115
+    - Cheese Burger: K145
 
 
     IX. Main Course Meals:
-    - Dreamlight T-Bone steak 350g: K150
-    - Beef Fillet steak 350g: K145
-    - Rump steak 350g: K140
+    - Dreamlight T-Bone steak 350g: K165
+    - Beef Fillet steak 350g: K170
+    - Rump steak 350g: K160
     - Lamb chops 3PCs: K155
     - Carribean Pork chops: K145
     - Buffalo wings: K115
-    - quarter chicken: K95
-    - half chicken: K145
+    - quarter peri peri chicken: K95
+    - half peri peri chicken: K175
+    - Full Portuguese Chicken: K280
 
     X. Sausage:
     - Boerewars sausage and chips: K85
@@ -1979,11 +1982,18 @@ def flavours_pub():
     - Beef sausage and chips: K95
 
     XI. Platter:
-    - platter for 2: K280
-    - Platter for 3: K330
-    - Platter for 4: K410
-    - Platter for 6: K610
-    - Family Platter: K910
+    a. Platter for 3: K350:
+    - These include: 4 slices pizza, 4 samoosas, 4 cocktail sausages or ramp steak, \ 
+    8 onion rings, 4 drumstick or wings, green salad, 4 pieces hungarian sausage, chips.
+    b. Platter for 4: K445:
+    - These include: 5 slices pizza, 5 samoosas, 5 cocktail sausages or ramp steak, \ 
+    12 onion rings, 7 drumstick or wings, green salad, 7 pieces hungarian sausage, chips.
+    c. Platter for 6: K680:
+    - These include: 7 slices pizza, 7 samoosas, 7 cocktail sausages or ramp steak, \ 
+    15 onion rings, 7 drumstick or wings, green salad, 7 pieces hungarian sausage, chips.
+    d. Family Platter: K950:
+    - These include: Potato wedges, 1 large pizza, 12 samoosas, small chicken, beef kababes, \ 
+    green salad, 18 onion rings, 12 pieces hungarian sausage.
 
     XII. Pasta/Noodles:
     - Chicken Fried Noodles: K80
@@ -1992,11 +2002,11 @@ def flavours_pub():
     XIII. Special Pizza:
     - Mini Pizza (all flavour): K95
     - Meat Feast: K140
-    - Mexican Pizza: K160
-    - Chicken Tikka: K160
+    - Mexican Pizza: K185
+    - Chicken Tikka: K195
     - Chicken Mushroom: K135
     - Vegetable Pizza: K125
-    - Hawaiian Chicken Pizza: K125
+    - Hawaiian Chicken Pizza: K130
 
     XIV. Salads:
     - Greek Salad: K60
@@ -2023,10 +2033,10 @@ def flavours_pub():
     - Home made mushroom soup: K60
 
     XIX. Non Vegetable Main Course: 
-    - Plain Rice: K30
-    - Jeera Rice: K60
+    - Plain Rice: K45
+    - Jeera Rice: K85
     - Vegetable Pilau: K40
-    - Egg Fried Rice: K60
+    - Egg Fried Rice: K120
     - Vegetable Biry Ani: K100
     - Chicken Biry Ani: K115
     - Butter Chicken: K150
@@ -2034,13 +2044,13 @@ def flavours_pub():
     - Chicken Tikka Masala: K150
 
     XX. Naan/Rotis:
-    - Butter Naan: K40
-    - Garlic Naan: K45
-    - Chilli Naan: K40
+    - Butter Naan: K30
+    - Garlic Naan: K30
+    - Chilli Naan: K30
 
     XXI. Wraps menu:
     - chicken wrap: K95
-    - Beef wrap: K100
+    - Beef wrap: K105
 
     XXII. Bar Menu:
     A. LAGERS:

@@ -19,7 +19,6 @@ from langchain.memory import ConversationBufferMemory
 os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
 
-
 sf_account = st.secrets["sf_account"]
 sf_user = st.secrets["sf_user"]
 sf_password = st.secrets["sf_password"]
@@ -257,7 +256,12 @@ F. Location for Bravo Restaurant and Cafe:
 2. Name of the lodge: Livingstone lodge
 
 - Livingstone Lodge is a Lodge. It has a Restaurant that serves food.
+andard Twin: K430
+- Deluxe Suite: K1,000
 
+B. Conference Room:
+
+- Confere
 About Livingstone Lodge:
 
 - Livingstone Lodge is of the Lodge with a total of 11 Self contained rooms, \ 
@@ -283,12 +287,14 @@ We cater for conferences, seminars and workshops for up to 80 \
 people  with a large conference halls and meeting rooms. \ 
 - Note: our conference facilities have WIFI included.
 - Below are the prices or charges of our conference room:
+
 i. Full conference package per person (with stationary) per person: K390
 ii. Full conference package per person (without stationary): K340
 iii. Half day conference package: K750
 iv. Conference venue only (50 pax max): K2500
 v. Outside Venue: K2000
 vi. Venue for worshops: K1500
+
 
 C. Restaurant:
 we have food and beverages. below is a list of our menu:
@@ -1510,9 +1516,9 @@ def livingstone_lodge():
     All our rooms are self contained with Dstv, free Wi Fi and \ 
     a continental breakfast. it has a total of 11 Self contained rooms. \ 
 
-    - Executive Double: K350
-    - Executive Twin: K400
-    - Standard Twin: K370
+    - Executive Double: K400
+    - Executive Twin: K450
+    - Standard Twin: K430
     - Deluxe Suite: K1,000
 
 
@@ -1524,22 +1530,25 @@ def livingstone_lodge():
     people  with a large conference halls and meeting rooms. \ 
     - Note: our conference facilities have WIFI included.
     - Below are the prices or charges of our conference room:
-    i. Full conference package per person (with stationary) per person: K340
-    ii. Full conference package per person (without stationary): K286
-    iii. Half day conference package: K250
+
+    i. Full conference package per person (with stationary) per person: K390
+    ii. Full conference package per person (without stationary): K340
+    iii. Half day conference package: K750
     iv. Conference venue only (50 pax max): K2500
     v. Outside Venue: K2000
     vi. Venue for worshops: K1500
 
     C. Restaurant:
     we have food and beverages. below is a list of our menu:
-    - Tea and snack person: K65
-    - Lunch or Dinner (Buffet) with choice of starter or desert: K130
-    - Lunch or Dinner (Buffet) Complete: K180
-    - Cocktail snacks: K90
-    - Full English Breakfast: K60
+    - Tea and snack person: K80
+    - Lunch or Dinner (Buffet) with choice of starter or desert: K150
+    - Lunch or Dinner (Buffet) Complete: K200
+    - Cocktail snacks: K100
+    - Full English Breakfast: K80
     - Soft Drinks (300mls): K10
-    - Mineral water (500mls): K8
+    - Mineral water (500mls): K10
+
+
 
     D. Bar: 
     - our cocktail Bar offers some drinks and different kinds of beers.

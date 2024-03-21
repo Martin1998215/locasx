@@ -16,6 +16,7 @@ from langchain.schema import BaseOutputParser
 from langchain.memory import ConversationBufferMemory
 
 
+
 os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
 
@@ -28,8 +29,8 @@ sf_schema = st.secrets["sf_schema"]
 
 table_name = "USER_DATA.PUBLIC.USER_TABLE"
 service_table_name = "USER_DATA.PUBLIC.SERVICE_TABLE"
-feedback_name = "USER_DATA.PUBLIC.MYFEEDBACK_TABLE"
-
+order_name = "USER_DATA.PUBLIC.ORDER_TABLE"
+book_name = "USER_DATA.PUBLIC.BOOK_TABLE"
 
 # openai.api_key = 
 
@@ -2476,14 +2477,14 @@ st.sidebar.markdown("<div style='text-align: center; color: blue;'>Powered By Lo
 
 st.markdown("<h2 style='text-align: center; color: gray;'>Quest2Query</h2>", unsafe_allow_html=True)
 
-for_you, my_explore, feedback, about_us  = st.tabs(["For You", "Explore Assistant","Feedback","About Us"])
+for_you, ordering, booking, about_us  = st.tabs(["For You", "Order Items","Booking","About Us"])
 
-with feedback:
+with ordering:
 
     st.markdown("""
-    <h5 style="color:gray; text-align: center; padding-top: 20px;">Feedback</h5>
-    <div>Give us your thoughts on the performance of our AI Assistant, Quest2Query.</div>
-    <div>Your feedback helps us improve it</div>
+    <h5 style="color:gray; text-align: center; padding-top: 20px;">Make Your Orders</h5>
+    <div style="text-align:center;">Order Food from your favourite restaurant or cafe.</div>
+    <div style="text-align:center;">Orders havent been made easier with Quest2Query</div>
     
     """, unsafe_allow_html=True)
 
@@ -2491,11 +2492,13 @@ with feedback:
 
     name = st.text_input("Enter Your Name")
     contact = st.text_input("Enter Your Contact Number")
-    feedback = st.text_area("Give your comment...", max_chars=100)
+    items = st.text_area("Enter Items You want to order", max_chars=100)
+    business = st.text_input("Enter Restaurant or Cafe")
+    delivery = st.selectbox("Do You want it Delivered", ["No","Yes"])
 
-    if st.button("Send Comment"):
+    if st.button("Place Order"):
 
-        if name and contact and feedback:
+        if name and contact and items and business and delivery:
 
             conn = snowflake.connector.connect(
                 user=sf_user,
@@ -2509,13 +2512,14 @@ with feedback:
                     
             current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
 
-            query = f"INSERT INTO {feedback_name} (NAME,CONTACT,FEEDBACK,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s)"
+            query = f"INSERT INTO {order_name} (NAME,CONTACT,ITEMS,BUSINESS,DELIVERY,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s,%s,%s)"
 
             try:
-                cursor.execute(query, (name,contact,feedback,current_time,))
+                cursor.execute(query, (name,contact,items,business,delivery,current_time,))
                 conn.commit()
                 st.success("""
-                Comment Sent Successfully!
+                Your Order has been made Successfully!
+                You will be notified when it is ready.
                 Thank You!
                 """)
             except Exception as e:
@@ -2528,7 +2532,62 @@ with feedback:
         else:
 
             mytxt = st.chat_message("assistant")
-            mytxt.write("Kindly Fill All the Input fields!!!")
+            mytxt.write("Kindly Fill All the form fields!!!")
+
+with booking:
+
+    st.markdown("""
+    <h5 style="color:gray; text-align: center; padding-top: 20px;">For Bookings</h5>
+    <div style="text-align:center;">Reserve Your Accommodation for booking.</div>
+    <div style="text-align:center;">Booking hasn't been easier with Quest2Query</div>
+    
+    """, unsafe_allow_html=True)
+
+    st.write("---")
+
+    name = st.text_input("Enter Your Names")
+    contact = st.text_input("Enter Contact Number")
+    description = st.text_area("Give a brief description for your booking e.g room type", max_chars=100)
+    business = st.text_input("Enter Lodge or Hotel")
+    period = st.text_input("Period for your stay")
+
+    if st.button("Place Your Booking"):
+
+        if name and contact and description and business and period:
+
+            conn = snowflake.connector.connect(
+                user=sf_user,
+                password=sf_password,
+                account=sf_account,
+                database=sf_database,
+                schema=sf_schema
+            )
+
+            cursor = conn.cursor()
+                    
+            current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
+
+            query = f"INSERT INTO {book_name} (NAME,CONTACT,DESCRIPTION,BUSINESS,PERIOD,MY_CURRENT_TIME) VALUES (%s,%s,%s,%s,%s,%s)"
+
+            try:
+                cursor.execute(query, (name,contact,description,business,period,current_time,))
+                conn.commit()
+                st.success("""
+                Your Booking has been made Successfully!
+                You will be notified when it is ready.
+                Thank You!
+                """)
+            except Exception as e:
+                st.error(f"Error sending data to Database: {e}")
+            finally:
+                cursor.close()
+                conn.close()
+
+
+        else:
+
+            mytxt = st.chat_message("assistant")
+            mytxt.write("Kindly Fill All the form fields!!!")
 
 
 with about_us:
@@ -4172,195 +4231,3 @@ with for_you:
                 mytxt.write("Please Enter Your Question....")
 
 
-with my_explore:
-
-    st.markdown('''
-    <div>
-    <div style="border: 0.3px solid gray; padding: 5px; border-radius: 10px; margin: 5px 0px;">
-    <p><b>Access Menus for Restaurants</b><br>
-    <i>- Show me a menu for flavours? or Bravo Cafe or Sweet & Salty Cafe? (Lodges inclusive)</i></p>
-    </div>
-    <div style="border: 0.3px solid gray; padding: 5px; border-radius: 10px; margin: 5px 0px;">
-    <p><b>Access Room rates or Conference or restaurant menus for Lodges</b><br>
-    <i>- Room rates for Livingstone Lodge? Chapa Classic Lodge? and More...</i></p>
-    </div>
-    <div style="border: 0.3px solid gray; padding: 5px; border-radius: 10px; margin: 5px 0px;">
-    <p><b>Plan Trips or Date outings at your favourite Restaurants</b><br>
-    <i>- Make me a budget from bravo cafe within K200 for the following: 
-    4 cold beverages, a large pizza and 2 con ice creams. also compare for kubu cafe and flavours</i><br>
-    <i>- I will be travelling to livingstone. recommend for me some cheap accommodation and how much they cost</i></p>
-    </div>
-    </div>
-    ''', unsafe_allow_html=True)  
-
-    st.write("---")  
-
-    txt = st.text_input("How may we assist you, our customer?", max_chars=300)
-
-    user_message = f""" {txt} """
-
-    # prompt = f"""
-    # System Message: {system_message}
-    # Customer Query: {user_message}
-    # """
-
-    prompt_template = f"""
-    Answer the question based on the contexts below. 
-
-    {delimiter}
-
-    Contexts: {{system_message}}
-
-    {delimiter}
-
-    Question:{{user_message}}
-
-    Answer:"""
-
-
-    my_prompt = ChatPromptTemplate.from_template(prompt_template)
-
-
-    customer_messages = my_prompt.format_messages(
-        system_message= system_message,
-        user_message= user_message
-    )
-
-
-    chat_model = ChatOpenAI(temperature=0, model=model)
-
-
-    if st.button("Send"):
-
-        if txt:
-
-            loading_message = st.empty()
-            loading_message.text("Loading... Please wait!")
-
-            response = chat_model(customer_messages)
-
-            res = response.content
-
-            final_response = res.split(delimiter)[-1].strip()
-
-            mytxt = st.chat_message("assistant")
-            mytxt.write(final_response)
-
-            conn = snowflake.connector.connect(
-            user=sf_user,
-            password=sf_password,
-            account=sf_account,
-            database=sf_database,
-            schema=sf_schema
-            )
-
-            cursor = conn.cursor()
-                
-            
-            current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
-
-            query = f"INSERT INTO {table_name} (PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s)"
-
-            try:
-                cursor.execute(query, (txt,final_response,current_time,))
-                conn.commit()
-            except Exception as e:
-                st.error(f"Error sending data to Database: {e}")
-            finally:
-                cursor.close()
-                conn.close()
-
-
-
-        else:
-
-            mytxt = st.chat_message("assistant")
-            mytxt.write("Please Enter Your Question....")
-
-    #     final_response = response.split(delimiter)[-1].strip()
-    #     res_word = len(re.findall(r'\w+', final_response))
-    #     user_text = st.chat_message("user")
-    #     user_text.write(txt)
-
-
-
-    #     else:
-    #         mytxt = st.chat_message("assistant")
-    #         # mytxt.session_state.generated.append(final_response)
-    #         mytxt.write(final_response)
-    #         loading_message.text("")
-
-
-    #         conn = snowflake.connector.connect(
-    #             user=sf_user,
-    #             password=sf_password,
-    #             account=sf_account,
-    #             database=sf_database,
-    #             schema=sf_schema
-    #             )
-
-    #         cursor = conn.cursor()
-                
-            
-    #         current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
-
-    #         query = f"INSERT INTO {table_name} (PROMPT,RESPONSE,MY_CURRENT_TIME) VALUES (%s,%s,%s)"
-
-    #         try:
-    #             cursor.execute(query, (txt,final_response,current_time,))
-    #             conn.commit()
-    #         except Exception as e:
-    #             st.error(f"Error sending data to Database: {e}")
-    #         finally:
-    #             cursor.close()
-    #             conn.close()
-
-
-
-        # res_word = len(re.findall(r'\w+', final_response))
-        # st.write('Number of Words :', res_word)
-        # st.write("Number of Tokens in System Message", token_dict['prompt_tokens'])
-
-
-    # st.write("### Comment")
-    # st.write("How would you like us improve our platform? Leave a comment below")
-
-    # user_name = st.text_input("Your Name", placeholder="Write your name")
-    # user_comment = st.text_area("Your Comment")
-
-    # if st.button("Send"):
-    #     if user_name and user_comment:
-
-    #         # 3. Create the Streamlit app
-    #         conn = snowflake.connector.connect(
-    #             user=sf_user,
-    #             password=sf_password,
-    #             account=sf_account,
-    #             database=sf_database,
-    #             schema=sf_schema
-    #         )
-
-    #         cursor = conn.cursor()
-            
-    #         # Assuming your Snowflake table has a single column called 'data_column'
-    #         # You can adjust the query below based on your table structure.
-    #         query = f"INSERT INTO {feedback_name} (USER_NAME,USER_COMMENT) VALUES (%s,%s)"
-
-    #         try:
-    #             cursor.execute(query, (user_name,user_comment,))
-    #             conn.commit()
-    #             st.success("""
-    #             Comment Sent Successfully!
-    #             Thank You!
-    #             """)
-    #         except Exception as e:
-    #             st.error(f"Error sending data to Snowflake: {e}")
-    #         finally:
-    #             cursor.close()
-    #             conn.close()
-
-    #     else:
-
-    #         st.write("Enter Your Name and Comment...")
-
-    # com.html("")

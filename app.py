@@ -16,9 +16,7 @@ from langchain.schema import BaseOutputParser
 from langchain.memory import ConversationBufferMemory
 
 
-
 os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
-
 
 sf_account = st.secrets["sf_account"]
 sf_user = st.secrets["sf_user"]
@@ -1327,22 +1325,30 @@ def bravo_cafe():
 
     I. Pizza for Bravo Restaurant:
     A. Large Pizza:
-    - Tikka Chicken large: K145
-    - Chicken Mushroom large: K149.99
-    - Macon Chicken BBQ Large: K159
+    - Peri Peri Chicken: K140
+    - Tikka Chicken: K145
+    - All Round Meat: K175
+    - Chicken Mushroom: K157
+    - BBQ Steak: K150
+    - Macon Chicken BBQ: K159
+    - Veggie Natural: K125
+    - Pepperoni plus: K125
 
     B. Medium Pizza:
-    - Tikka Chicken medium: K99
-    - Chicken Mushroom Medium: K105
-    - All Round Meat Medium: K115
-    - Pepperoni plus Medium: K95
-    - Veggie Natural Medium: K78
+    - Peri Peri Chicken: K90
+    - Tikka Chicken: K99
+    - Chicken Mushroom: K105
+    - All Round Meat: K115
+    - Pepperoni plus: K95
+    - Veggie Natural: K78
 
     C. Regular Pizza:
-    - Peri Peri Chicken Regular: K65
-    - Chicken Mushroom Regular: K89
-    - Pepperoni Plus Regular: K80
-    - Tikka Chicken BB regular: K50
+    - Peri Peri Chicken: K65
+    - Chicken Mushroom: K89
+    - Pepperoni Plus: K80
+    - Tikka Chicken: K75
+    - All Round Meat: K65
+    - Veggie Natural: K69
 
     II. Chicken Combo for Bravo Restaurant:
     - Chicken Wraps: K38
@@ -1352,10 +1358,13 @@ def bravo_cafe():
     - Mini Sausage Roll: K21
 
     III. Nshima for Bravo Restaurant:
+    - Nshima with Stew: K89
     - Xtra Chicken Curry: K20
     - Nshima With Fresh Fish: K110
     - Nshima With T-Bone: K125
     - Bravo Rice & Veg: K20
+    - Bravo Rice and Beef Stew: K70
+    - Bravo Rice quarter chicken: K95
     - Nshima + quarter Chicken: K105
     - Plain Nshima: K10
 
@@ -1366,39 +1375,42 @@ def bravo_cafe():
     - Coleslaw Salad: K13
 
     V. Burgers for Bravo Restaurant:
+    - Cheese Burger and Chips: K80
     - Beef Burger: K39
     - Chicken Burger: K34
     - Chicken Burger: K50
 
     VI. Grills for Bravo Restaurant:
     - 1 Piece + Chips: K45
-    - Grilled Wings with Chips: K45
-    - Quarter Chicken + Chips: K95
-    - Shawarma Special: K39.99
-    - Shawarma Ordinary: K35
-    - Fish and Chips: K95
-    - T Bone + chips: K109
+    - Grilled Wings with Chips: K150
+    - Quarter Chicken + Chips: K110
+    - Shawarma Special: K47
+    - Fish and Chips: K105
+    - Plain Fish: K75
+    - Plain T Bone: K85
+    - T Bone and chips: K110
     - Grilled Piece Chicken: K25
     - Grilled Piece + chips: K45
     - Sausage and chips: K60
     - Plain Quarter Chicken: K75
+    - Fried Hungarian Sausage: K35
 
 
     VII. Ice Cream for Bravo Restaurant:
-    - Regular Cone Plain: K7.99
-    - Large Cone Plain: K11.99
-    - Large cup plain: K25
-    - Ice Cream Cone: K12
-    - Ice cream Cup (large): K25
-    - Ice Cream Cup (small): K18
+    - Regular Cone Plain: K12
+    _ Regular Cup Plain: K18
+    - Large Cone Plain: K18
+    - Large cup plain: K30
+
 
     VIII. Milkshakes for Bravo Restaurant:
     A. Regular Milkshakes:
     - Straw Reg Milkshake: K40
 
     B. Large Milkshakes:
-    - Strawberry Large Milkshake: K45
-    - Vanilla Large Milkshake: K45
+    - Strawberry Large Milkshake: K55
+    - Vanilla Large Milkshake: K55
+    - Mango Large Milkshake: K55
 
     IX. Fruit Drinks for Bravo Restaurant:
     - Appy Appel 500Ml Pet: K15
@@ -1441,7 +1453,15 @@ def bravo_cafe():
     - Bravo Carrier Bag - Rest: K3
     - Unbranded Carrier Bags: K1
 
-
+    XV. Fresh Fried Chicken:#
+    - 1 Piece: K30
+    - 2 Pieces: K60
+    - 3 Pieces: K90
+    - 4 Pieces: K120
+    - 3 Pieces Chips dinnerbox: K150
+    - Chicken wraps: K38
+    - 1 piece regular chips: K50
+    - 2 Piece Medium chips: K89
 
     2. Bravo Cafe Menu:
     - Hot Chocolate: K35
@@ -2477,7 +2497,7 @@ st.sidebar.markdown("<div style='text-align: center; color: blue;'>Powered By Lo
 
 st.markdown("<h2 style='text-align: center; color: gray;'>Quest2Query</h2>", unsafe_allow_html=True)
 
-for_you, ordering, booking, about_us  = st.tabs(["For You", "Order Items","Booking","About Us"])
+for_you, ordering, booking, about_us  = st.tabs(["For You", "Order Here","Booking","About Us"])
 
 with ordering:
 

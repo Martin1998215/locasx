@@ -1378,7 +1378,6 @@ def bravo_cafe():
     - Cheese Burger and Chips: K80
     - Beef Burger: K39
     - Chicken Burger: K34
-    - Chicken Burger: K50
 
     VI. Grills for Bravo Restaurant:
     - 1 Piece + Chips: K45
